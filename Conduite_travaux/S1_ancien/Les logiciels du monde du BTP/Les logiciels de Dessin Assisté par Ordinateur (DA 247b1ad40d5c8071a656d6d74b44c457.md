@@ -14,7 +14,7 @@ Créé en décembre 1982 par Autodesk, **AutoCAD** constitue le logiciel de réf
 
 <p>&nbsp;</p>
 
-![image.png](Les%20logiciels%20de%20Dessin%20Assist%C3%A9%20par%20Ordinateur%20(DA/image.png)
+![image.png](Les%20logiciels%20de%20Dessin%20Assist%C3%A9%20par%20Ordinateur%20(DA%20247b1ad40d5c8071a656d6d74b44c457/image.png)
 
 <p>&nbsp;</p>
 
@@ -63,7 +63,7 @@ De manière générale, **AutoCAD** reste un outil largement employé par les **
 
 <p>&nbsp;</p>
 
-![image.png](Les%20logiciels%20de%20Dessin%20Assist%C3%A9%20par%20Ordinateur%20(DA/image%201.png)
+![image.png](Les%20logiciels%20de%20Dessin%20Assist%C3%A9%20par%20Ordinateur%20(DA%20247b1ad40d5c8071a656d6d74b44c457/image%201.png)
 
 *L’interface de Revit*
 
@@ -89,7 +89,7 @@ Pour simplifier la compréhension, on peut comparer **AutoCAD** à **Microsoft E
 
 <p>&nbsp;</p>
 
-![image.png](Les%20logiciels%20de%20Dessin%20Assist%C3%A9%20par%20Ordinateur%20(DA/image%202.png)
+![image.png](Les%20logiciels%20de%20Dessin%20Assist%C3%A9%20par%20Ordinateur%20(DA%20247b1ad40d5c8071a656d6d74b44c457/image%202.png)
 
 *Exemple d’un mur rideau sur Revit*
 
@@ -101,7 +101,7 @@ Prenons l’exemple d’un **mur** : dans **AutoCAD**, il faut tracer plusieurs 
 
 <p>&nbsp;</p>
 
-![image.png](Les%20logiciels%20de%20Dessin%20Assist%C3%A9%20par%20Ordinateur%20(DA/image%203.png)
+![image.png](Les%20logiciels%20de%20Dessin%20Assist%C3%A9%20par%20Ordinateur%20(DA%20247b1ad40d5c8071a656d6d74b44c457/image%203.png)
 
 *Composition d’un mur sur Revit*
 
