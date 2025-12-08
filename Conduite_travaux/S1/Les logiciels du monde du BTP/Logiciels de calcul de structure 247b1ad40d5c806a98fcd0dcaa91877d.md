@@ -38,7 +38,7 @@ Ce programme réalise **l’analyse des charges structurelles**, contrôle la **
 
 <p>&nbsp;</p>
 
-![image.png](Logiciels%20de%20calcul%20de%20structure/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Les%20logiciels%20du%20monde%20du%20BTP/Logiciels%20de%20calcul%20de%20structure/image.png)
 
 ---
 
@@ -52,7 +52,7 @@ Ce logiciel de calcul de **nouvelle génération** est performant pour **les con
 
 <p>&nbsp;</p>
 
-![image.png](Logiciels%20de%20calcul%20de%20structure/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Les%20logiciels%20du%20monde%20du%20BTP/Logiciels%20de%20calcul%20de%20structure/image%201.png)
 
 <p>&nbsp;</p>
 
@@ -64,7 +64,7 @@ Conçu pour le calcul des **bâtiments en béton armé**, ce programme est large
 
 <p>&nbsp;</p>
 
-![image.png](Logiciels%20de%20calcul%20de%20structure/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Les%20logiciels%20du%20monde%20du%20BTP/Logiciels%20de%20calcul%20de%20structure/image%202.png)
 
 <p>&nbsp;</p>
 
@@ -76,7 +76,7 @@ Développés par **Computers and Structures Inc**, ces outils assurent **l’ana
 
 <p>&nbsp;</p>
 
-![image.png](Logiciels%20de%20calcul%20de%20structure/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Les%20logiciels%20du%20monde%20du%20BTP/Logiciels%20de%20calcul%20de%20structure/image%203.png)
 
 <p>&nbsp;</p>
 
@@ -84,7 +84,7 @@ Développés par **Computers and Structures Inc**, ces outils assurent **l’ana
 
 <p>&nbsp;</p>
 
-![image.png](Logiciels%20de%20calcul%20de%20structure/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Les%20logiciels%20du%20monde%20du%20BTP/Logiciels%20de%20calcul%20de%20structure/image%204.png)
 
 <p>&nbsp;</p>
 
