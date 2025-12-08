@@ -14,7 +14,8 @@ Créé en décembre 1982 par Autodesk, **AutoCAD** constitue le logiciel de réf
 
 <p>&nbsp;</p>
 
-![image.png](Les%20logiciels%20de%20Dessin%20Assist%C3%A9%20par%20Ordinateur%20(DA/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Les%20logiciels%20du%20monde%20du%20BTP/Les%20logiciels%20de%20Dessin%20Assist%C3%A9%20par%20Ordinateur%20(DA/image.png)
+
 
 <p>&nbsp;</p>
 

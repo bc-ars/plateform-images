@@ -34,7 +34,7 @@ En maîtrisant ce panorama, vous disposez désormais d’une **vision claire du 
 
 *Cette vidéo illustre parfaitement les concepts étudiés dans ce cours et vous permettra de comprendre comment, dans la pratique, les professionnels du BTP mettent en œuvre les principes que nous avons abordés.*
 
-<p>&nbsp;</p>*
+<p>&nbsp;</p>
 
 <p>&nbsp;</p>
 

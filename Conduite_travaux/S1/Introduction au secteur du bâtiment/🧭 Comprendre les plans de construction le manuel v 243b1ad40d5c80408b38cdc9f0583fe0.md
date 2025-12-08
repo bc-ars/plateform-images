@@ -30,7 +30,9 @@ Les **plans de bâtiment** sont conçus sur **logiciels 2D/3D**, mais imprimés 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image.png)
+
+
 
 *Taille des supports pour impression de plans (CC BY-SA 3.0)*
 
@@ -54,7 +56,8 @@ De plus, les **plans** doivent être **orientés** grâce à une **flèche Nord*
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%201.png)
+
 
 *Exemple de rose des vents (CC BY-SA 3.0)*
 
@@ -74,7 +77,7 @@ Le **cartouche**, situé en **bas à droite**, contient :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%202.png)
 
 *Exemple de cartouche*
 
@@ -119,7 +122,7 @@ Des **conventions graphiques** existent pour transmettre les **informations tech
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%203.png)
 
 *Convention de représentation plans architecte (source: Edouard Denis Immobilier)*
 
@@ -129,7 +132,7 @@ Les **matériaux** sont identifiés par des **hachures** suivant des normes pré
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%204.png)
 
 *Convention de représentation matériaux (source: kawadessin.fr)*
 
@@ -141,8 +144,7 @@ Les **équipements**, **conduits** et **menuiseries** suivent également des **c
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/xVOMggmxcOVdCvjZnYwc3GZpRTR2JiWi7wjhMIQwckOxEjAIIER60bH0jwasAUtuIJWeRXg5ouD65U9t-8JWEmgznY0KwX4NDonqjTrP-mGdtMCvalOOuayTaCXoHNpSsGIjAgvTCqlbMEUg9ZjqMg)
-
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%205.png)
 ---
 
 <p>&nbsp;</p>
@@ -167,7 +169,7 @@ Elles sont disposées sur **4 lignes**, dans cet ordre:
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/_V6O15VTOVj5y3txV5eu5oSUck9waFq1doG-2x3viZJtB_0liEz_LzS69B3JW4Io9yPkWc3U1movW9H5qpU-W_rzqXxTXqNcDFyze2_eIGLzgOGZuYIjZohar0ZAg8rUUli_VmmdT6R_yRrbCuKxnQ)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%206.png)
 
 *Extrait plan - Cotation extérieure*
 
@@ -184,7 +186,7 @@ Elles précisent :
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/DmkO6j9Lcl3-TngfUGEAPeZ07lQ_aSRx4ii7EoPODqzVeAwt366BzJaURMTNl58XSrv--uA-miYpSEc1YEqMd5RlZet5Yuyak5f5qbn-t53pZRVS9EAsE3P8u2UCm8LKOemqNblnnsqzqpKXlMORhA)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%207.png)
 
 *Extrait plan - Cotation intérieure*
 
@@ -205,6 +207,8 @@ Elles définissent l’**altitude** des éléments par rapport à un **niveau de
 | **Quoi ?** | Niveaux de planchers finis | Niveaux de planchers finis | Tous niveaux caractéristiques |
 | **Exemple** |  | Sous-sol / RDC / étage | Fondations, dallage, terrain naturel, faîtage… |
 | **Nota** | Les cotations peuvent combiner **niveau projet** et **niveau NGF**, chaque cote étant rapportée aux deux références. |  |  |
+
+<p>&nbsp;</p>
 
 *Convention de représentation altimétrie sur plans*
 
@@ -241,9 +245,13 @@ Ces plans montrent la **structure porteuse**, sans les ouvrages secondaires. Ils
 | **Console** | C + numéro + section | C1 (20 x 30) |
 | **Dalle** | Lettre encerclée au centre de la diagonale |  |
 
-Un **plan de coffrage** prend le nom de l’**étage couvert** (ex. : **« Plancher haut du RDC »**).
+<p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/fxeE_Gktvfl1k6AxKO01vZG5CfvBWlAKjgyrVd_0droWmsm_Q-35Wz41xSYy54n0fm9bXl5f7OeM6mdMZx16XwsSrjxrk3kaNJKlVWAogidi6u4drsy8zxePmj92COy_MdBNMVbPw-yAvYr8vWxK2Q)
+Un **plan de coffrage** prend le nom de l’**étage couvert** (ex. : **« Plancher haut du RDC »**).
+<p>&nbsp;</p>
+
+
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%208.png)
 
  *Plans de coffrage - Représentation type éléments de structure*
 
@@ -277,7 +285,7 @@ Le **plan de ferraillage** précise le **type d’acier**, le **nombre de barres
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/RwCX0F8SdEMb3vyNQZnk2tK9Ui-wMTJickkHQj6kNHPCOGNpKJK1BiFqJyMmkzSEVxlESx2J_78BipYJ4U1cvkHmWjTtVnm6t4ZDJ_2lNLk2aQnV5eGI2xW_yerIuo_pg4FM29zmtdd7auLAeFSJSQ)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/%F0%9F%A7%AD%20Comprendre%20les%20plans%20de%20construction%20le%20manuel%20v/image%209.png)
 
 *Cotation en plan armature poutre*
 
@@ -356,17 +364,16 @@ Exemples d’**abréviations fréquentes** :
 | **Cotation des niveaux** | Altitudes par rapport au **niveau de référence** | + = au-dessus / – = en dessous du RDC ou niveau NGF |
 | **Plans techniques** | Détails pour l’exécution par lot | Coffrage = formes brutes ; Ferraillage = type d’acier, diamètre, espacement |
 | **Abréviations** | Connaître les codes les plus utilisés | HSP : hauteur sous plafond / PF : porte-fenêtre / VMC : ventilation mécanique contrôlée |
-|  |  |  |
+
 
 <p>&nbsp;</p>
 
 ## 🎥 Pour aller plus loin : Vidéo explicative sur le DCE
 
 <p>&nbsp;</p>
-👉 *Dans ce tutoriel canadien (assez proche des normes françaises) **« Comment lire un plan de construction pour les nuls »**, Simon Benoit vous guide pas à pas à travers les éléments clés des plans architecturaux : échelles, symboles, cotations et repères essentiels. Une excellente ressource pour démystifier l’univers des plans et apprendre à les déchiffrer en toute confiance.*
+👉 Dans ce tutoriel canadien (assez proche des normes françaises) **« Comment lire un plan de construction pour les nuls »**, Simon Benoit vous guide pas à pas à travers les éléments clés des plans architecturaux : échelles, symboles, cotations et repères essentiels. Une excellente ressource pour démystifier l’univers des plans et apprendre à les déchiffrer en toute confiance.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
 <p>&nbsp;</p>
 
 [https://www.youtube.com/watch?v=17vMRex8tDE](https://www.youtube.com/watch?v=17vMRex8tDE)
