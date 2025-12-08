@@ -2,7 +2,9 @@
 
 <p>&nbsp;</p>
 
-![image.png](Conducteur%20de%20Travaux%20entre%20technique,%20gestion%20et%20/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/Conducteur%20de%20Travaux%20entre%20technique%2C%20gestion%20et/image.png)
+
+
 
 <p>&nbsp;</p>
 

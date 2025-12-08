@@ -21,7 +21,9 @@ Enfin, nous conclurons sur l’importance de respecter les missions attribuées 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-![image.png](Acteurs%20de%20la%20construction/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/Acteurs%20de%20la%20construction/image.png)
+
+
 
 <p>&nbsp;</p>
 
@@ -129,7 +131,8 @@ Enfin, nous conclurons sur l’importance de respecter les missions attribuées 
 
 <p>&nbsp;</p>
 
-![image.png](Acteurs%20de%20la%20construction/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20b%C3%A2timent/Acteurs%20de%20la%20construction/image%201.png)
+
 
 <p>&nbsp;</p>
 
@@ -171,7 +174,7 @@ Enfin, la collaboration efficace entre entreprises de travaux et fournisseurs de
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-*.*
+
 
 ---
 

@@ -88,7 +88,7 @@ La réalisation d’un bâtiment se déroule en plusieurs étapes :
 
 <p>&nbsp;</p>
 
-![image.png](De%20l%E2%80%99id%C3%A9e%20au%20chantier%20comprendre%20le%20processus%20de%20c/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20bâtiment/De%20l%E2%80%99id%C3%A9e%20au%20chantier%20comprendre%20le%20processus%20de%20c/image.png)
 
 <p>&nbsp;</p>
 
@@ -175,7 +175,7 @@ L’**ordonnancement** et la durée des interventions varient selon le système 
 
 <p>&nbsp;</p>
 
-![image.png](De%20l%E2%80%99id%C3%A9e%20au%20chantier%20comprendre%20le%20processus%20de%20c/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/main/Conduite_travaux/S1/Introduction%20au%20secteur%20du%20bâtiment/De%20l%E2%80%99id%C3%A9e%20au%20chantier%20comprendre%20le%20processus%20de%20c/image%201.png)
 
 <p>&nbsp;</p>
 
