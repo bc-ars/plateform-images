@@ -61,7 +61,7 @@ Les **études EXE du lot gros œuvre** comprennent :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%90%20%C3%89tudes%20EXE%20la%20cl%C3%A9%20d%E2%80%99un%20chantier%20bien%20pr%C3%A9par%C3%A9/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%93%90%20%C3%89tudes%20EXE%20la%20cl%C3%A9%20d%E2%80%99un%20chantier%20bien%20pr%C3%A9par%C3%A9/image.png)
 
 *📷 Exemple : Coupe de structure (plans d’étages) (Source: abc-maconnerie.com)*
 
@@ -71,7 +71,7 @@ Les **études EXE du lot gros œuvre** comprennent :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%90%20%C3%89tudes%20EXE%20la%20cl%C3%A9%20d%E2%80%99un%20chantier%20bien%20pr%C3%A9par%C3%A9/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%93%90%20%C3%89tudes%20EXE%20la%20cl%C3%A9%20d%E2%80%99un%20chantier%20bien%20pr%C3%A9par%C3%A9/image%201.png)
 
 📷 Exemple : *Plan de ferraillage d’une semelle isolée (source:* [https://tetra-gc.weebly.com/ferraillage.html](https://tetra-gc.weebly.com/ferraillage.html))
 
@@ -93,7 +93,7 @@ Les **études EXE du lot gros œuvre** comprennent :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%90%20%C3%89tudes%20EXE%20la%20cl%C3%A9%20d%E2%80%99un%20chantier%20bien%20pr%C3%A9par%C3%A9/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%93%90%20%C3%89tudes%20EXE%20la%20cl%C3%A9%20d%E2%80%99un%20chantier%20bien%20pr%C3%A9par%C3%A9/image%202.png)
 
 📷 Exemple : *Plan de repérage d’un revêtement de sol (source: archifacile.fr)*
 
@@ -109,7 +109,7 @@ Les **études EXE du lot gros œuvre** comprennent :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%90%20%C3%89tudes%20EXE%20la%20cl%C3%A9%20d%E2%80%99un%20chantier%20bien%20pr%C3%A9par%C3%A9/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%93%90%20%C3%89tudes%20EXE%20la%20cl%C3%A9%20d%E2%80%99un%20chantier%20bien%20pr%C3%A9par%C3%A9/image%203.png)
 
 📷 Exemple : *Extrait de plan EXE CVC (source:* [https://cosym.fr/etudes-dexecution/](https://cosym.fr/etudes-dexecution/))
 

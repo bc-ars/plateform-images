@@ -28,7 +28,7 @@ On estime que **70 % des désordres** rencontrés sur un chantier proviennent d�
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Pr%C3%A9paration%20de%20chantier%20la%20cl%C3%A9%20du%20succ%C3%A8s%20op%C3%A9rat/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/%F0%9F%8F%97%EF%B8%8F%20Pr%C3%A9paration%20de%20chantier%20la%20cl%C3%A9%20du%20succ%C3%A8s%20op%C3%A9rat/image.png)
 
 *Un “chantier organisé” : base vie, zones de livraison,bourses stockage, etc (source: methocad.com)*
 
@@ -257,7 +257,7 @@ Tous ces éléments devront être associés à des **zones de stockage** figuran
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Pr%C3%A9paration%20de%20chantier%20la%20cl%C3%A9%20du%20succ%C3%A8s%20op%C3%A9rat/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/%F0%9F%8F%97%EF%B8%8F%20Pr%C3%A9paration%20de%20chantier%20la%20cl%C3%A9%20du%20succ%C3%A8s%20op%C3%A9rat/image%201.png)
 
 *Exemple de PIC (Source: boby.net)*
 

@@ -44,7 +44,7 @@ Cette planification temporelle, représentée sous forme de barres, correspond �
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7Piloter%20un%20Chantier%20de%20A%20%C3%A0%20Z%20Pr%C3%A9paration,%20Planifi/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image%202.png)
 
 *Exemple de diagramme Gantt*
 
@@ -61,7 +61,7 @@ En amont, pour anticiper leur intervention, elles doivent construire un **diagra
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image.png)
 
 *Diagramme de PERT (source: chef-de-projet.fr)*
 
@@ -133,7 +133,7 @@ Une autre forme de représentation peut également être utilisée pour les diag
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-708.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image%203.png)
 
 *Convention graphique pour une tâche*
 
@@ -221,7 +221,7 @@ Ce tableau permet ensuite de produire un **classement par rang** des tâches, su
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-711.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image%204.png)
 
 *Étapes de construction d’un diagramme PERT*
 
@@ -239,7 +239,7 @@ Il existe **quatre types de liaisons** :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image%201.png)
 
 <p>&nbsp;</p>
 
@@ -266,7 +266,7 @@ En cas de **convergence** de plusieurs tâches vers une même, la DTo sera la pl
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-715.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image%205.png)
 
 <p>&nbsp;</p>
 
@@ -286,7 +286,7 @@ On retient la **plus petite** valeur obtenue.
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-715.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image%206.png)
 
 <p>&nbsp;</p>
 
@@ -294,7 +294,7 @@ On retient la **plus petite** valeur obtenue.
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-717.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image%207.png)
 
 <p>&nbsp;</p>
 
@@ -336,7 +336,7 @@ Les autres tâches, dites **non critiques**, peuvent être modifiées **dans leu
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9B%A0%EF%B8%8F%20Planifier%20pour%20R%C3%A9ussir%20Ma%C3%AEtriser%20les%20Outils%20PER/image%202.png)
 
 <p>&nbsp;</p>
 

@@ -30,7 +30,7 @@ Trois statuts principaux sont généralement associés au VISA :
 
 <p>&nbsp;</p>
 
-![image.png](%E2%9C%85%20VISA%20technique%20Valider,%20corriger,%20s%C3%A9curiser%20le%20c/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%E2%9C%85%20VISA%20technique%20Valider%2C%20corriger%2C%20s%C3%A9curiser%20le%20c/image.png)
 
 *Logigramme décrivant l’enclenchement simplifié des tâches respectives d’études d’exécution et de visa de ces études (Source: GUIDE PRATIQUE sur l’application des missions VISA / EXE / Synthèse - Syntec -Ingénierie)*
 
@@ -94,7 +94,7 @@ Deux modes de transmission sont possibles :
 
 <p>&nbsp;</p>
 
-![image.png](%E2%9C%85%20VISA%20technique%20Valider,%20corriger,%20s%C3%A9curiser%20le%20c/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%E2%9C%85%20VISA%20technique%20Valider%2C%20corriger%2C%20s%C3%A9curiser%20le%20c/image%201.png)
 
 *Exemple d’approbation de visa sur le logiciel Clovis*
 

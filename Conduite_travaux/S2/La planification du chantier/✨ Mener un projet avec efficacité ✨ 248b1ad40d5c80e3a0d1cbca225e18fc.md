@@ -12,7 +12,7 @@ Un projet correspond à un ensemble d’**opérations coordonnées** visant à s
 
 <p>&nbsp;</p>
 
-![image.png](%E2%9C%A8%20Mener%20un%20projet%20avec%20efficacit%C3%A9%20%E2%9C%A8/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%E2%9C%A8%20Mener%20un%20projet%20avec%20efficacit%C3%A9%20%E2%9C%A8/image.png)
 
 *Triangle QCD – qualité, coûts, délais : toute modification de l’un impacte les autres*
 

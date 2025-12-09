@@ -46,7 +46,7 @@ Ce plan comporte des informations telles que :
 
 <p>&nbsp;</p>
 
-![image.png](Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/image.png)
 
 <p>&nbsp;</p>
 
@@ -96,7 +96,7 @@ Ce plan comporte des informations telles que :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%8B%20Le%20Carnet%20de%20Bord%20du%20Conducteur%20de%20Travaux%20M%C3%A9tho/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/%F0%9F%93%8B%20Le%20Carnet%20de%20Bord%20du%20Conducteur%20de%20Travaux%20M%C3%A9tho/image.png)
 
 <p>&nbsp;</p>
 
@@ -253,7 +253,7 @@ Ce sont des moments d’**échange entre maître d’œuvre et entreprises**. Po
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%8B%20Le%20Carnet%20de%20Bord%20du%20Conducteur%20de%20Travaux%20M%C3%A9tho/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/%F0%9F%93%8B%20Le%20Carnet%20de%20Bord%20du%20Conducteur%20de%20Travaux%20M%C3%A9tho/image%201.png)
 
 <p>&nbsp;</p>
 

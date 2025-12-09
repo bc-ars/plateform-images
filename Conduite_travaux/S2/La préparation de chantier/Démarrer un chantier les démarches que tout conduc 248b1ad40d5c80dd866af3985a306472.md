@@ -97,7 +97,7 @@ Cette démarche, rapide et peu onéreuse, est fréquemment utilisée pour offici
 
 ****
 
-![image.png](D%C3%A9marrer%20un%20chantier%20les%20d%C3%A9marches%20que%20tout%20conduc/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/D%C3%A9marrer%20un%20chantier%20les%20d%C3%A9marches%20que%20tout%20conduc/image.png)
 
 <p>&nbsp;</p>
 
@@ -422,3 +422,5 @@ Les maîtriser et les **anticiper** permet une meilleure **gestion globale** du 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+https://www.youtube.com/watch?v=iNW-auPFeUI

@@ -28,7 +28,7 @@ La régulation se résume ainsi :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%20Suivi,%20R%C3%A9gulation%20&%20Analyse%20pour%20une%20Ma%C3%AEtrise%20To/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/%F0%9F%9A%A7%20Suivi%2C%20R%C3%A9gulation%20%26%20Analyse%20pour%20une%20Ma%C3%AEtrise%20To/image.png)
 
 <p>&nbsp;</p>
 
@@ -122,7 +122,7 @@ C’est un carnet où réapparaissent **les métrés** pris en accord avec le re
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%20Suivi,%20R%C3%A9gulation%20&%20Analyse%20pour%20une%20Ma%C3%AEtrise%20To/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/%F0%9F%9A%A7%20Suivi%2C%20R%C3%A9gulation%20%26%20Analyse%20pour%20une%20Ma%C3%AEtrise%20To/image%201.png)
 
 <p>&nbsp;</p>
 
@@ -136,7 +136,7 @@ Ils peuvent être **provisoires ou définitifs**, incluent la quantité des trav
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%20Suivi,%20R%C3%A9gulation%20&%20Analyse%20pour%20une%20Ma%C3%AEtrise%20To/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/%F0%9F%9A%A7%20Suivi%2C%20R%C3%A9gulation%20%26%20Analyse%20pour%20une%20Ma%C3%AEtrise%20To/image%202.png)
 
 <p>&nbsp;</p>
 
@@ -148,7 +148,7 @@ Après l’achèvement des travaux et l’établissement du dernier attachement,
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%20Suivi,%20R%C3%A9gulation%20&%20Analyse%20pour%20une%20Ma%C3%AEtrise%20To/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/%F0%9F%9A%A7%20Suivi%2C%20R%C3%A9gulation%20%26%20Analyse%20pour%20une%20Ma%C3%AEtrise%20To/image%203.png)
 
 <p>&nbsp;</p>
 
@@ -185,7 +185,7 @@ Pour l’entreprise, réaliser un chantier est autant un enjeu financier qu’un
 
 <p>&nbsp;</p>
 
-## **🎬 Rapport journalier de chantier (en Anglais sous-titrée)**
+## **🎬 Comment suivre un chantier ?**
 
 <p>&nbsp;</p>
 

@@ -115,7 +115,7 @@ Ces éléments influencent :
 
 <p>&nbsp;</p>
 
-![image.png](Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/image.png)
 
 *Exemple de PIC 3D (Source: methocad.com)*
 
@@ -229,7 +229,7 @@ En fonction du mode constructif :
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-738.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/imageb.png)
 
 *PIC d’un château d’eau - Sébastien Garnier (Source: methodesbtp.com)*
 
@@ -268,7 +268,7 @@ Ce poids doit être supporté **en bout de flèche**, ce qui oriente le choix du
 
 <p>&nbsp;</p>
 
-![image.png](Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/image%201.png)
 
 *Caractéristiques de hauteur de charge Potain MDT 368 L16 (source:* [eurohol.ru/](https://www.eurohol.ru/))
 
@@ -301,7 +301,7 @@ Formule courante :
 
 <p>&nbsp;</p>
 
-![image.png](Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/image%202.png)
 
 *Hauteur minimale sous crochet (Source: techniques-ingenieurs.fr)*
 
@@ -387,7 +387,7 @@ Une base vie complète comprend :
 
 <p>&nbsp;</p>
 
-![image.png](Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/Le%20PIC%20le%20Plan%20d%E2%80%99Installation%20de%20Chantier%20(PIC)/image%203.png)
 
 *Base vie mobile 12 personnes (source: rentapark.org)*
 

@@ -84,7 +84,7 @@ Organiser un chantier signifie donc estimer les ressources et le coût liés aux
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7Piloter%20un%20Chantier%20de%20A%20%C3%A0%20Z%20Pr%C3%A9paration,%20Planifi/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9A%A7Piloter%20un%20Chantier%20de%20A%20%C3%A0%20Z%20Pr%C3%A9paration%2C%20Planifi/image.png)
 
 *Tableau résumant les phases de préparation de chantier en une seule page. (Source: 4geniecivil.com)*
 
@@ -110,7 +110,7 @@ Souvent négligée voire écourtée, cette phase est pourtant indispensable à l
 
 Pour anticiper efficacement, les responsables doivent disposer d’un **plan d’exécution de l’ouvrage (PEO)** qui comprend :
 
-![image.png](%F0%9F%9A%A7Piloter%20un%20Chantier%20de%20A%20%C3%A0%20Z%20Pr%C3%A9paration,%20Planifi/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9A%A7Piloter%20un%20Chantier%20de%20A%20%C3%A0%20Z%20Pr%C3%A9paration%2C%20Planifi/image%201.png)
 
 *Exemple de plan de fondations (source: TPdemain)*
 
@@ -339,7 +339,7 @@ Il est souvent nécessaire de **fractionner** encore davantage certaines tâches
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%9A%A7Piloter%20un%20Chantier%20de%20A%20%C3%A0%20Z%20Pr%C3%A9paration,%20Planifi/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9A%A7Piloter%20un%20Chantier%20de%20A%20%C3%A0%20Z%20Pr%C3%A9paration%2C%20Planifi/Untitled.png)
 
 <p>&nbsp;</p>
 
@@ -365,7 +365,7 @@ Il est souvent nécessaire de **fractionner** encore davantage certaines tâches
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7Piloter%20un%20Chantier%20de%20A%20%C3%A0%20Z%20Pr%C3%A9paration,%20Planifi/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20planification%20du%20chantier/%F0%9F%9A%A7Piloter%20un%20Chantier%20de%20A%20%C3%A0%20Z%20Pr%C3%A9paration%2C%20Planifi/image%202.png)
 
 ---
 
