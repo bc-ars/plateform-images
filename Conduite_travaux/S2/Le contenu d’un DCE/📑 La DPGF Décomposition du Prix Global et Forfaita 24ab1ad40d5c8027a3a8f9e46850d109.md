@@ -84,7 +84,7 @@ Les **marchés à prix forfaitaire** impliquent que :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%91%20La%20DPGF%20D%C3%A9composition%20du%20Prix%20Global%20et%20Forfaita/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/Le%20contenu%20d%E2%80%99un%20DCE/%F0%9F%93%91%20La%20DPGF%20D%C3%A9composition%20du%20Prix%20Global%20et%20Forfaita/image.png)
 
 *Exemple d'un ouvrage d'installation de chantier dispositif d'exécution (source: batiprix.com)*
 

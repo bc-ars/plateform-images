@@ -34,7 +34,9 @@ Pour un **marché de travaux**, il peut inclure :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%9C%20CCTP%20-Cahier%20des%20Clauses%20Techniques%20Particuli%C3%A8re/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/Le%20contenu%20d%E2%80%99un%20DCE/%F0%9F%93%9C%20CCTP%20-Cahier%20des%20Clauses%20Techniques%20Particuli%C3%A8re/image.png)
+
+
 
 *Le site du [ministère de l’Intérieur](https://www.interieur.gouv.fr/Videoprotection/Documentation-et-textes-juridiques/Modele-de-CCTP) vous propose un modèle de **CCTP** pratique à télécharger.* 
 
@@ -145,7 +147,9 @@ Identifier les lots concernés (pour optimiser la coordination entre lots).
     <p>&nbsp;</p>
     
 
-![image.png](%F0%9F%93%9C%20CCTP%20-Cahier%20des%20Clauses%20Techniques%20Particuli%C3%A8re/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/Le%20contenu%20d%E2%80%99un%20DCE/%F0%9F%93%9C%20CCTP%20-Cahier%20des%20Clauses%20Techniques%20Particuli%C3%A8re/image%201.png)
+
+
 
 *Les éléments à réunir pour la rédaction d’un CCTP*
 

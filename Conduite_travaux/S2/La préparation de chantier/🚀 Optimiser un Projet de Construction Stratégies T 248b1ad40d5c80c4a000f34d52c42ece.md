@@ -76,7 +76,7 @@ La mise en œuvre sans validation préalable d’une solution alternative engage
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%80%20Optimiser%20un%20Projet%20de%20Construction%20Strat%C3%A9gies%20T/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S2/La%20pr%C3%A9paration%20de%20chantier/%F0%9F%9A%80%20Optimiser%20un%20Projet%20de%20Construction%20Strat%C3%A9gies%20T/image.png)
 
 *Formes d’optimisations techniques et financières*
 

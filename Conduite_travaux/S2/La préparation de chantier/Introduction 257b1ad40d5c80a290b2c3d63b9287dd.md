@@ -1,7 +1,3 @@
-# Introduction
-
-<p>&nbsp;</p>
-
 # 🚀 Introduction: **Préparation & Maîtrise d’un Chantier de Construction**
 
 <p>&nbsp;</p>
