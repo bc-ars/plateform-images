@@ -42,7 +42,7 @@ Un **bloc-porte** se compose de deux éléments principaux :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%AAMenuiseries%20int%C3%A9rieures%20allier%20design,%20s%C3%A9curit%C3%A9%20e/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%9A%AAMenuiseries%20int%C3%A9rieures%20allier%20design%2C%20s%C3%A9curit%C3%A9%20e/image.png)
 
 *Constitution d’un bloc-porte (Source: castorama.fr)*
 
@@ -52,7 +52,7 @@ Selon les régions ou le procédé constructif, un bloc-porte peut être à **ch
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%AAMenuiseries%20int%C3%A9rieures%20allier%20design,%20s%C3%A9curit%C3%A9%20e/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%9A%AAMenuiseries%20int%C3%A9rieures%20allier%20design%2C%20s%C3%A9curit%C3%A9%20e/image%201.png)
 
 *Bloc porte (Source: castorama.fr)*
 
@@ -155,7 +155,7 @@ Selon leur **destination** et leur **emplacement**, les portes doivent satisfair
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%AAMenuiseries%20int%C3%A9rieures%20allier%20design,%20s%C3%A9curit%C3%A9%20e/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%9A%AAMenuiseries%20int%C3%A9rieures%20allier%20design%2C%20s%C3%A9curit%C3%A9%20e/image%202.png)
 
 *Terminologies spécifiques aux escaliers (Source: kordodesign.com)*
 
@@ -168,7 +168,7 @@ Pour bien appréhender les exigences du **CCTP**, il est indispensable de conna�
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%AAMenuiseries%20int%C3%A9rieures%20allier%20design,%20s%C3%A9curit%C3%A9%20e/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%9A%AAMenuiseries%20int%C3%A9rieures%20allier%20design%2C%20s%C3%A9curit%C3%A9%20e/image%203.png)
 
 *Terminologies spécifiques aux escaliers Source: simmad.fr)*
 

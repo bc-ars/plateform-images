@@ -21,13 +21,13 @@ Dans certains cas, le réseau de plomberie comprend aussi une **installation ext
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%BF%20R%C3%A9seaux%20de%20Plomberie%20Concevoir,%20Installer%20et%20Nor/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%9A%BF%20R%C3%A9seaux%20de%20Plomberie%20Concevoir%2C%20Installer%20et%20Nor/image.png)
 
 *Schéma d’un réseau de plomberie sanitaire dans un logement (Source: ventanasierra.org)*
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%BF%20R%C3%A9seaux%20de%20Plomberie%20Concevoir,%20Installer%20et%20Nor/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%9A%BF%20R%C3%A9seaux%20de%20Plomberie%20Concevoir%2C%20Installer%20et%20Nor/image%201.png)
 
 *Schéma d’un réseau monotube de chauffage domestique (Source:* [https://www.leguideduchauffage.com/](https://www.leguideduchauffage.com/))
 

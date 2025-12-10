@@ -18,7 +18,7 @@ On distingue **trois méthodes de pose** :
 
 <p>&nbsp;</p>
 
-![](Les%20Chapes%20%E2%80%93%20Comprendre,%20Choisir%20et%20Poser%20comme%20un/image-39.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Les%20Chapes%20%E2%80%93%20Comprendre%2C%20Choisir%20et%20Poser%20comme%20un/image-39.png)
 
 *Types de pose des chapes*
 
@@ -56,9 +56,9 @@ Les **sous-couches** utilisées en **chape flottante** remplissent un rôle **ac
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-18 à 16.42.55.png](Les%20Chapes%20%E2%80%93%20Comprendre,%20Choisir%20et%20Poser%20comme%20un/Capture_decran_2023-04-18_a_16.42.55.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Les%20Chapes%20%E2%80%93%20Comprendre%2C%20Choisir%20et%20Poser%20comme%20un/imageA.png)
 
-![Untitled](Les%20Chapes%20%E2%80%93%20Comprendre,%20Choisir%20et%20Poser%20comme%20un/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Les%20Chapes%20%E2%80%93%20Comprendre%2C%20Choisir%20et%20Poser%20comme%20un/Untitled.png)
 
 <p>&nbsp;</p>
 
@@ -122,7 +122,7 @@ Les **chapes sèches** se composent :
 
 <p>&nbsp;</p>
 
-![Untitled](Les%20Chapes%20%E2%80%93%20Comprendre,%20Choisir%20et%20Poser%20comme%20un/Untitled%201.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Les%20Chapes%20%E2%80%93%20Comprendre%2C%20Choisir%20et%20Poser%20comme%20un/Untitled%201.png)
 
 *Exemple plaque de sol - (Source: Fermacell)*
 
@@ -138,7 +138,7 @@ Les **chapes sèches** se composent :
 
 <p>&nbsp;</p>
 
-![image.png](Les%20Chapes%20%E2%80%93%20Comprendre,%20Choisir%20et%20Poser%20comme%20un/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Les%20Chapes%20%E2%80%93%20Comprendre%2C%20Choisir%20et%20Poser%20comme%20un/image.png)
 
 *Granules d'égalisation Fermacell pour ragréage sol  - source: Fermacell*
 
@@ -171,13 +171,13 @@ Cette **désolidarisation** doit également être réalisée autour de tous les 
 
 <p>&nbsp;</p>
 
-![image.png](Les%20Chapes%20%E2%80%93%20Comprendre,%20Choisir%20et%20Poser%20comme%20un/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Les%20Chapes%20%E2%80%93%20Comprendre%2C%20Choisir%20et%20Poser%20comme%20un/image%201.png)
 
 S*chéma pédagogique qui illustre bien la **désolidarisation périphérique** dans le cadre d’une chape flottante : on y distingue l’isolant posé sur le support, le film de désolidarisation et la bande périphérique (souvent en mousse), ainsi que l’auto-nivellement de la chape. (Source livres-et-forums.fr)*
 
 <p>&nbsp;</p>
 
-![image.png](Les%20Chapes%20%E2%80%93%20Comprendre,%20Choisir%20et%20Poser%20comme%20un/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Les%20Chapes%20%E2%80%93%20Comprendre%2C%20Choisir%20et%20Poser%20comme%20un/image%202.png)
 
 *Source : Centre Scientifique et Technique du Bâtiment (France) © Bruxelles Environnement*
 

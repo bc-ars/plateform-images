@@ -20,7 +20,7 @@ Plusieurs techniques permettent d’installer un **revêtement de sol**. Parmi e
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage,%20une/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage%2C%20une/image.png)
 
 *Pose flottante de parquet stratifié (Source: parquets-koval.com)*
 
@@ -30,7 +30,7 @@ Plusieurs techniques permettent d’installer un **revêtement de sol**. Parmi e
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage,%20une/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage%2C%20une/image%201.png)
 
 *Pose de dalle auto-adhésive (Source: Leroy-Merlin)*
 
@@ -40,7 +40,7 @@ Plusieurs techniques permettent d’installer un **revêtement de sol**. Parmi e
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage,%20une/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage%2C%20une/image%202.png)
 
 *Pose libre de moquette (Source: mesdepanneurs.fr)*
 
@@ -50,7 +50,7 @@ Plusieurs techniques permettent d’installer un **revêtement de sol**. Parmi e
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage,%20une/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage%2C%20une/image%203.png)
 
 *Pose collée de carrelage (Source: chausson.fr)*
 
@@ -288,7 +288,7 @@ Trois grandes familles de parquet existent :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage,%20une/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage%2C%20une/image%204.png)
 
 *Pose de parquet massif (Source: parquetsprotat.com)*
 
@@ -298,7 +298,7 @@ Trois grandes familles de parquet existent :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage,%20une/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage%2C%20une/image%205.png)
 
 *Pose d'un parquet flottant (Source:* [blog-habitat-durable.com](https://www.blog-habitat-durable.com/))
 
@@ -308,7 +308,7 @@ Trois grandes familles de parquet existent :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage,%20une/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Les%20rev%C3%AAtements%20de%20sol%20plus%20qu%E2%80%99un%20habillage%2C%20une/image%206.png)
 
 *Composition d'un parquet stratifié(Source:* [blog-habitat-durable.com](https://www.blog-habitat-durable.com/))
 
