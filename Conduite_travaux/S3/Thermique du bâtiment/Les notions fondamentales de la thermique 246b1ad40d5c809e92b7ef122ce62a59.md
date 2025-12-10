@@ -96,7 +96,7 @@ Il s’agit d’un **transfert d’énergie** entre deux corps par **ondes élec
 
 <p>&nbsp;</p>
 
-![Untitled](Les%20notions%20fondamentales%20de%20la%20thermique/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/Les%20notions%20fondamentales%20de%20la%20thermique/Untitled.png)
 
 *Schéma des 3 modes de transfert thermique*
 
@@ -112,7 +112,7 @@ Le **flux thermique** φ (phi) désigne la **quantité de chaleur** traversant *
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-18 à 10.58.34.png](Les%20notions%20fondamentales%20de%20la%20thermique/Capture_decran_2023-04-18_a_10.58.34.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/Les%20notions%20fondamentales%20de%20la%20thermique/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -214,7 +214,7 @@ Elles s’expriment en **m²·K/W**. Les **valeurs de référence** sont défini
 
 ---
 
-![Untitled](Les%20notions%20fondamentales%20de%20la%20thermique/Untitled%201.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/Les%20notions%20fondamentales%20de%20la%20thermique/Untitled%201.png)
 
 *Schéma illustrant la résistance superficielle d’une paroi*
 
@@ -231,7 +231,7 @@ La **résistance thermique totale** d’une paroi homogène représente la **som
 
 Elle s’exprime en **m²·K/W** et se calcule ainsi :
 
-![Capture d’écran 2023-04-18 à 10.59.47.png](Les%20notions%20fondamentales%20de%20la%20thermique/Capture_decran_2023-04-18_a_10.59.47.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/Les%20notions%20fondamentales%20de%20la%20thermique/imageb.png)
 
 Rparoi=∑R+Rsi+RseR_{\text{paroi}} = ∑R + R_{si} + R_{se}
 
@@ -243,7 +243,7 @@ Ce calcul est indispensable avant de déterminer le **coefficient de transmissio
 
 <p>&nbsp;</p>
 
-![Untitled](Les%20notions%20fondamentales%20de%20la%20thermique/Untitled%202.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/Les%20notions%20fondamentales%20de%20la%20thermique/Untitled%202.png)
 
 *Schéma illustrant la composition de la résistance totale d’une paroi*
 
@@ -257,7 +257,7 @@ Le **coefficient de transmission thermique** $U_c$ exprime la **quantité de cha
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-18 à 11.00.23.png](Les%20notions%20fondamentales%20de%20la%20thermique/Capture_decran_2023-04-18_a_11.00.23.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/Les%20notions%20fondamentales%20de%20la%20thermique/imagec.png)
 
 <p>&nbsp;</p>
 
@@ -267,7 +267,7 @@ Il caractérise donc les **pertes thermiques** d’une paroi composée d’un ou
 
 <p>&nbsp;</p>
 
-![Untitled](Les%20notions%20fondamentales%20de%20la%20thermique/Untitled%203.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/Les%20notions%20fondamentales%20de%20la%20thermique/Untitled%203.png)
 
 *Exemple de calcul de Uc pour une paroi maçonnée avec doublage*
 
