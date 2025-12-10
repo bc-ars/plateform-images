@@ -21,7 +21,7 @@ On définit de manière simplifiée une **température de confort perçue** (aus
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-18 à 11.01.50.png](%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/Capture_decran_2023-04-18_a_11.01.50.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -35,7 +35,7 @@ La figure ci-dessous illustre le **sentiment de confort thermique** rapporté pa
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/Untitled.png)
 
 *Sensation de confort thermique des individus*
 
@@ -47,7 +47,7 @@ La **dissipation de chaleur** entre le corps et l’environnement s’effectue p
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/Untitled%201.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/Untitled%201.png)
 
 *Schéma des échanges thermiques entre le corps et l’environnement.*
 
@@ -82,7 +82,7 @@ Les **économies d’énergie** liées à une **réduction excessive de l’humi
 
 <p>&nbsp;</p>
 
-[](%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/jClmC29mkryaksG8xC5MgkcRJOlvgOVTUY19ngLLWnaDnV46lXH26_ioZ9cILU7Vue1s9vdM5yAbu7-Q6MzwHRxKlnZbsL_lRflzdFuXMMppDJheU4P-ZP2kFENjLyQpw2SPRQDwWlc0JFfkUQ)
+[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/imageb.png)
 
 *Plage optimale d’humidité ambiante d’un point de vue hygiénique (Scofield et Sterling)*
 
@@ -96,7 +96,7 @@ Pour un **confort optimal**, avec une **température de l’air** proche de 22�
 
 <p>&nbsp;</p>
 
-[](%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/5_qKwKxX4XgSK_i_NNzcOQePJkvUwHnyGN9r6ONurUf2aSuenjpNPIu6jKpaH1QSgR1_YAPNLSixVfDVVNnu_Uul5KXwz_TXqMpqtNt7uvOx6EdtncOBffQCKVW07CFJM3C6FKqpYxE1sHkUjg)
+[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/imagec.png)
 
 *Plage de confort hygrothermique*
 
