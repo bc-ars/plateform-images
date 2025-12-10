@@ -18,7 +18,7 @@ Un **plafond suspendu**, également nommé **faux plafond**, est une structure p
 
 <p>&nbsp;</p>
 
-[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Plafonds%20Tout%20savoir%20sur%20les%20rev%C3%AAtements%20et%20leurs/imageA.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Plafonds%20Tout%20savoir%20sur%20les%20rev%C3%AAtements%20et%20leurs/imageA.png)
 
 *Schéma d’un faux plafond (Source: Saint-Gobain)*
 

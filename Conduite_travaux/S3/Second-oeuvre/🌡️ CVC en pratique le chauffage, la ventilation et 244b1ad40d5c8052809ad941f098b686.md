@@ -36,30 +36,30 @@ Les systèmes **centralisés** comportent trois éléments principaux :
 
 <p>&nbsp;</p>
 
-| Type de système | Catégorie | Éléments |
-| --- | --- | --- |
-| **🔗 Centralisés** | 🔥 Génération | 🔴 Chaudières combustibles liquide ou gazeux  
-🔴 Chaudières combustible solide (bois)  
-♻️ Pompes à chaleur (PAC)  
-☀️ Solaire (chauffe-eau & système solaire centralisé)  
-🌆 Réseau de chauffage urbain (RCU)  
-⚡ Chaudière électrique |
-|  | ⚙️ Distribution & régulation | 💧 Vecteur eau : réseau **bi-tube**  
-💧 Vecteur eau : réseau **monotube**  
-🌬️ Vecteur air : réseau **aéraulique (air)**  
-❄️ Vecteur air : réseau de **fluide frigorigène** |
-|  | 💡 Émission | 🌡️ Radiateurs **haute température** 
-🌡️ Radiateurs **basse température**  
-🔲 Plancher chauffant  
-🌀 Ventilo-convecteurs  
-➡️ Bouches terminales |
-| **🏠 Décentralisés** | 🔌 Radiateurs électriques | 🔺 Convecteur  
-🔺 Panneau rayonnant  
-🔺 Radiateur à fluide  
-🔺 Plancher chauffant |
-|  | 🔥 Radiateurs gaz | 🔷 Radiateurs gaz |
-|  | 🌲 Appareils indépendants bois | 🔥 Poêle à bois  
-🔥 Insert |
+| Type de système |           Catégorie           |                       Éléments                       |
+|:---------------:|:-----------------------------:|:----------------------------------------------------:|
+| 🔗 Centralisés   | 🔥 Génération                  | 🔴 Chaudières combustibles liquide ou gazeux          |
+|                 |                               | 🔴 Chaudières combustible solide (bois)               |
+|                 |                               | ♻️ Pompes à chaleur (PAC)                             |
+|                 |                               | ☀️ Solaire (chauffe-eau & système solaire centralisé) |
+|                 |                               | 🌆 Réseau de chauffage urbain (RCU)                   |
+|                 |                               | ⚡ Chaudière électrique                               |
+|                 | ⚙️ Distribution & régulation   | 💧 Vecteur eau : réseau bi-tube                       |
+|                 |                               | 💧 Vecteur eau : réseau monotube                      |
+|                 |                               | 🌬️ Vecteur air : réseau aéraulique (air)              |
+|                 |                               | ❄️ Vecteur air : réseau de fluide frigorigène         |
+|                 | 💡 Émission                    | 🌡️ Radiateurs haute température                       |
+|                 |                               | 🌡️ Radiateurs basse température                       |
+|                 |                               | 🔲 Plancher chauffant                                 |
+|                 |                               | 🌀 Ventilo-convecteurs                                |
+|                 |                               | ➡️ Bouches terminales                                 |
+| 🏠 Décentralisés | 🔌 Radiateurs électriques      | 🔺 Convecteur                                         |
+|                 |                               | 🔺 Panneau rayonnant                                  |
+|                 |                               | 🔺 Radiateur à fluide                                 |
+|                 |                               | 🔺 Plancher chauffant                                 |
+|                 | 🔥 Radiateurs gaz              | 🔷 Radiateurs gaz                                     |
+|                 | 🌲 Appareils indépendants bois | 🔥 Poêle à bois                                       |
+|                 |                               | 🔥 Insert                                             |
 
 <p>&nbsp;</p>
 
@@ -93,7 +93,7 @@ Certains modèles assurent également la **production d’eau chaude sanitaire**
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage,%20la%20ventilation%20et/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage%2C%20la%20ventilation%20et/image.png)
 
 *Chaudière combustible collective (Source: hellio.com)*
 
@@ -111,7 +111,7 @@ Ce type de dispositif est généralement utilisé **en complément d’un autre 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage,%20la%20ventilation%20et/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage%2C%20la%20ventilation%20et/image%201.png)
 
 *Principe de fonctionnement chauffage solaire (Source: is-eco.fr)*
 
@@ -132,7 +132,7 @@ Il comporte quatre éléments principaux :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage,%20la%20ventilation%20et/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage%2C%20la%20ventilation%20et/image%202.png)
 
 *Le chauffage urbain et les sous stations (Source: energieplanete.fr)* 
 
@@ -150,7 +150,7 @@ Leur distinction repose sur la **source de chaleur** utilisée :
 - **PAC aérothermique** (air/air) : utilise l’air extérieur et diffuse la chaleur par air pulsé (ventilo-convecteurs ou gaines). Ce dispositif, aussi appelé **climatisation réversible**, assure à la fois chauffage et rafraîchissement. S’il comporte plusieurs unités intérieures, il est dit **multisplit** ;
 - **PAC aqua-thermique** (air/eau) : récupère l’énergie dans l’eau et la transmet via un **réseau de chauffage central** (plancher chauffant ou radiateurs). Elle peut également produire l’ECS (avec appoint).
 
-[](https://lh4.googleusercontent.com/e1dJmBWim9Wy12PsuV6j1TuEh3MTSg6nAbVnB2DcqpHGVlcogiq3b2TITaVM337molUn9JY7dnHRfNq7k_iZSgHBRHj_Q2NFdHAg_25ri_4uopNSIAmW3cO5Nc02ZabuE4dQBJ8s19TWxbudpq_6uA)
+[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage%2C%20la%20ventilation%20et/image%202A.png)
 
 *Différences entre PAC air/air et air/eau (Source: mesdepanneurs.fr)*
 
@@ -193,7 +193,7 @@ Un système de **ventilation** doit permettre l’**admission**, la **circulatio
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage,%20la%20ventilation%20et/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage%2C%20la%20ventilation%20et/image%203.png)
 
 *Clapets, registre et pièges à son*
 
@@ -203,13 +203,13 @@ Un système de **ventilation** doit permettre l’**admission**, la **circulatio
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage,%20la%20ventilation%20et/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage%2C%20la%20ventilation%20et/image%204.png)
 
 *Bouches d’extraction*
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage,%20la%20ventilation%20et/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage%2C%20la%20ventilation%20et/image%205.png)
 
 *Bouches de soufflage*
 
@@ -232,7 +232,7 @@ La **VMC simple flux** renouvelle l’air intérieur grâce à :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage,%20la%20ventilation%20et/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage%2C%20la%20ventilation%20et/image%206.png)
 
 *Fonctionnement d’une VMC simple flux Source: Qualitel.org)*
 
@@ -259,7 +259,7 @@ Fonctionnement :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage,%20la%20ventilation%20et/image%207.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage%2C%20la%20ventilation%20et/image%207.png)
 
 *Fonctionnement d’une VMC double flux (Source:* [https://www.lcmaitrisedoeuvre.com/](https://www.lcmaitrisedoeuvre.com/))
 
@@ -293,7 +293,7 @@ Il existe **deux types de CTA** :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage,%20la%20ventilation%20et/image%208.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20CVC%20en%20pratique%20le%20chauffage%2C%20la%20ventilation%20et/image%208.png)
 
 *Schéma de principe de fonctionnement d’une CTA double flux (Source: geco.fr)*
 

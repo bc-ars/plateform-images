@@ -445,6 +445,8 @@ Selon la **norme EN 685**, les revêtements sont classés selon **l’intensité
 | **Classe 42** | Industriel général | — |
 | **Classe 43** | Industriel élevé | — |
 
+<p>&nbsp;</p>
+
 Une **lettre S** après la classe indique une **meilleure résistance** aux dégradations.
 
 ---

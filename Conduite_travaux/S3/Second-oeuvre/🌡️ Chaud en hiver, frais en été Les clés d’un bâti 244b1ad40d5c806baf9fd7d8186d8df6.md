@@ -63,7 +63,7 @@ Plusieurs équipements ou modes de chauffage sont disponibles, notamment :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20Chaud%20en%20hiver,%20frais%20en%20%C3%A9t%C3%A9%20Les%20cl%C3%A9s%20d%E2%80%99un%20b%C3%A2ti/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20Chaud%20en%20hiver%2C%20frais%20en%20%C3%A9t%C3%A9%20Les%20cl%C3%A9s%20d%E2%80%99un%20b%C3%A2ti/image.png)
 
 <p>&nbsp;</p>
 
@@ -110,7 +110,7 @@ Le **multi-split** est plus flexible et s’installe dans un logement existant s
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A1%EF%B8%8F%20Chaud%20en%20hiver,%20frais%20en%20%C3%A9t%C3%A9%20Les%20cl%C3%A9s%20d%E2%80%99un%20b%C3%A2ti/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8C%A1%EF%B8%8F%20Chaud%20en%20hiver%2C%20frais%20en%20%C3%A9t%C3%A9%20Les%20cl%C3%A9s%20d%E2%80%99un%20b%C3%A2ti/image%201.png)
 
 *Comparatif mono-split vs multi-split (Source confort-plus34.fr)*
 
@@ -132,6 +132,8 @@ Ce cours a présenté les différents **systèmes de chauffage et de climatisati
 
 *Elle présente de façon **simple et claire** les avantages et les limites de cette technologie.*
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 [https://www.youtube.com/watch?v=28io61eewzI](https://www.youtube.com/watch?v=28io61eewzI)

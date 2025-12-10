@@ -67,7 +67,7 @@ Pour une **isolation acoustique optimale**, il est recommandé de réaliser un *
 
 <p>&nbsp;</p>
 
-[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image%20a.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image%20a.png)
 
 *Brique en béton cellulaire* 
 
