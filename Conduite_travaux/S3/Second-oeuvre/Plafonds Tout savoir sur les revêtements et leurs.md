@@ -18,7 +18,7 @@ Un **plafond suspendu**, également nommé **faux plafond**, est une structure p
 
 <p>&nbsp;</p>
 
-[yi7tEPHzTX9cHCbuPbUDDkVxSXLAXc3T978O8z2DJGAif0U9v5ML-wwwXz8yjwfZOs9VY036BowF7SjEDFXeQ-I7V6BTQhk2nU4PiuJHGaDGKdCwUXNa8o5d_Hz9iH4coNdHr4FGQrkfQRH-OQ](Plafonds%20Tout%20savoir%20sur%20les%20rev%C3%AAtements%20et%20leurs%20/yi7tEPHzTX9cHCbuPbUDDkVxSXLAXc3T978O8z2DJGAif0U9v5ML-wwwXz8yjwfZOs9VY036BowF7SjEDFXeQ-I7V6BTQhk2nU4PiuJHGaDGKdCwUXNa8o5d_Hz9iH4coNdHr4FGQrkfQRH-OQ)
+[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Plafonds%20Tout%20savoir%20sur%20les%20rev%C3%AAtements%20et%20leurs/imageA.png)
 
 *Schéma d’un faux plafond (Source: Saint-Gobain)*
 
@@ -40,13 +40,13 @@ Ce type de **revêtement**, très répandu en **rénovation**, consiste à insta
 
 <p>&nbsp;</p>
 
-![image.png](Plafonds%20Tout%20savoir%20sur%20les%20rev%C3%AAtements%20et%20leurs%20/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Plafonds%20Tout%20savoir%20sur%20les%20rev%C3%AAtements%20et%20leurs/image.png)
 
 *Exemple de schéma de fixation d’un plafond tendu (Source: barrisol.com)*
 
 <p>&nbsp;</p>
 
-![Untitled](Plafonds%20Tout%20savoir%20sur%20les%20rev%C3%AAtements%20et%20leurs%20/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Plafonds%20Tout%20savoir%20sur%20les%20rev%C3%AAtements%20et%20leurs/Untitled.png)
 
 *Pose d’un plafond tendu (Source: plafindtendu-info.fr)*
 
@@ -60,7 +60,7 @@ Les **corniches** et **bordures** sont les ornements de plafond les plus fréque
 
 <p>&nbsp;</p>
 
-![image.png](Plafonds%20Tout%20savoir%20sur%20les%20rev%C3%AAtements%20et%20leurs%20/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/Plafonds%20Tout%20savoir%20sur%20les%20rev%C3%AAtements%20et%20leurs/image%201.png)
 
 *Rosace de plafond (Source: Leroy-Merlin)*
 
