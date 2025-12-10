@@ -22,7 +22,7 @@ Il existe plusieurs catégories d’**enduits muraux** :
 
  **<p>&nbsp;</p>
 
-[jJo6Fvperzt2CypNSxDr7CsooClS6FwlwOiZemnU1lAY_XJ4GXWad1fT7X0HHckHnmcuFG20af-4Cga1xisv59IN9FzyDcfEo-uMNOVIjmZQQ01rG__41kkHvJGoGDNoKdke9d7g9xdHs2mjaQ](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/jJo6Fvperzt2CypNSxDr7CsooClS6FwlwOiZemnU1lAY_XJ4GXWad1fT7X0HHckHnmcuFG20af-4Cga1xisv59IN9FzyDcfEo-uMNOVIjmZQQ01rG__41kkHvJGoGDNoKdke9d7g9xdHs2mjaQ)
+[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image%20a.png)
 
 *Application d’un enduit de lissage*
 
@@ -32,7 +32,7 @@ Il existe plusieurs catégories d’**enduits muraux** :
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled.png)
 
  *Finition d’un enduit décoratif*
 
@@ -62,7 +62,7 @@ Le **carrelage** est très utilisé dans les **cuisines** et **salles de bain**,
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image.png)
 
 *Pose d’un carrelage mural (Source:* [arrosimmobilier.com](http://arrosimmobilier.com/))
 
@@ -103,7 +103,7 @@ Le **NF DTU 59.1 “Revêtements de peinture en feuil mince, semi-épais ou épa
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image%201.png)
 
 *Nuancier de peintures disponible sur le marché (Source: Leroy-Merlin)*
 
@@ -133,7 +133,7 @@ Le **NF DTU 59.1 “Revêtements de peinture en feuil mince, semi-épais ou épa
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image%202.png)
 
 *Pose de papier peint (Source:* [artofit.org](http://artofit.org/))
 
@@ -173,7 +173,7 @@ Les modèles disponibles sont nombreux : **lisse**, **taloché**, **maille**, **
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled%201.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled%201.png)
 
 *Finition de toile de verre*
 
@@ -195,7 +195,7 @@ Le **lambris** désigne un **assemblage de panneaux** en **bois**, **PVC** ou **
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image%203.png)
 
 *Pose de lambris mural en bois (Source:* [https://diyfamily.fr/comment-poser-du-lambris/](https://diyfamily.fr/comment-poser-du-lambris/))
 
@@ -249,7 +249,7 @@ Après la pose d’un revêtement, des **éléments de finition** complètent et
 - **Les plinthes** (en bois, PVC, inox) créent la **jonction entre mur et sol** et assurent une finition propre.
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled%202.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled%202.png)
 
 *Plinthe en bois*
 
@@ -259,7 +259,7 @@ Après la pose d’un revêtement, des **éléments de finition** complètent et
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled%203.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled%203.png)
 
  *Corniche plafond*
 
@@ -269,7 +269,7 @@ Après la pose d’un revêtement, des **éléments de finition** complètent et
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled%204.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled%204.png)
 
 *Cimaise*
 
@@ -279,7 +279,7 @@ Après la pose d’un revêtement, des **éléments de finition** complètent et
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/image%204.png)
 
 *Pare-chocs mural dans un hôpital (Source: signals.fr)*
 
@@ -289,7 +289,7 @@ Après la pose d’un revêtement, des **éléments de finition** complètent et
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled%205.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8E%A8%20Rev%C3%AAtements%20muraux%20entre%20esth%C3%A9tique%20et%20protectio/Untitled%205.png)
 
 *Schéma de pose d’une main courante*
 
