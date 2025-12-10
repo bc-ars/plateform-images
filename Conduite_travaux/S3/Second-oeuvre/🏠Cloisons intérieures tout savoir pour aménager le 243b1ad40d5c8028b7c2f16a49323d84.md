@@ -20,7 +20,7 @@ On rencontre différents types de **cloisons** : **amovibles ou fixes**, **ple
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image.png)
 
 *Plaque de plâtre fixée sur une ossature métallique (Source: Leroy-Merlin)*
 
@@ -30,7 +30,7 @@ On rencontre différents types de **cloisons** : **amovibles ou fixes**, **ple
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image%201.png)
 
 *Cloison humide en brique (Source: Gedimat)*
 
@@ -56,7 +56,7 @@ Pour une **isolation acoustique optimale**, il est recommandé de réaliser un *
     <p>&nbsp;</p>
     
 
-![image.png](%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image%202.png)
 
 *Construction d’un mur en carreaux de plâtre (Source: monplatrier.pro)*
 
@@ -67,13 +67,13 @@ Pour une **isolation acoustique optimale**, il est recommandé de réaliser un *
 
 <p>&nbsp;</p>
 
-[](%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/pQ9ICeBZWhKV0zOvnmRgR26qrSRXUOSruNi29zchEhOq11k8Uypb7UiA8En9QPvoJVybF0IcuuTWpoVy-VDFUumvkn9cGNRcYhyd6Y48GGttKAuwcFGM7W4PGEYiS84BJIBlO-QNKyIwbMnerg)
+[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image%20a.png)
 
 *Brique en béton cellulaire* 
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/Untitled.png)
 
 *Brique en terre cuite alvéolaire*
 
@@ -83,7 +83,7 @@ Pour une **isolation acoustique optimale**, il est recommandé de réaliser un *
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Second-oeuvre/%F0%9F%8F%A0Cloisons%20int%C3%A9rieures%20tout%20savoir%20pour%20am%C3%A9nager%20le/image%203.png)
 
 *Cloison en verrière (Source: Bleu-canard.fr)*
 
