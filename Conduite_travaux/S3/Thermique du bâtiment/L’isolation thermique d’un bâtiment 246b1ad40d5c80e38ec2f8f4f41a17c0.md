@@ -32,7 +32,7 @@ Cette méthode, courante en France, est simple à exécuter. Elle est privilégi
 
 <p>&nbsp;</p>
 
-![image.png](L%E2%80%99isolation%20thermique%20d%E2%80%99un%20b%C3%A2timent/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/L%E2%80%99isolation%20thermique%20d%E2%80%99un%20b%C3%A2timent/image.png)
 
 *Pont thermique et possible résolution au niveau du plancher (Source: gedimat-materiaux-construction.be)*
 
@@ -54,7 +54,7 @@ Appelée aussi **ITE** (**Isolation Thermique par l’Extérieur**), cette techn
 
 <p>&nbsp;</p>
 
-![image.png](L%E2%80%99isolation%20thermique%20d%E2%80%99un%20b%C3%A2timent/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/L%E2%80%99isolation%20thermique%20d%E2%80%99un%20b%C3%A2timent/image%201.png)
 
 *Différentes dispositions d’Isolation Thermique Extérieure (Source: calculeo.fr)*
 
@@ -107,7 +107,7 @@ Les **ouvertures vitrées** sont les zones les plus **déperditives**. Réduire 
 
 <p>&nbsp;</p>
 
-![image.png](L%E2%80%99isolation%20thermique%20d%E2%80%99un%20b%C3%A2timent/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/L%E2%80%99isolation%20thermique%20d%E2%80%99un%20b%C3%A2timent/image%202.png)
 
 *La méthode des trois niveaux pour l’isolation des fenêtres:  Niveaux d’étanchéité à l’air et au vent, ainsi que le niveau d’isolation thermique et acoustique pour la pose correcte des menuiseries (Source: rothoblaas.fr)*
 

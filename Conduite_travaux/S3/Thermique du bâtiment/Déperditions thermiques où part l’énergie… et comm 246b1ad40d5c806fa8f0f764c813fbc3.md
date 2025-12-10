@@ -65,7 +65,7 @@ La chaleur s’échange entre le bâtiment et le **sol** par **conduction** au t
 
 <p>&nbsp;</p>
 
-![image.png](D%C3%A9perditions%20thermiques%20o%C3%B9%20part%20l%E2%80%99%C3%A9nergie%E2%80%A6%20et%20comm/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/D%C3%A9perditions%20thermiques%20o%C3%B9%20part%20l%E2%80%99%C3%A9nergie%E2%80%A6%20et%20comm/image.png)
 
 *Répartition des déperditions thermiques dans un bâtiment mal isolé (Source: Association Qualitel)*
 
@@ -81,7 +81,7 @@ Les ponts thermiques engendrent non seulement des **pertes de chaleur**, mais re
 
 <p>&nbsp;</p>
 
-![image.png](D%C3%A9perditions%20thermiques%20o%C3%B9%20part%20l%E2%80%99%C3%A9nergie%E2%80%A6%20et%20comm/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/D%C3%A9perditions%20thermiques%20o%C3%B9%20part%20l%E2%80%99%C3%A9nergie%E2%80%A6%20et%20comm/image%201.png)
 
 *Déperditions thermiques à travers un pont thermique (Source: Alpiq.fr)*
 
@@ -112,7 +112,7 @@ La **thermographie infrarouge** consiste à utiliser des **capteurs optiques** �
 
 <p>&nbsp;</p>
 
-![image.png](D%C3%A9perditions%20thermiques%20o%C3%B9%20part%20l%E2%80%99%C3%A9nergie%E2%80%A6%20et%20comm/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/D%C3%A9perditions%20thermiques%20o%C3%B9%20part%20l%E2%80%99%C3%A9nergie%E2%80%A6%20et%20comm/image%202.png)
 
 *Affaissement de l'isolation au niveau de la toiture (Source: diagthermographie.com)*
 
@@ -126,7 +126,7 @@ L’appareil dispose d’un **objectif** qui focalise les rayons sur un **détec
 
 <p>&nbsp;</p>
 
-[](D%C3%A9perditions%20thermiques%20o%C3%B9%20part%20l%E2%80%99%C3%A9nergie%E2%80%A6%20et%20comm/BFQyNGKonX_M65nqnjpKSuh4Xv6lViV2CPDM2vto8nO1-qbFfNzsSoz3W-jQopYe3gY2mESPX-kukqWGknYW8MvkQxDa0OPwyNIvwEozoQ3t09ib4p3Cz295l8j8TaRhHw8F9Wfap1pNYPZ-Jw)
+[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/D%C3%A9perditions%20thermiques%20o%C3%B9%20part%20l%E2%80%99%C3%A9nergie%E2%80%A6%20et%20comm/imagea.png)
 
 *Caméra thermique*
 
