@@ -15,7 +15,7 @@ Le traitement des réverbérations d’un local est appliqué :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/image.png)
 
 *Schéma montrant le son direct, les réflexions et l’absorption (Source: prosolair.com)*
 
@@ -54,7 +54,7 @@ où :
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-17 à 12.24.48.png](%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/Capture_decran_2023-04-17_a_12.24.48.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -68,7 +68,7 @@ Pour les petites pièces, il peut être estimé grâce à la **formule de Sabine
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-17 à 12.26.01.png](%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/Capture_decran_2023-04-17_a_12.26.01.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/imageb.png)
 
 <p>&nbsp;</p>
 
@@ -88,7 +88,7 @@ Pour les **grands espaces** ou en l’absence de **champ diffus**, une **modéli
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-17 à 12.27.55.png](%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/Capture_decran_2023-04-17_a_12.27.55.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/imagec.png)
 
 <p>&nbsp;</p>
 
@@ -99,7 +99,7 @@ Calcul des **AAE** :
 - **AAE plâtre** = 0,55 × 46,4 × 0,8 = **20,4 m²**
 - <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-17 à 12.28.32.png](%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/Capture_decran_2023-04-17_a_12.28.32.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/imaged.png)
 
 <p>&nbsp;</p>
 
@@ -135,7 +135,7 @@ Les **matériaux absorbants** ont des performances différentes selon leur const
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/Untitled.png)
 
 *Exemple : panneaux fibreux Organic (source Knauf)*
 
@@ -146,7 +146,7 @@ Les **matériaux absorbants** ont des performances différentes selon leur const
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/Untitled%201.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/Untitled%201.png)
 
 *Exemple : plaques de plâtre perforées Gyptone (source Placoplâtre)*
 
@@ -156,7 +156,7 @@ Un graphique ci-dessous illustre la **performance d’absorption** selon chaque 
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/Untitled%202.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%94%8A%20Concevoir%20des%20espaces%20confortables%20comprendre%20et/Untitled%202.png)
 
 <p>&nbsp;</p>
 
