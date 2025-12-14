@@ -50,7 +50,7 @@ Le tableau ci-dessous récapitule les principaux **indices** relatifs aux **brui
     
     <p>&nbsp;</p>
     
-    ![Capture d’écran 2023-04-17 à 12.20.02.png](%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie,%20objectifs%20et%20solutions%20/Capture_decran_2023-04-17_a_12.20.02.png)
+    ![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie%2C%20objectifs%20et%20solutions/imagea.png)
     
 
 <p>&nbsp;</p>
@@ -75,7 +75,7 @@ Cette **formule empirique** reste approximative et nécessite une **marge d’er
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-17 à 12.20.59.png](%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie,%20objectifs%20et%20solutions%20/Capture_decran_2023-04-17_a_12.20.59.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie%2C%20objectifs%20et%20solutions/imageb.png)
 
 <p>&nbsp;</p>
 
@@ -127,7 +127,7 @@ Le tableau suivant synthétise les **objectifs courants** de **niveaux de bruits
 
 Pour **réduire** le **niveau de pression** dû aux **bruits d’impact** sous le **plancher**, trois approches sont possibles.
 
-![Capture d’écran 2023-04-17 à 12.21.26.png](%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie,%20objectifs%20et%20solutions%20/Capture_decran_2023-04-17_a_12.21.26.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie%2C%20objectifs%20et%20solutions/imagec.png)
 
 Pour atteindre les **objectifs acoustiques**, l’**exécution** doit prévenir tout **court-circuit acoustique**.
 
@@ -143,7 +143,7 @@ La pose des **chapes acoustiques** doit assurer une **désolidarisation complèt
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie,%20objectifs%20et%20solutions%20/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie%2C%20objectifs%20et%20solutions/image.png)
 
 *Source: hirschisolation.fr*
 
@@ -151,7 +151,7 @@ Une vigilance particulière est nécessaire aux **jonctions** chape/réseaux et 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie,%20objectifs%20et%20solutions%20/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie%2C%20objectifs%20et%20solutions/image%201.png)
 
 <p>&nbsp;</p>
 
@@ -177,7 +177,7 @@ Une vigilance particulière est nécessaire aux **jonctions** chape/réseaux et 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie,%20objectifs%20et%20solutions%20/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie%2C%20objectifs%20et%20solutions/image%202.png)
 
 *Si un plancher flottant est posé par local, il est souvent nécessaire d'interrompre le [plancher flottant](https://guidebatimentdurable.brussels/acoustique-dune-chape-flottante-legere-seche) au niveau de la porte.*
 
@@ -202,7 +202,7 @@ Une vigilance particulière est nécessaire aux **jonctions** chape/réseaux et 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie,%20objectifs%20et%20solutions%20/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%9B%A0%20Bruits%20d%E2%80%99impact%20th%C3%A9orie%2C%20objectifs%20et%20solutions/image%203.png)
 
 *Plinthe en contact avec revêtement de sol (Source: qualitel.org)*
 
