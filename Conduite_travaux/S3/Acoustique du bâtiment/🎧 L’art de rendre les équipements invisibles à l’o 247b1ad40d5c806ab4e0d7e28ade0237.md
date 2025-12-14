@@ -44,7 +44,7 @@ Dans un espace en **champ diffus** (présence de réverbérations) :
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-17 à 12.31.52.png](%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/Capture_decran_2023-04-17_a_12.31.52.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -110,7 +110,7 @@ Leur performance croît avec leur longueur et décroît quand la largeur de pass
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image.png)
 
 *Silencieux extraction Veolia — Pièges à sons (Source cometac.fr)*
 
@@ -120,7 +120,7 @@ Les **silencieux** se placent toujours en sortie de local technique et général
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%201.png)
 
 Défaut d’interphonie (Source: f2a.fr)
 
@@ -165,7 +165,7 @@ Il est donc essentiel de réduire, voire stopper, la **transmission des vibratio
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%202.png)
 
 <p>&nbsp;</p>
 
@@ -174,7 +174,7 @@ Il est donc essentiel de réduire, voire stopper, la **transmission des vibratio
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%203.png)
 
 ---
 
@@ -201,7 +201,7 @@ On trouve plusieurs types de supports antivibratiles :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%204.png)
 
 <p>&nbsp;</p>
 
@@ -209,7 +209,7 @@ On trouve plusieurs types de supports antivibratiles :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%205.png)
 
 <p>&nbsp;</p>
 
@@ -217,7 +217,7 @@ On trouve plusieurs types de supports antivibratiles :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/image%206.png)
 
 <p>&nbsp;</p>
 
@@ -236,7 +236,7 @@ Il est aussi indispensable d’ajouter entre l’équipement et le réseau des *
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20L%E2%80%99art%20de%20rendre%20les%20%C3%A9quipements%20invisibles%20%C3%A0%20l%E2%80%99o/Untitled.png)
 
 *Désolidarisation d’un équipement technique*
 
