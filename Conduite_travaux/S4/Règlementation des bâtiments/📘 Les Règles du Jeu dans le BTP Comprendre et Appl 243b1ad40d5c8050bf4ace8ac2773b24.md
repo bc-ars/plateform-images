@@ -32,7 +32,7 @@ Pour chaque lot technique, les documents applicables sont détaillés dans les *
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image.png)
 
 *Extrait CCTP (Source obat.fr)*
 
@@ -40,7 +40,7 @@ Cependant, les textes mis à disposition des entreprises peuvent être très div
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-273.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -122,12 +122,12 @@ Les **CGM** listent les produits entrant dans la composition du lot et mentionne
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image%201.png)
 
 *Extrait CCT - pr NF DTU 51.4-1-1:2017 (F)*
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image%202.png)
 
 *Extrait CGM - pr NF DTU 51.4-1-2:2017 (F)*
 
@@ -137,7 +137,7 @@ Le **CCS** définit les limites des obligations vis-à-vis des autres corps d’
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image%203.png)
 
 *Extrait CCS - pr NF DTU 51.4-1-2:2017 (F)*
 
@@ -197,14 +197,14 @@ Le dossier technique précise notamment le domaine d’application, les matéria
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image%204.png)
 
 *Extrait d’un avis technique par le groupe spécialisé pour SOLAR GARD® SENTINEL PLUS - 6/23-2447_V1*
 <p>&nbsp;</p>
 
 **
 
-![image.png](%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Les%20R%C3%A8gles%20du%20Jeu%20dans%20le%20BTP%20Comprendre%20et%20Appl/image%205.png)
 
 *Extrait d’un avis technique, dossier technique pour SOLAR GARD® SENTINEL PLUS - 6/23-2447_V1*
 <p>&nbsp;</p>

@@ -17,13 +17,13 @@ Depuis plusieurs décennies, les **dispositifs d’accessibilité** destinés au
     
     <p>&nbsp;</p>
     
-    ![image.png](%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes,%20%C3%A9quipements%20e/image.png)
+    ![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes%2C%20%C3%A9quipements%20e/image.png)
     
     *Abaissement de trottoir (Source: accessiblepourmoi.com)*
     
     <p>&nbsp;</p>
     
-    ![image.png](%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes,%20%C3%A9quipements%20e/image%201.png)
+    ![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes%2C%20%C3%A9quipements%20e/image%201.png)
     
     *Dalle podo-tactile en aluminium pour signal d’alerte (Source: batiweb.com)*
     
@@ -33,7 +33,7 @@ Depuis plusieurs décennies, les **dispositifs d’accessibilité** destinés au
 
 <p>&nbsp;</p>
 
-![image.png](%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes,%20%C3%A9quipements%20e/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes%2C%20%C3%A9quipements%20e/image%202.png)
 
 <p>&nbsp;</p>
 
@@ -41,7 +41,7 @@ Depuis plusieurs décennies, les **dispositifs d’accessibilité** destinés au
 
 <p>&nbsp;</p>
 
-![image.png](%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes,%20%C3%A9quipements%20e/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes%2C%20%C3%A9quipements%20e/image%203.png)
 
 <p>&nbsp;</p>
 
@@ -56,7 +56,7 @@ La **signalisation liée au handicap** sur la voie publique comprend notamment :
 
 <p>&nbsp;</p>
 
-![image.png](%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes,%20%C3%A9quipements%20e/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes%2C%20%C3%A9quipements%20e/image%204.png)
 
 <p>&nbsp;</p>
 
@@ -82,7 +82,7 @@ Les **équipements adaptés** pour les personnes handicapées concernent divers 
 
 <p>&nbsp;</p>
 
-![image.png](%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes,%20%C3%A9quipements%20e/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes%2C%20%C3%A9quipements%20e/image%205.png)
 
 *Source: portemetal.fr*
 
@@ -92,7 +92,7 @@ Les **équipements adaptés** pour les personnes handicapées concernent divers 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%98%20Accessibilit%C3%A9%20et%20Handicap%20comprendre%20les%20normes%20/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Accessibilit%C3%A9%20et%20Handicap%20comprendre%20les%20normes/image%202.png)
 
 *Plan montrant les espaces de giration, la douche, le lavabo, adaptés aux fauteuils roulants. (Source: Pinterest)*
 
@@ -102,7 +102,7 @@ Les **équipements adaptés** pour les personnes handicapées concernent divers 
 
 <p>&nbsp;</p>
 
-![image.png](%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes,%20%C3%A9quipements%20e/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes%2C%20%C3%A9quipements%20e/image%206.png)
 
 <p>&nbsp;</p>
 
@@ -188,7 +188,7 @@ Selon l’arrêté du **1er août 2006**, un logement PMR doit respecter les dim
 
 <p>&nbsp;</p>
 
-![image.png](%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes,%20%C3%A9quipements%20e/image%207.png)
+![image.png](%https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes%2C%20%C3%A9quipements%20e/image%207.png)
 
 *Source: maisons-atlantique.com*
 

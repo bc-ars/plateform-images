@@ -6,7 +6,7 @@ La **loi n° 2005-102 du 11 février 2005** sur le **handicap**, complétée par
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%98%20Accessibilit%C3%A9%20et%20Handicap%20comprendre%20les%20normes%20/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Accessibilit%C3%A9%20et%20Handicap%20comprendre%20les%20normes/image.png)
 
 *Un hall d’établissement recevant du public (ERP) pensé pour les PMR, avec circulations larges, signalétique adaptée et escaliers sécurisé (Source: pmr-equipement.fr)*
 
@@ -30,7 +30,7 @@ La problématique globale de l’**accessibilité des personnes handicapées** c
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%98%20Accessibilit%C3%A9%20et%20Handicap%20comprendre%20les%20normes%20/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Accessibilit%C3%A9%20et%20Handicap%20comprendre%20les%20normes/image%201.png)
 
 *Détail des dimensions et positions des équipements (barres d’appui, lavabo, cuvette) conformes aux normes (Source: handicapinfos.fr)*
 
@@ -99,7 +99,7 @@ La norme prévoit :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%93%98%20Accessibilit%C3%A9%20et%20Handicap%20comprendre%20les%20normes%20/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%93%98%20Accessibilit%C3%A9%20et%20Handicap%20comprendre%20les%20normes/image%202.png)
 
 *Plan montrant les espaces de giration, la douche, le lavabo, adaptés aux fauteuils roulants. (Source: Pinterest)*
 

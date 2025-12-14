@@ -18,7 +18,7 @@ Trois grandes approches existent pour les **bâtiments existants** :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%8D%20R%C3%A9glementation%20thermique%20et%20performance%20%C3%A9nerg%C3%A9ti/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%8C%8D%20R%C3%A9glementation%20thermique%20et%20performance%20%C3%A9nerg%C3%A9ti/image.png)
 
 *Illustration de déperditions (Source: ADEME)*
 
@@ -65,7 +65,7 @@ Exigences principales :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%8D%20R%C3%A9glementation%20thermique%20et%20performance%20%C3%A9nerg%C3%A9ti/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%8C%8D%20R%C3%A9glementation%20thermique%20et%20performance%20%C3%A9nerg%C3%A9ti/image%201.png)
 
 *Une représentation technique des zones de jonction (plancher/mur) où les ponts thermiques sont les plus fréquents (Source: demarrezlestravaux.fr)*
 
@@ -121,7 +121,7 @@ Conséquences :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%8D%20R%C3%A9glementation%20thermique%20et%20performance%20%C3%A9nerg%C3%A9ti/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%8C%8D%20R%C3%A9glementation%20thermique%20et%20performance%20%C3%A9nerg%C3%A9ti/image%202.png)
 
 *Schéma montrant la solution d’isolation avec rupteur thermique (Source: cohb-industrie.com)*
 

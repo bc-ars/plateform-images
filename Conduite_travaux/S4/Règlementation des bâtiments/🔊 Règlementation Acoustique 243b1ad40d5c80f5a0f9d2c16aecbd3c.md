@@ -33,7 +33,7 @@ Cette mission est confiée à un **Bureau d’Étude Acoustique**, qui intervien
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%8A%20R%C3%A8glementation%20Acoustique/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%94%8A%20R%C3%A8glementation%20Acoustique/image.png)
 
 *(Source: Guide acoustique du bâtiment d’Isover)*
 
@@ -237,7 +237,7 @@ Ainsi, la prise en compte des **règles acoustiques** influence directement le *
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%8A%20R%C3%A8glementation%20Acoustique/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%F0%9F%94%8A%20R%C3%A8glementation%20Acoustique/image%201.png)
 
 *Exemples de configurations d’enveloppe répondant aux exigences d’isolation acoustique*
 
