@@ -57,7 +57,7 @@ La formule pour déterminer l’indice global $R$ d’une paroi est :
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-17 à 12.12.20.png](Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/Capture_decran_2023-04-17_a_12.12.20.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -77,7 +77,7 @@ La performance globale $R$ de la paroi est donc :
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-17 à 12.13.21.png](Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/Capture_decran_2023-04-17_a_12.13.21.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/imageb.png)
 
 <p>&nbsp;</p>
 
@@ -88,7 +88,7 @@ La performance globale $R$ de la paroi est donc :
 L’**isolement aux bruits aériens intérieurs** $D_{nTA}$ peut être estimé grâce aux performances d’affaiblissement des composants :<p>&nbsp;</p>
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-17 à 12.13.49.png](Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/Capture_decran_2023-04-17_a_12.13.49.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/imagec.png)
 
 <p>&nbsp;</p>
 
@@ -151,7 +151,7 @@ D_{nT,A} \approx 67 + 4{,}70 - 5 ;=; 66{,}7\ \text{dB}
 
 L’**isolement aux bruits aériens extérieurs** $D_{nTA,tr}$ est évalué à partir des performances des composants de la façade :
 
-![image.png](Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/image.png)
 
 Dn,T,A,tr=10⋅log⁡(A2Tr⋅1X+Y+Z)D_{n,T,A,tr} = 10 \cdot \log \left( \frac{A}{2 T_r} \cdot \frac{1}{X+Y+Z} \right)
 
@@ -220,7 +220,7 @@ Remarques :
 - Le terme $Y$ lié aux transmissions latérales est négligé
 - <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-17 à 12.14.34.png](Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/Capture_decran_2023-04-17_a_12.14.34.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/imaged.png)
 
 <p>&nbsp;</p>
 
@@ -321,19 +321,19 @@ Problèmes courants et solutions :
 | **Menuiserie mal réglée : joints non comprimés** | **Régler correctement** la menuiserie |
 |  |  |
 
-![image.png](Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/image%201.png)
 
 *Photo - Jeu non calfeutré menuiserie extérieure/CVR*
 
 <p>&nbsp;</p>
 
-![image.png](Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/image%202.png)
 
 *Image - Joint d’étanchéité structure mal comprimé. On peut observer un espace notable entre la cloison et le joint, ce qui engendre une infiltration sonore ou d'air non maîtrisée—un point faible acoustique critique.*
 
 <p>&nbsp;</p>
 
-![image.png](Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Concevoir%20et%20ex%C3%A9cuter%20des%20b%C3%A2timents%20performants%20ac/image%203.png)
 
 <p>&nbsp;</p>
 
