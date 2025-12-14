@@ -126,7 +126,7 @@ L’appareil dispose d’un **objectif** qui focalise les rayons sur un **détec
 
 <p>&nbsp;</p>
 
-[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/D%C3%A9perditions%20thermiques%20o%C3%B9%20part%20l%E2%80%99%C3%A9nergie%E2%80%A6%20et%20comm/imagea.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/D%C3%A9perditions%20thermiques%20o%C3%B9%20part%20l%E2%80%99%C3%A9nergie%E2%80%A6%20et%20comm/imagea.png)
 
 *Caméra thermique*
 

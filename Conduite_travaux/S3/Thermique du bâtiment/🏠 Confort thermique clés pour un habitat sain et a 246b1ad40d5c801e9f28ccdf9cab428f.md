@@ -82,7 +82,7 @@ Les **économies d’énergie** liées à une **réduction excessive de l’humi
 
 <p>&nbsp;</p>
 
-[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/imageb.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/imageb.png)
 
 *Plage optimale d’humidité ambiante d’un point de vue hygiénique (Scofield et Sterling)*
 
@@ -96,7 +96,7 @@ Pour un **confort optimal**, avec une **température de l’air** proche de 22�
 
 <p>&nbsp;</p>
 
-[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/imagec.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A0%20Confort%20thermique%20cl%C3%A9s%20pour%20un%20habitat%20sain%20et%20a/imagec.png)
 
 *Plage de confort hygrothermique*
 

@@ -85,7 +85,7 @@ Le **mono-split** est la solution la plus répandue : une **unité extérieure**
 
 <p>&nbsp;</p>
 
-[](%F0%9F%8F%A2%20GTB%20&%20Confort%20Chauffage%20&%20Climatisation%20au%20servi/CUJWdU8VDmxXUtcbXSDKUhSEqv-7ZMm2xQLFv6xQ6oSySv96n2HgERlGOv50-7wL-w7GcvfZEB16OGMY8K94DO6dcuS2Dn9Elxa7_F_Chknkiu6JtnpvUC55lqmeAgTKQ7_brUKjrDEZHFUAkQ)
+[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A2%20GTB%20%26%20Confort%20Chauffage%20%26%20Climatisation%20au%20servi/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -97,7 +97,7 @@ Le **multi-split** est plus **flexible**, pouvant être intégré dans un **loge
 
 <p>&nbsp;</p>
 
-[](%F0%9F%8F%A2%20GTB%20&%20Confort%20Chauffage%20&%20Climatisation%20au%20servi/VO8KWkVwJTcD8elBIs8HMAyUcOgdKUdsM7-fLICQOwTuGnLrBSenj6IDjqUXBoIsw-tZp4PoFWt6zrjES7YjF9qSTsqGjikKnoe29FKfO2bVkfLHQLxC2f5nx0o0oez6NASzrVASKf3J5AT8pQ)
+[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Thermique%20du%20b%C3%A2timent/%F0%9F%8F%A2%20GTB%20%26%20Confort%20Chauffage%20%26%20Climatisation%20au%20servi/imageb.png)
 
 <p>&nbsp;</p>
 
