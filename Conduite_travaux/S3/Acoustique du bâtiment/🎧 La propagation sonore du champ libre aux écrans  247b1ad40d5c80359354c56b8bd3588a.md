@@ -10,7 +10,7 @@ On qualifie de **champ libre** un espace où les **ondes acoustiques** se propag
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans%20/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans/image.png)
 
 *Propagation sonore — déclin en champ libre pour source ponctuelle et linéaire (Source: bruitparif.fr)*
 
@@ -32,7 +32,7 @@ Les **sources ponctuelles** sont définies par une **taille réduite** par rappo
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans%20/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans/image%201.png)
 
 *Source: techniquesduson.com*
 
@@ -54,7 +54,7 @@ Les **sources linéaires** possèdent une **forme allongée** dans une direction
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans%20/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans/image.png)
 
 *Propagation sonore — déclin en champ libre pour source ponctuelle et linéaire (Source: bruitparif.fr)*
 
@@ -82,9 +82,9 @@ $Lp = Lw − 10Log \left({Q \over 4 \pi r ^2}\right)$
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans%20/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans/image%202.png)
 
-![image.png](%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans%20/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans/image%203.png)
 
 *Source xpair.com*
 
@@ -107,7 +107,7 @@ Les **écrans** offrent un **gain** maximal d’environ **10 dB**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans%20/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/%F0%9F%8E%A7%20La%20propagation%20sonore%20du%20champ%20libre%20aux%20%C3%A9crans/image%204.png)
 
 *Exemple d’atténuation par écran acoustique (Source: [mur-silenzo.com](http://mur-silenzo.com/))*
 
