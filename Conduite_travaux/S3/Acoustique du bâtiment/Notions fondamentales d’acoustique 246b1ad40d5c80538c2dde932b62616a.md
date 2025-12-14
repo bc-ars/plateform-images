@@ -12,11 +12,11 @@ Un son est défini par sa **fréquence**, son **intensité sonore** et sa **dur�
 
 <p>&nbsp;</p>
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image.png)
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%201.png)
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%202.png)
 
 <p>&nbsp;</p>
 
@@ -28,7 +28,7 @@ La **fréquence** représente le nombre de variations de pression de l’air par
 
 <p>&nbsp;</p>
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%203.png)
 
 *Comparaison fréquence son - Source: livre “L’acoustique du bâtiment” de Jean-Marie Rapin*
 
@@ -46,7 +46,7 @@ Le **niveau sonore**, exprimé en **décibels (dB)**, reflète **l’amplitude d
 
 <p>&nbsp;</p>
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%204.png)
 
 *Source: alloprof.qc.ca*
 
@@ -56,7 +56,7 @@ Une **faible amplitude** génère un son **doux**, alors qu’une **amplitude é
 
 <p>&nbsp;</p>
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%205.png)
 
 *Source: alloprof.qc.ca*
 
@@ -74,7 +74,7 @@ En raison de l’**échelle logarithmique** propre au décibel, **on ne peut add
 
 <p>&nbsp;</p>
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%206.png)
 
 *Tableau somme décibels avec écarts inférieurs à 10 dB (Source: Guide acoustique du bâtiment d’Isover)*
 
@@ -88,7 +88,7 @@ En revanche, si l’écart est supérieur ou égal à **10 dB**, le bruit le plu
 
 <p>&nbsp;</p>
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%207.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%207.png)
 
 *(Source: Guide acoustique du bâtiment d’Isover)*
 
@@ -104,7 +104,7 @@ Le graphique représentant le **niveau sonore (dB)** en fonction de la **fréque
 
 <p>&nbsp;</p>
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%208.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%208.png)
 
 *Exemple de spectre sonore (Source: livre “L’acoustique du bâtiment” de Jean-Marie Rapin)*
 
@@ -122,7 +122,7 @@ Lorsqu’une **onde sonore** atteint une **paroi**, son énergie se répartit en
 
 <p>&nbsp;</p>
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%209.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%209.png)
 
 *Comportement onde sonore sur une paroi (Source: audiofanzine.com)*
 
@@ -157,7 +157,7 @@ En bâtiment, on distingue :
 
 <p>&nbsp;</p>
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%2010.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%2010.png)
 
 *Bruits aérien et solidien (Source: isolation-alsace.com)*
 
@@ -175,7 +175,7 @@ Dans un bâtiment, les bruits se propagent d’un local émetteur vers un local 
 
 <p>&nbsp;</p>
 
-![image.png](Notions%20fondamentales%20d%E2%80%99acoustique/image%2011.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S3/Acoustique%20du%20b%C3%A2timent/Notions%20fondamentales%20d%E2%80%99acoustique/image%2011.png)
 
 *(Source: Guide acoustique du bâtiment d’Isover)*
 
