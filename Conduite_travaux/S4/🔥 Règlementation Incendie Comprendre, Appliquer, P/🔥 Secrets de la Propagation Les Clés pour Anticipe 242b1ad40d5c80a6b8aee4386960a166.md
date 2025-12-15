@@ -28,7 +28,7 @@ On distingue quatre modes principaux de propagation du feu, observés au cours d
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%A5%20Secrets%20de%20la%20Propagation%20Les%20Cl%C3%A9s%20pour%20Anticipe/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Secrets%20de%20la%20Propagation%20Les%20Cl%C3%A9s%20pour%20Anticipe/image.png)
 
 *Les modes de propagation*
 
@@ -123,7 +123,7 @@ Le **calcul de la charge calorifique caractéristique** est généralement réal
 
 <p>&nbsp;</p>
 
-[](%F0%9F%94%A5%20Secrets%20de%20la%20Propagation%20Les%20Cl%C3%A9s%20pour%20Anticipe/5NOZGctibjG8ByXIyozpzNqIN3GAATqGelGOS0y42cNkk3_abOwUpQPglMq1n6hj2-bNnV3kZq5ccsJe7FzZSPl0iyMK3yiM8YEhrnIFJBYz6xE3X_mHDubpxkNWMl_DDKEmH7RzjXZEB7vp0l2TDA)
+[](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Secrets%20de%20la%20Propagation%20Les%20Cl%C3%A9s%20pour%20Anticipe/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -131,7 +131,7 @@ Le **calcul de la charge calorifique caractéristique** est généralement réal
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%94%A5%20Secrets%20de%20la%20Propagation%20Les%20Cl%C3%A9s%20pour%20Anticipe/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Secrets%20de%20la%20Propagation%20Les%20Cl%C3%A9s%20pour%20Anticipe/Untitled.png)
 
 <p>&nbsp;</p>
 
@@ -149,7 +149,7 @@ L’évolution d’un incendie suit une progression que l’on peut découper en
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%A5%20Secrets%20de%20la%20Propagation%20Les%20Cl%C3%A9s%20pour%20Anticipe/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Secrets%20de%20la%20Propagation%20Les%20Cl%C3%A9s%20pour%20Anticipe/image%201.png)
 
 *Les 5 grandes phases de développement d’un incendie (Source: woodenha.com)*
 

@@ -32,7 +32,7 @@ Certains matériaux ou produits n’ont pas besoin d’essais pour établir leur
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%A5%20Ma%C3%AEtriser%20le%20feu%20comprendre%20la%20r%C3%A9action%20et%20la%20r%C3%A9/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Ma%C3%AEtriser%20le%20feu%20comprendre%20la%20r%C3%A9action%20et%20la%20r%C3%A9/image.png)
 
 *Comportement au feu de matériaux selon leurs classifications françaises (M0 pour argile/brique, M3 pour bois)*
 
@@ -73,7 +73,7 @@ Mesurée en minutes selon la courbe ISO 834 (température/temps), elle se décli
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%A5%20Ma%C3%AEtriser%20le%20feu%20comprendre%20la%20r%C3%A9action%20et%20la%20r%C3%A9/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Ma%C3%AEtriser%20le%20feu%20comprendre%20la%20r%C3%A9action%20et%20la%20r%C3%A9/image%201.png)
 
 *Schéma Coupe-feu (CF) illustrant les critères cumulatifs : résistance mécanique (SF), étanchéité aux flammes (PF) et isolation thermique (CF) - Source: prepasecu.fr*
 
@@ -84,7 +84,7 @@ L’isolation thermique impose un maximum de 180 °C en un point précis et de
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%A5%20Ma%C3%AEtriser%20le%20feu%20comprendre%20la%20r%C3%A9action%20et%20la%20r%C3%A9/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Ma%C3%AEtriser%20le%20feu%20comprendre%20la%20r%C3%A9action%20et%20la%20r%C3%A9/image%202.png)
 
 *Ce schéma explique bien le classement au feu des solutions qui existent sur le marché (Source: uniaccessgroup.com)*
 
@@ -114,7 +114,7 @@ Ce module offre une vision précise des exigences réglementaires et des critèr
 | **Exemples** | - Acier, béton, pierre → A1 / M0  - Bois massif non traité → D-s2,d0  - Moquette → C ou D | - Mur REI 120 : stable, pare-flammes et isolant pendant 2 h  - Porte EI30 : coupe-feu 30 min |
 | **Finalité** | Évite la **propagation rapide des flammes**. | Garantit la **tenue du bâtiment** le temps de l’évacuation et de l’intervention des secours. |
 
-![image.png](%F0%9F%94%A5%20Ma%C3%AEtriser%20le%20feu%20comprendre%20la%20r%C3%A9action%20et%20la%20r%C3%A9/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Ma%C3%AEtriser%20le%20feu%20comprendre%20la%20r%C3%A9action%20et%20la%20r%C3%A9/image%203.png)
 
 *Ce tableau présente les cinq catégories avec leurs caractéristiques (capacité porteuse, étanchéité, isolation) et les temps standard associés (jusqu’à 6 h) - Source: mercortecresa.com*
 
