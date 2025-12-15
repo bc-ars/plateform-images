@@ -1,4 +1,4 @@
-# Au cœur des flammes : comprendre la combustion et la théorie du feu
+# 🔥 Au cœur des flammes : comprendre la combustion et la théorie du feu
 
 <p>&nbsp;</p>
 
@@ -26,7 +26,7 @@ Une combustion ne peut se produire que si trois éléments sont simultanément p
 
 <p>&nbsp;</p>
 
-![image.png](Au%20c%C5%93ur%20des%20flammes%20comprendre%20la%20combustion%20et%20la/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/Au%20c%C5%93ur%20des%20flammes%20comprendre%20la%20combustion%20et%20la/image.png)
 
 *Le triangle du feu*
 
@@ -57,7 +57,7 @@ On distingue quatre intensités de combustion : lente, vive, très vive et insta
 
 <p>&nbsp;</p>
 
-![image.png](Au%20c%C5%93ur%20des%20flammes%20comprendre%20la%20combustion%20et%20la/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/Au%20c%C5%93ur%20des%20flammes%20comprendre%20la%20combustion%20et%20la/image%201.png)
 
 *Exemple de l’intensité de combustion du bois*
 
