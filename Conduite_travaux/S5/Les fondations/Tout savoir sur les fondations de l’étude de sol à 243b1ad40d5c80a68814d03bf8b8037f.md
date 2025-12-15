@@ -242,7 +242,7 @@ Avantages :
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/5lYzB2neQHiapoIcQVY8a3AWbD53OMqdtf1ba0i1mizM1Zp0wDNKYJF2xoQLlIvMLrl3kBGEGvGQPdL6tfKKjV87gz7ZcJX_ZK6j4LzdrZw_YdOJflDmp3Agbs8sy1oFXn7TjeE1STAKsM0tIijwxg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image10.jpg)
 
 *Puits et longrines*
 
@@ -277,7 +277,7 @@ On distingue plusieurs procédés de réalisation :
     <p>&nbsp;</p>
     
 
-[](https://lh3.googleusercontent.com/TEMpmS9vUxqYm7oDPUiNBjjWhUS2wapT5pkW-OUF_idpQzC7Z4ruxAbhxGrdq1D1fPU33E9cLKHwwgjKZs3GS2cfqlUihuDVExDos8PLcEO1xbJG3JUD84H5u1K-ErhtL8LdLZ-5WLlqysx4j7yOyg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image9.png)
 
 *Mode d’exécution pieux forés simple – sans blindage*
 
