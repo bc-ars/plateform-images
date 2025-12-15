@@ -19,7 +19,7 @@ D’après l’arrêté du 31 janvier 1986 modifié « relatif à la protection 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A8%20S%C3%A9curit%C3%A9%20incendie%20comprendre%20les%20r%C3%A8gles%20pour%20cha/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%9A%A8%20S%C3%A9curit%C3%A9%20incendie%20comprendre%20les%20r%C3%A8gles%20pour%20cha/image.png)
 
 *Classification des logements en 4 familles (source Silverwood)*
 <p>&nbsp;</p>
@@ -44,7 +44,7 @@ Par exemple, la circulaire impose une largeur minimale de 0,80 mètre pour les d
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A8%20S%C3%A9curit%C3%A9%20incendie%20comprendre%20les%20r%C3%A8gles%20pour%20cha/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%9A%A8%20S%C3%A9curit%C3%A9%20incendie%20comprendre%20les%20r%C3%A8gles%20pour%20cha/image%201.png)
 
 *Détail du classement selon l’arrêté (source Ases Sécurité)*
 

@@ -28,7 +28,7 @@ Lors d’un feu, la diffusion des fumées précède systématiquement celle des 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%92%A8Fum%C3%A9es%20d%E2%80%99incendie%20comprendre,%20ma%C3%AEtriser%20et%20surviv/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%92%A8Fum%C3%A9es%20d%E2%80%99incendie%20comprendre%2C%20ma%C3%AEtriser%20et%20surviv/image.png)
 
 *Diffusion des fumées pendant un incendie (Source: Alertis.fr)*
 
@@ -71,7 +71,7 @@ Le principal danger de la ventilation opérationnelle est de raviver le feu ou d
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%92%A8Fum%C3%A9es%20d%E2%80%99incendie%20comprendre,%20ma%C3%AEtriser%20et%20surviv/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%92%A8Fum%C3%A9es%20d%E2%80%99incendie%20comprendre%2C%20ma%C3%AEtriser%20et%20surviv/image%201.png)
 
 *Évacuation des fumées pendant un incendie (Source: dh-partner.com*
 

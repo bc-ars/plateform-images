@@ -18,19 +18,19 @@ Selon l’**arrêté du 31‑01‑1986 modifié** « relatif à la protection co
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20&%20S%C3%A9curit%C3%A9%20Incendi/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20%26%20S%C3%A9curit%C3%A9%20Incendi/Untitled.png)
 
-![Untitled](%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20&%20S%C3%A9curit%C3%A9%20Incendi/Untitled%201.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20%26%20S%C3%A9curit%C3%A9%20Incendi/Untitled%201.png)
 
-![Untitled](%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20&%20S%C3%A9curit%C3%A9%20Incendi/Untitled%202.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20%26%20S%C3%A9curit%C3%A9%20Incendi/Untitled%202.png)
 
-![Untitled](%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20&%20S%C3%A9curit%C3%A9%20Incendi/Untitled%203.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20%26%20S%C3%A9curit%C3%A9%20Incendi/Untitled%203.png)
 
-![Untitled](%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20&%20S%C3%A9curit%C3%A9%20Incendi/Untitled%204.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20%26%20S%C3%A9curit%C3%A9%20Incendi/Untitled%204.png)
 
-![Untitled](%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20&%20S%C3%A9curit%C3%A9%20Incendi/Untitled%205.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20%26%20S%C3%A9curit%C3%A9%20Incendi/Untitled%205.png)
 
-[](%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20&%20S%C3%A9curit%C3%A9%20Incendi/Oyl5y1iVtYrEcKz3jkGtWiQAnSfxlLLXahjq8YZkz_5nScrqh0kJ2XEnfmwU8sXJJ8iPc0EYXCHbIbWKic_8gKpgAmH4keS3GW82UVMXqfRwULNa36TqA5Oog-5Pr_qv-qt_aOCPsZ4-X211wF-afQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20%26%20S%C3%A9curit%C3%A9%20Incendi/Untitled%206.png)
 
 <p>&nbsp;</p>
 
@@ -113,7 +113,7 @@ La **typologie** (activité) est désignée par une **lettre** (article **GN 1
 
 <p>&nbsp;</p>
 
-[](%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20&%20S%C3%A9curit%C3%A9%20Incendi/gVJ5NBBiX_CMhmhdC8fcMODWs75_qgzDD3yPR7dYfU7u3eCrsoq5-BcNerALDXgy7TeoaPmRZEhba8pB0OEnEHQL4CVoHiHR4h6tr1uC3CFSS5YS-8qrKlMGedx5eFw44a0Vce8dHB8vpxIZvt0Vhw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20%26%20S%C3%A9curit%C3%A9%20Incendi/Untitled%207.png)
 
 *Classement des ERP*
 
@@ -186,7 +186,7 @@ Les contrôles ont lieu lors de la **construction**, avant **ouverture au public
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20&%20S%C3%A9curit%C3%A9%20Incendi/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20%26%20S%C3%A9curit%C3%A9%20Incendi/image.png)
 
 *Tableau matrice indiquant quel type d’alarme (SSI, EA, niveaux) est requis selon la catégorie (1 à 5)- Source: mon-erp.fr*
 
@@ -334,7 +334,7 @@ Sous **autorisation préfectorale**, une **étude de dangers** est requise, pré
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20&%20S%C3%A9curit%C3%A9%20Incendi/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%8F%A2%F0%9F%94%A5%20Classification%20des%20B%C3%A2timents%20%26%20S%C3%A9curit%C3%A9%20Incendi/image%201.png)
 
 *Diagramme synthétique des réglementations par type de bâtiment Source: (protecflam.com)*
 

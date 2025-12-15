@@ -52,7 +52,7 @@ L’**indice C** correspond à la **hauteur résistante au feu**. Le **CSTB**, l
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%A5%20Fa%C3%A7ades%20et%20Incendies%20Comprendre,%20Pr%C3%A9venir,%20Prot%C3%A9/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Fa%C3%A7ades%20et%20Incendies%20Comprendre%2C%20Pr%C3%A9venir%2C%20Prot%C3%A9/image.png)
 
 *Méthode d’essais LEPIR 2 (Source: effectis.com)*
 
@@ -72,9 +72,9 @@ Selon le type et l’usage du bâtiment, le **total C + D** doit atteindre une *
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%A5%20Fa%C3%A7ades%20et%20Incendies%20Comprendre,%20Pr%C3%A9venir,%20Prot%C3%A9/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Fa%C3%A7ades%20et%20Incendies%20Comprendre%2C%20Pr%C3%A9venir%2C%20Prot%C3%A9/image%201.png)
 
-![image.png](%F0%9F%94%A5%20Fa%C3%A7ades%20et%20Incendies%20Comprendre,%20Pr%C3%A9venir,%20Prot%C3%A9/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Fa%C3%A7ades%20et%20Incendies%20Comprendre%2C%20Pr%C3%A9venir%2C%20Prot%C3%A9/image%202.png)
 
 *Ce schéma illustre la mesure des indices C (distance verticale) et D (distance horizontale) définis par l’Instruction Technique n° 249 C+D (Source: Isover)*
 
@@ -88,7 +88,7 @@ Cette **instruction** précise les **conditions d’application** des prescripti
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%A5%20Fa%C3%A7ades%20et%20Incendies%20Comprendre,%20Pr%C3%A9venir,%20Prot%C3%A9/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%94%A5%20Fa%C3%A7ades%20et%20Incendies%20Comprendre%2C%20Pr%C3%A9venir%2C%20Prot%C3%A9/image%203.png)
 
 *On observe la configuration d’un essai conforme à l’arrêté du 10 septembre 1970, avec foyer au rez-de-chaussée et les étages testés au-dessus (Source: effectis.com)*
 

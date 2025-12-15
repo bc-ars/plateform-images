@@ -107,7 +107,7 @@ Un SSI est constitué de deux sous-ensembles principaux :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image.png)
 
 *Schéma d’un système de sécurité incendie (Source: securipro.fr)*
 
@@ -142,7 +142,7 @@ C’est la configuration maximale d’un SSI. Elle associe :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%201.png)
 
 *Source: bl-incendie.com*
 
@@ -163,7 +163,7 @@ Elle ne comprend **pas de SDI**, mais uniquement un **SMSI** composé de :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%202.png)
 
 *Source: bl-incendie.com*
 
@@ -184,7 +184,7 @@ Chaque ensemble comprend :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%203.png)
 
 *Source: bl-incendie.com*
 
@@ -205,7 +205,7 @@ Chaque ensemble indépendant comprend :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%204.png)
 
 *Source: bl-incendie.com*
 
@@ -227,7 +227,7 @@ Il s’agit de la configuration la plus simple, constituée d’un **SMSI minima
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%205.png)
 
 *Source: bl-incendie.com*
 
@@ -262,7 +262,7 @@ Le Système de Détection Incendie (SDI) regroupe plusieurs dispositifs :
     <p>&nbsp;</p>
     
 
-![image.png](%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/%F0%9F%9A%A8%20Syst%C3%A8mes%20et%20strat%C3%A9gies%20de%20s%C3%A9curit%C3%A9%20incendie%20pr%C3%A9v/image%206.png)
 
 *Le champ de réaction des différents détecteurs en fonction de l’évolution du feu (Source: orglmeister.de)*
 

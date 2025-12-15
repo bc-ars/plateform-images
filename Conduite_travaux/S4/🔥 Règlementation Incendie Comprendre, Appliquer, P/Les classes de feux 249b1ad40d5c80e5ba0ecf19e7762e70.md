@@ -10,7 +10,7 @@ Lors d’un incendie, les feux sont classifiés selon la **nature du combustible
 
 <p>&nbsp;</p>
 
-![image.png](Les%20classes%20de%20feux/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/Les%20classes%20de%20feux/image.png)
 
 *Ce schéma synthétique montre quelles classes de feu peuvent être éteintes par quel type d’extincteur (poudre pour feux braisants, poudre métal, mousse, eau, CO₂, extincteur spécial graisses) - Source: aluplec-signaletique.fr*
 
@@ -68,7 +68,7 @@ Apparue en **1998** aux États-Unis (nommée « **K** » selon la norme **NFPA 1
 
 ### **Tableau synthétique:**
 
-![image.png](Les%20classes%20de%20feux/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/%F0%9F%94%A5%20R%C3%A8glementation%20Incendie%20Comprendre%2C%20Appliquer%2C%20P/Les%20classes%20de%20feux/image%201.png)
 
 *Tableau récapitulatif pour savoir quel type d’extincteur utiliser en fonction de la classe de feu (Source: mon-erp.fr)*
 
