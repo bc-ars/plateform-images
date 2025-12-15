@@ -42,7 +42,7 @@ Il existe deux grandes familles de fondations :
     <p>&nbsp;</p>
     
 
-[](https://lh4.googleusercontent.com/5556zhBs1XVeSjg-YCMw0-bsGlV-H_xD-_vN9zXUOYcLCtkxpaiE_FO130EE3UkNTqeLnn2JMTgHmPyam8z17zgFt5g17rb6yfdTdssyCGges5Zq2zJLDFy_IDB68HaFtRVh2p-Psqe0mK124swxHA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image1.jpg)
 
 *Les différents types de fondations - Source BTP Cours.*
 
@@ -73,7 +73,7 @@ On distingue trois types principaux de fondations superficielles :
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/nPN8ZyMqU4QaHM0eTd98qp2JymCYL_yHwjGbv6wh8RrfcgUHqgYkXba3FQSdASJoYIHldyzxrPFgmLe1lfD-1Z9dFTLQUfPyUlYHBi6kQrBP-AHK7TsoZjnxFQx_HlZRPJEJ1hErhFWrSBsxXIsVWw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/imagea.jpg)
 
 <p>&nbsp;</p>
 
@@ -81,7 +81,7 @@ On distingue trois types principaux de fondations superficielles :
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/rqhlRPyUWO-aWzjxsX1tHjt3rXp4gF287bzM7kPcg9VvySG5xHcNAf0-vQuntxcUIKoNd4BQkGIl1ET17_UR0saNe3Jx-uihvG8YFoM9IfJjZnmlWmDBmAuqJPQed4shxmKH6YNaZuFbdfdMq-k-aQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image1.jpg)
 
 <p>&nbsp;</p>
 
@@ -97,7 +97,7 @@ Les semelles filantes peuvent être construites en :
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/fLNpAD6RIHCWjjAVjOmi0WAqIyYIjYK3nJnZOQtkwkIGN-dZpukLHC9-UIul8WTG0KbY2EtmTLFCDvUGmVgVxFpXP_9zW8nzphuORyOsX270ux3wKgb1hIJ450eXjb0VRER1Z5xbqv9JC8V80h-HnA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image2.jpg)
 
 <p>&nbsp;</p>
 
@@ -105,7 +105,7 @@ Les semelles filantes peuvent être construites en :
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/ur-qbG1i5TwOQ_j0Fn3bGE4FysviI6ItrboQsfcemglbAYCrzyx1nE-FP-1VssdvJR2m5ULHA_T0QQ7cbCNJZAaMv0HhH95qmxEGYLVnCbYtDc607rv4swBzCNA1UU2YDIgl8nfuSbldZoAggbnxHw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image4.jpg)
 
 <p>&nbsp;</p>
 
@@ -113,7 +113,7 @@ Les semelles filantes peuvent être construites en :
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/2gf2ex6w4OiOqsvSnyJWZVsUadOS8Vo81C7_2CCfmnBhBnJ0UYJeF-e4YaGqciEqrjps5z3szVfqTQRoFxByWx4pVa5yJB8FIaS2lyiNvWbKiNsThFudhYdZMDQ52dgnUmyWFVGnbIjKheCNxTBK2A)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image5.png)
 
 <p>&nbsp;</p>
 
@@ -121,7 +121,7 @@ Les semelles filantes peuvent être construites en :
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/ErBKVP2N7RBDfH-SDlUrfUTLT6p3kSh-nlMKQiYtNflRAyY_9uWrvgg-3isChvVj8bRFh6rsu5XscQ7lCsvSiAfyVjNmPaj9sb0_gd2bkt62sgJirUcPwhgqDTbTruVR6WOx-u1hwBUnOq082xLPew)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image6.jpg)
 
 *Types de semelles filantes - Source : Btp-cours*
 
@@ -143,9 +143,9 @@ La surface supérieure, destinée au coffrage du poteau, doit comporter un **ren
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/LP2W2wbOKMU-w2JGa0JIYlIKgY3uLyGlopVpDlJ1PSmk7pctwyWAb2QLXXKprI065De6P6irYRX7Z5sEtUoZM7bpYF7FPBz8C45cKvvpzf3B64XYRAnOZZ6nHG1Wtsli3P-l9KGuizOpMqWmDXMsTw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image7.jpg)
 
-[](https://lh3.googleusercontent.com/QtnK06E7gYHxNdIGs4cmunM2OQTTlQXAKXj3CWlDhtvwMfcjBrAZPMuU6nxvCFn0WztCtq-25tTNXo2c3ae__AqtNghdNfD99L6Qxiw7Tnw0Q6OQ5hehLnCDHFJ1uhMvDWkmB_kpsWsfiOEElZ7dXQ)
+
 
 <p>&nbsp;</p>
 
@@ -160,7 +160,7 @@ Ses avantages :
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/QmazOomJznWgKkNprKN-PqfidW9uKtaYuNUNXwnDmy93Gc4hPSAXSXELBnETrvuddWnf2xtcU6CcqhoMIwUH5h-mhjAHyCbNJMq-Q6NFVuNz0yTd-UsWGbrJgsZXE5DCT--kzdGR1UwH5Px10fhFmQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image8.jpg)
 
 <p>&nbsp;</p>
 
@@ -183,7 +183,7 @@ Il ne faut pas confondre **radier**, **dalle portée** et **dallage sur terre-pl
 
 <p>&nbsp;</p>
 
-![image.png](Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image.png)
 
 *Un radier est une dalle de béton armé couvrant toute la surface du bâtiment et servant de fondation (Source: geotechniquehse.com)*
 
