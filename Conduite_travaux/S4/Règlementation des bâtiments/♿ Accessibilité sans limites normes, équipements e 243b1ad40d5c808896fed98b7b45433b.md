@@ -188,7 +188,7 @@ Selon l’arrêté du **1er août 2006**, un logement PMR doit respecter les dim
 
 <p>&nbsp;</p>
 
-![image.png](%https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes%2C%20%C3%A9quipements%20e/image%207.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/R%C3%A8glementation%20des%20b%C3%A2timents/%E2%99%BF%20Accessibilit%C3%A9%20sans%20limites%20normes%2C%20%C3%A9quipements%20e/image%207.png)
 
 *Source: maisons-atlantique.com*
 
