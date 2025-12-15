@@ -6,7 +6,7 @@ Dans cette leçon, nous allons vous présenter la démarche ECOFLEX sur le thèm
 
 <p>&nbsp;</p>
 
-![law.gif](Loi%20et%20label%20environnement/law.gif)
+![law.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/law.gif)
 
 <p>&nbsp;</p>
 
@@ -22,7 +22,7 @@ Un label certifie les performances d'un matériau, d'un artisan ou d'un bâtimen
 
 <p>&nbsp;</p>
 
-![loi1.png](Loi%20et%20label%20environnement/loi1.png)
+![loi1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi1.png)
 
 *Exemples de label*
 
@@ -32,7 +32,7 @@ On peut citer plusieurs labels dans le domaine du bâtiment, comme par exemple B
 
 <p>&nbsp;</p>
 
-![loi2.png](Loi%20et%20label%20environnement/loi2.png)
+![loi2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi2.png)
 
 *Les 4 niveaux du label Attitudes Environnement de VINCI Construction.*
 
@@ -42,7 +42,7 @@ On peut citer plusieurs labels dans le domaine du bâtiment, comme par exemple B
 
 <p>&nbsp;</p>
 
-![loi3.png](Loi%20et%20label%20environnement/loi3.png)
+![loi3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi3.png)
 
 *La certification BREEAM*
 
@@ -52,7 +52,7 @@ On peut citer plusieurs labels dans le domaine du bâtiment, comme par exemple B
 
 <p>&nbsp;</p>
 
-![loi4.png](Loi%20et%20label%20environnement/loi4.png)
+![loi4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi4.png)
 
 *Les 10 critères de la certification BREEAM*
 
@@ -62,13 +62,13 @@ Elle a différents objectifs comme réduire les coûts de fonctionnement du bât
 
 <p>&nbsp;</p>
 
-![loi5.png](Loi%20et%20label%20environnement/loi5.png)
+![loi5.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi5.png)
 
 *Le classement de la certification BREEAM*
 
 <p>&nbsp;</p>
 
-![loi6.png](Loi%20et%20label%20environnement/loi6.png)
+![loi6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi6.png)
 
 *La certification Green BIM Model As Built* 
 
@@ -78,7 +78,7 @@ En conférant au bâtiment une dimension plus verte, la certification Green BIM 
 
 <p>&nbsp;</p>
 
-![loi7.png](Loi%20et%20label%20environnement/loi7.png)
+![loi7.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi7.png)
 
 <p>&nbsp;</p>
 
@@ -94,7 +94,7 @@ Ses objectifs sont multiples comme :
 
 # La RE 2020
 
-![loi8.png](Loi%20et%20label%20environnement/loi8.png)
+![loi8.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi8.png)
 
 *La RE 2020*
 
@@ -110,7 +110,7 @@ Trois indicateurs ressortent de l'objectif numéro 1 de la réglementation :
 
 <p>&nbsp;</p>
 
-![loi9.png](Loi%20et%20label%20environnement/loi9.png)
+![loi9.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi9.png)
 
 *Les indicateurs de la RE 2020 pour une moindre consommation et l’utilisation d’énergie décarbonée*
 
@@ -125,7 +125,7 @@ Deux indicateurs ressortent de l'objectif numéro 2 de la réglementation :
 
 <p>&nbsp;</p>
 
-![loi10.png](Loi%20et%20label%20environnement/loi10.png)
+![loi10.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi10.png)
 
 *Les indicateurs de la RE 2020 pour réduire l’empreinte carbone des constructions*
 
@@ -133,7 +133,7 @@ Deux indicateurs ressortent de l'objectif numéro 2 de la réglementation :
 
 De nombreux bâtiments construits selon la RT 2012 se sont avérés inconfortables en cas de forte chaleur. Or, le réchauffement climatique va s'intensifier et augmenter le nombre d'épisodes caniculaires. Pour que les bâtiments de demain soient adaptés au confort d'été, cette exigence spécifique est prise en compte par l’indicateur Degrés Heure (DH).
 
-![loi11.png](Loi%20et%20label%20environnement/loi11.png)
+![loi11.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi11.png)
 
 *L’indicateur Degrés Heure (DH) de la RE 2020*
 
@@ -149,7 +149,7 @@ Les sols jouant un rôle essentiel pour l'accueil de la biodiversité, la séque
 
 <p>&nbsp;</p>
 
-![loi12.png](Loi%20et%20label%20environnement/loi12.png)
+![loi12.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi12.png)
 
 *Schéma de l’artificialisation des sols*
 
@@ -159,7 +159,7 @@ Artificialiser les sols en bâtissant ou en les recouvrant d'asphalte revient do
 
 <p>&nbsp;</p>
 
-![loi13.png](Loi%20et%20label%20environnement/loi13.png)
+![loi13.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi13.png)
 
 *La loi Climat et résilience*
 
@@ -173,7 +173,7 @@ Voici la feuille de route des objectifs de la loi ZAN :
 
 <p>&nbsp;</p>
 
-![loi14.png](Loi%20et%20label%20environnement/loi14.png)
+![loi14.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi14.png)
 
 *Feuille de route des objectifs de la loi ZAN* 
 
@@ -197,7 +197,7 @@ Ce que l'on fait aujourd'hui, c'est recycler les friches artificialisées pour l
 
 <p>&nbsp;</p>
 
-![loi15.png](Loi%20et%20label%20environnement/loi15.png)
+![loi15.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi15.png)
 
 *Recyclage d’une zone industrielle pour le chantier Universeine (Saint-Denis)*
 
@@ -211,7 +211,7 @@ Novaxia ([https://www.novaxia.fr/mission/recyclage-urbain/](https://www.novaxia.
 
 <p>&nbsp;</p>
 
-![loi16.png](Loi%20et%20label%20environnement/loi16.png)
+![loi16.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Loi%20et%20label%20environnement/loi16.png)
 
 *Réversibilté des bâtiments sur le chantier Universeine : des bureaux deviennent des logements après les JO 2024.*
 

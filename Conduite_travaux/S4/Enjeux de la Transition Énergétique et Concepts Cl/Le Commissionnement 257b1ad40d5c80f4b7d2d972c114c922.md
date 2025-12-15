@@ -14,7 +14,7 @@ Dans cette leçon, nous allons aborder le thème du commissionnement.
 
 <p>&nbsp;</p>
 
-![commissionnement1.png](Le%20Commissionnement/commissionnement1.png)
+![commissionnement1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement1.png)
 
 *La mission de commissionnement*
 
@@ -42,7 +42,7 @@ Au cours d'une mission de commissionnement, tous les acteurs du projet en béné
 
 <p>&nbsp;</p>
 
-![commissionnement2.png](Le%20Commissionnement/commissionnement2.png)
+![commissionnement2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement2.png)
 
 <p>&nbsp;</p>
 
@@ -50,7 +50,7 @@ Au cours d'une mission de commissionnement, tous les acteurs du projet en béné
 
 <p>&nbsp;</p>
 
-![commissionnement3.png](Le%20Commissionnement/commissionnement3.png)
+![commissionnement3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement3.png)
 
 <p>&nbsp;</p>
 
@@ -58,7 +58,7 @@ Au cours d'une mission de commissionnement, tous les acteurs du projet en béné
 
 <p>&nbsp;</p>
 
-![commissionnement4.png](Le%20Commissionnement/commissionnement4.png)
+![commissionnement4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement4.png)
 
 <p>&nbsp;</p>
 
@@ -66,7 +66,7 @@ Au cours d'une mission de commissionnement, tous les acteurs du projet en béné
 
 <p>&nbsp;</p>
 
-![commissionnement5.png](Le%20Commissionnement/commissionnement5.png)
+![commissionnement5.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement5.png)
 
 <p>&nbsp;</p>
 
@@ -74,7 +74,7 @@ Au cours d'une mission de commissionnement, tous les acteurs du projet en béné
 
 <p>&nbsp;</p>
 
-![commissionnement6.png](Le%20Commissionnement/commissionnement6.png)
+![commissionnement6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement6.png)
 
 <p>&nbsp;</p>
 
@@ -90,7 +90,7 @@ Voici les phases du processus idéal que le commissionnement devrait suivre dans
 
 <p>&nbsp;</p>
 
-![commissionnement7.png](Le%20Commissionnement/commissionnement7.png)
+![commissionnement7.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement7.png)
 
 *Processus idéal de commissionnement*
 
@@ -114,7 +114,7 @@ Lier le BIM et le commissionnement est possible et présente plusieurs avantages
 
 <p>&nbsp;</p>
 
-![commissionnement8.png](Le%20Commissionnement/commissionnement8.png)
+![commissionnement8.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement8.png)
 
 <p>&nbsp;</p>
 
@@ -122,7 +122,7 @@ Lier le BIM et le commissionnement est possible et présente plusieurs avantages
 
 <p>&nbsp;</p>
 
-![commissionnement9.png](Le%20Commissionnement/commissionnement9.png)
+![commissionnement9.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement9.png)
 
 <p>&nbsp;</p>
 
@@ -130,7 +130,7 @@ Lier le BIM et le commissionnement est possible et présente plusieurs avantages
 
 <p>&nbsp;</p>
 
-![commissionnement10.png](Le%20Commissionnement/commissionnement10.png)
+![commissionnement10.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement10.png)
 
 <p>&nbsp;</p>
 
@@ -142,7 +142,7 @@ Lier le BIM et le commissionnement est possible et présente plusieurs avantages
 
 <p>&nbsp;</p>
 
-![commissionnement11.png](Le%20Commissionnement/commissionnement11.png)
+![commissionnement11.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement11.png)
 
 <p>&nbsp;</p>
 
@@ -150,7 +150,7 @@ Il est possible d'utiliser les simulations thermiques dynamiques, ainsi que les 
 
 <p>&nbsp;</p>
 
-![commissionnement12.png](Le%20Commissionnement/commissionnement12.png)
+![commissionnement12.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement12.png)
 
 <p>&nbsp;</p>
 
@@ -168,7 +168,7 @@ Les fonctionnalités associées sont multiples et **permettent aux objets de se 
 
 <p>&nbsp;</p>
 
-![commissionnement13.png](Le%20Commissionnement/commissionnement13.png)
+![commissionnement13.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement13.png)
 
 *Processus de l’AIoT*
 
@@ -178,7 +178,7 @@ L'AIoT peut être utilisé dans le domaine automobile, du transport, et peut êt
 
 <p>&nbsp;</p>
 
-![commissionnement14.png](Le%20Commissionnement/commissionnement14.png)
+![commissionnement14.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement14.png)
 
 *Les différents usages de l’AIoT*
 
@@ -200,7 +200,7 @@ Voici un aperçu du **campus AgroParisTech :**
 
 <p>&nbsp;</p>
 
-![commissionnement15.png](Le%20Commissionnement/commissionnement15.png)
+![commissionnement15.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement15.png)
 
 *Campus AgroParisTech*
 
@@ -210,7 +210,7 @@ Avec une superficie de plancher impressionnante de 65 000 m², ce campus offre u
 
 <p>&nbsp;</p>
 
-![commissionnement16.png](Le%20Commissionnement/commissionnement16.png)
+![commissionnement16.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement16.png)
 
 Les étapes de c*ommissionnement pour une centrale de traitement d'air*
 
@@ -220,7 +220,7 @@ Les étapes de c*ommissionnement pour une centrale de traitement d'air*
 
 <p>&nbsp;</p>
 
-![commissionnement17.png](Le%20Commissionnement/commissionnement17.png)
+![commissionnement17.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement17.png)
 
 *Phase de tests techniques pour une centrale de traitement d'air*
 
@@ -232,7 +232,7 @@ Des tests de performance sont donc effectués pour évaluer la capacité de refr
 
 <p>&nbsp;</p>
 
-![commissionnement18.png](Le%20Commissionnement/commissionnement18.png)
+![commissionnement18.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Le%20Commissionnement/commissionnement18.png)
 
 *Résultats des tests de performance*
 

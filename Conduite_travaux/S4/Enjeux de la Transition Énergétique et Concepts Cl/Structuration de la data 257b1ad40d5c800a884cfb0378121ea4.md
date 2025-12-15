@@ -6,7 +6,7 @@ Dans cette leçon, nous allons vous présenter la démarche ECOFLEX sur le thèm
 
 <p>&nbsp;</p>
 
-![data.gif](Structuration%20de%20la%20data/data.gif)
+![data.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Structuration%20de%20la%20data/data.gif)
 
 <p>&nbsp;</p>
 
@@ -54,7 +54,7 @@ Il existe plusieurs structures de données que nous allons vous présenter :
 
 <p>&nbsp;</p>
 
-![data1.png](Structuration%20de%20la%20data/data1.png)
+![data1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Structuration%20de%20la%20data/data1.png)
 
 <p>&nbsp;</p>
 
@@ -101,7 +101,7 @@ Voici une explication simple de ces principes à travers des exemples concrets :
 
 <p>&nbsp;</p>
 
-![data2.png](Structuration%20de%20la%20data/data2.png)
+![data2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Structuration%20de%20la%20data/data2.png)
 
 <p>&nbsp;</p>
 
@@ -109,7 +109,7 @@ Voici une explication simple de ces principes à travers des exemples concrets :
 
 <p>&nbsp;</p>
 
-![data3.png](Structuration%20de%20la%20data/data3.png)
+![data3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Structuration%20de%20la%20data/data3.png)
 
 <p>&nbsp;</p>
 
@@ -117,7 +117,7 @@ Voici une explication simple de ces principes à travers des exemples concrets :
 
 <p>&nbsp;</p>
 
-![data4.png](Structuration%20de%20la%20data/data4.png)
+![data4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Structuration%20de%20la%20data/data4.png)
 
 <p>&nbsp;</p>
 

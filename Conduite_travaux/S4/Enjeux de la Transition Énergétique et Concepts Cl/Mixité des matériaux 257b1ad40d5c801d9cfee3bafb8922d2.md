@@ -18,7 +18,7 @@ Mais surtout, le bois répond à de nombreux enjeux environnementaux. Il faut sa
 
 <p>&nbsp;</p>
 
-![mixite1.png](Mixit%C3%A9%20des%20mat%C3%A9riaux/mixite1.png)
+![mixite1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Mixit%C3%A9%20des%20mat%C3%A9riaux/mixite1.png)
 
 *Cycle de production du matériau bois*
 
@@ -32,7 +32,7 @@ Et ce n'est pas tout : **ses propriétés permettent également de faire des con
 
 <p>&nbsp;</p>
 
-![mixite2.png](Mixit%C3%A9%20des%20mat%C3%A9riaux/mixite2.png)
+![mixite2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Mixit%C3%A9%20des%20mat%C3%A9riaux/mixite2.png)
 
 *Assemblage en chantier de matériaux produits hors-sites*
 
@@ -64,7 +64,7 @@ Pour illustrer notre propos, voici un cas de chantier où l'on utilise le bois p
 
 <p>&nbsp;</p>
 
-![mixite3.png](Mixit%C3%A9%20des%20mat%C3%A9riaux/mixite3.png)
+![mixite3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Mixit%C3%A9%20des%20mat%C3%A9riaux/mixite3.png)
 
 <p>&nbsp;</p>
 
@@ -106,7 +106,7 @@ C’est le cas, par exemple, du logiciel 3D spécialisé Dietrich’s ([https://
 
 <p>&nbsp;</p>
 
-![mixite5.png](Mixit%C3%A9%20des%20mat%C3%A9riaux/mixite5.png)
+![mixite5.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Mixit%C3%A9%20des%20mat%C3%A9riaux/mixite5.png)
 
 *Capture d’écran du logiciel Dietrich’s*
 
@@ -118,7 +118,7 @@ D’autres logiciels de conception. pour la construction bois existent comme :
 
 <p>&nbsp;</p>
 
-![mixite6.png](Mixit%C3%A9%20des%20mat%C3%A9riaux/mixite6.png)
+![mixite6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Mixit%C3%A9%20des%20mat%C3%A9riaux/mixite6.png)
 
 *Exemple de logiciels de conception prenant en compte la construction bois*
 

@@ -6,7 +6,7 @@ Cette leçon aura pour objectif de vous présenter la démarche ECOFLEX sur le t
 
 <p>&nbsp;</p>
 
-![less.gif](Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/less.gif)
+![less.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/less.gif)
 
 <p>&nbsp;</p>
 
@@ -18,7 +18,7 @@ Cette leçon aura pour objectif de vous présenter la démarche ECOFLEX sur le t
 
 <p>&nbsp;</p>
 
-![lowtech1.png](Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech1.png)
+![lowtech1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech1.png)
 
 *La Low-Tech*
 
@@ -40,7 +40,7 @@ Il existe plusieurs principes de base lorsqu'on parle de Low-tech:
 
 <p>&nbsp;</p>
 
-![lowtech2.jpeg](Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech2.jpeg)
+![lowtech2.jpeg](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech2.jpeg)
 
 <p>&nbsp;</p>
 
@@ -56,7 +56,7 @@ Voici quelques exemples où la transition low-tech a un rôle important à jouer
 
 <p>&nbsp;</p>
 
-![lowtech3.png](Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech3.png)
+![lowtech3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech3.png)
 
 <p>&nbsp;</p>
 
@@ -64,7 +64,7 @@ Voici quelques exemples où la transition low-tech a un rôle important à jouer
 
 <p>&nbsp;</p>
 
-![lowtech4.png](Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech4.png)
+![lowtech4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech4.png)
 
 <p>&nbsp;</p>
 
@@ -72,7 +72,7 @@ Voici quelques exemples où la transition low-tech a un rôle important à jouer
 
 <p>&nbsp;</p>
 
-![lowtech5.png](Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech5.png)
+![lowtech5.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech5.png)
 
 <p>&nbsp;</p>
 
@@ -80,7 +80,7 @@ Voici quelques exemples où la transition low-tech a un rôle important à jouer
 
 <p>&nbsp;</p>
 
-![lowtech6.png](Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech6.png)
+![lowtech6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech6.png)
 
 <p>&nbsp;</p>
 
@@ -103,7 +103,7 @@ En conclusion, la transition low-tech s'articule autour de plusieurs piliers ess
 
 <p>&nbsp;</p>
 
-![lowtech7.png](Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech7.png)
+![lowtech7.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Start-up%20et%20transition%20%C2%AB%20low-tech%20%C2%BB/lowtech7.png)
 
 <p>&nbsp;</p>
 

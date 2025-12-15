@@ -14,7 +14,7 @@ Avant de commencer, il est important de comprendre comment fonctionne l'énergie
 
 <p>&nbsp;</p>
 
-![solaire1.png](Energie%20solaire%20et%20Data/solaire1.png)
+![solaire1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire1.png)
 
 *Fonctionnement des panneaux solaires photovoltaïques*
 
@@ -24,13 +24,13 @@ Cette électricité peut ensuite être utilisée pour alimenter les bâtiments, 
 
 <p>&nbsp;</p>
 
-![solaire2.png](Energie%20solaire%20et%20Data/solaire2.png)
+![solaire2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire2.png)
 
 *En cas de surproduction, l'électricité générée peut être stockée dans des batteries placées en dérivation.*
 
 <p>&nbsp;</p>
 
-![solaire3.png](Energie%20solaire%20et%20Data/solaire3.png)
+![solaire3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire3.png)
 
 <p>&nbsp;</p>
 
@@ -55,7 +55,7 @@ Mais à quoi sert la collecte des données pour les panneaux solaires ? **La col
 
 <p>&nbsp;</p>
 
-![solaire4.png](Energie%20solaire%20et%20Data/solaire4.png)
+![solaire4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire4.png)
 
 *Exemple de tableau de bord d’une installation photovoltaïque.*
 
@@ -75,7 +75,7 @@ Par exemple, si les données montrent une baisse soudaine de la production d'én
 
 <p>&nbsp;</p>
 
-![solaire5.png](Energie%20solaire%20et%20Data/solaire5.png)
+![solaire5.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire5.png)
 
 *Système de surveillances des panneaux solaires*
 
@@ -87,7 +87,7 @@ L'intelligence artificielle peut alors contrôler les panneaux et donner des ord
 
 <p>&nbsp;</p>
 
-![solaire6.png](Energie%20solaire%20et%20Data/solaire6.png)
+![solaire6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire6.png)
 
 *Thermographie aérienne par drone*
 
@@ -99,7 +99,7 @@ L'analyse des images recueillies peut ensuite déclencher des opérations de mai
 
 <p>&nbsp;</p>
 
-![solaire7.png](Energie%20solaire%20et%20Data/solaire7.png)
+![solaire7.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire7.png)
 
 *Robots permettant de gérer l’obscurcissement du verre*
 
@@ -121,7 +121,7 @@ La plateforme rotative est munie d'une brosse de lavage. L'engin est alimenté e
 
 <p>&nbsp;</p>
 
-![solaire8.png](Energie%20solaire%20et%20Data/solaire8.png)
+![solaire8.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire8.png)
 
 *Inclinaison et orientation des panneaux solaires en fonction de leur position*
 
@@ -147,7 +147,7 @@ L'utilisation des données récoltées dans le domaine de l'énergie solaire peu
 
 <p>&nbsp;</p>
 
-![solaire9.png](Energie%20solaire%20et%20Data/solaire9.png)
+![solaire9.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire9.png)
 
 *Comparaison entre l’énergie éolienne et l’énergie solaire*
 
@@ -173,7 +173,7 @@ C'est déjà le cas pour tous les aéroports du Portugal, qui se suffisent en é
 
 <p>&nbsp;</p>
 
-![solaire10.png](Energie%20solaire%20et%20Data/solaire10.png)
+![solaire10.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire10.png)
 
 *Exemple d’application de SunMind dans un aéroport*
 
@@ -185,7 +185,7 @@ Voyons de plus près leur dernier projet sur le sol français : SunMind a mis en
 
 <p>&nbsp;</p>
 
-![solaire11.png](Energie%20solaire%20et%20Data/solaire11.png)
+![solaire11.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire11.png)
 
 *SunMind a mis en service la première centrale solaire pour le pôle nucléaire de VINCI Energies*
 
@@ -199,7 +199,7 @@ Le projet comprend 2500 mètres carrés de bureaux et 1000 mètres carrés de lo
 
 <p>&nbsp;</p>
 
-![solaire12.png](Energie%20solaire%20et%20Data/solaire12.png)
+![solaire12.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire12.png)
 
 *L’Archipel (siège de VINCI)*
 
@@ -211,7 +211,7 @@ Le projet comprend 2500 mètres carrés de bureaux et 1000 mètres carrés de lo
 
 <p>&nbsp;</p>
 
-![solaire13.png](Energie%20solaire%20et%20Data/solaire13.png)
+![solaire13.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire13.png)
 
 <p>&nbsp;</p>
 
@@ -219,7 +219,7 @@ Le projet comprend 2500 mètres carrés de bureaux et 1000 mètres carrés de lo
 
 <p>&nbsp;</p>
 
-![solaire14.png](Energie%20solaire%20et%20Data/solaire14.png)
+![solaire14.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire14.png)
 
 <p>&nbsp;</p>
 
@@ -231,7 +231,7 @@ Le projet comprend 2500 mètres carrés de bureaux et 1000 mètres carrés de lo
 
 <p>&nbsp;</p>
 
-![solaire15.png](Energie%20solaire%20et%20Data/solaire15.png)
+![solaire15.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire15.png)
 
 *Tour The Link à La Défense (Nanterre)*
 
@@ -243,7 +243,7 @@ Concernant la tour The Link, différentes études ont été menées pour déterm
 
 <p>&nbsp;</p>
 
-![solaire16.png](Energie%20solaire%20et%20Data/solaire16.png)
+![solaire16.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire16.png)
 
 <p>&nbsp;</p>
 
@@ -251,7 +251,7 @@ Concernant la tour The Link, différentes études ont été menées pour déterm
 
 <p>&nbsp;</p>
 
-![solaire17.png](Energie%20solaire%20et%20Data/solaire17.png)
+![solaire17.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire17.png)
 
 <p>&nbsp;</p>
 
@@ -259,7 +259,7 @@ Concernant la tour The Link, différentes études ont été menées pour déterm
 
 <p>&nbsp;</p>
 
-![solaire18.png](Energie%20solaire%20et%20Data/solaire18.png)
+![solaire18.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire18.png)
 
 <p>&nbsp;</p>
 
@@ -267,7 +267,7 @@ Une fois ces études réalisées, un réajustement de la proposition de l'agence
 
 <p>&nbsp;</p>
 
-![solaire19.png](Energie%20solaire%20et%20Data/solaire19.png)
+![solaire19.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire19.png)
 
 <p>&nbsp;</p>
 
@@ -275,7 +275,7 @@ Et une proposition finale a pu être retenue :
 
 <p>&nbsp;</p>
 
-![solaire20.png](Energie%20solaire%20et%20Data/solaire20.png)
+![solaire20.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Energie%20solaire%20et%20Data/solaire20.png)
 
 <p>&nbsp;</p>
 

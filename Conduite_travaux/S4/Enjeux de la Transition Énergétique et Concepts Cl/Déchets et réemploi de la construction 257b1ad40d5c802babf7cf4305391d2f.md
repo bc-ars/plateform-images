@@ -14,7 +14,7 @@ Commençons par quelques chiffres clés.
 
 <p>&nbsp;</p>
 
-![dechets1.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets1.png)
+![dechets1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets1.png)
 
 *Déchets liés au BTP en France*
 
@@ -30,7 +30,7 @@ Commençons par quelques chiffres clés.
 
 Commençons avec les différences entre le réemploi, la réutilisation et le recyclage.
 
-![dechets2.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets2.png)
+![dechets2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets2.png)
 
 <p>&nbsp;</p>
 
@@ -38,7 +38,7 @@ Le réemploi dans le BTP fait référence à la pratique de récupérer et de r�
 
 <p>&nbsp;</p>
 
-![dechets3.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets3.png)
+![dechets3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets3.png)
 
 <p>&nbsp;</p>
 
@@ -46,7 +46,7 @@ La réutilisation de matériaux consiste à transformer leur usage et leur fonct
 
 <p>&nbsp;</p>
 
-![dechets4.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets4.png)
+![dechets4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets4.png)
 
 <p>&nbsp;</p>
 
@@ -62,7 +62,7 @@ Nombreux sont les matériaux et objets qui peuvent faire l'objet de réemploi. E
 
 <p>&nbsp;</p>
 
-![dechets6.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets6.png)
+![dechets6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets6.png)
 
 *Processus pour le réemploi de matériaux dans un projet de construction*
 
@@ -76,7 +76,7 @@ Après cette étape, les matériaux sont contrôlés et achetés avant d'être t
 
 # Aspect juridique
 
-![dechets5.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets5.png)
+![dechets5.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets5.png)
 
 *Types de produits sans sujet assuranciel*
 
@@ -86,7 +86,7 @@ Les matériaux et objets présentés ci-dessus sont sans sujet assuranciel. Cepe
 
 <p>&nbsp;</p>
 
-![dechets7.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets7.png)
+![dechets7.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets7.png)
 
 *Exemples de matériaux et leurs propriétaires*
 
@@ -96,7 +96,7 @@ Les produits et matériaux intégrés à l'ouvrage appartiennent à la maîtrise
 
 <p>&nbsp;</p>
 
-![dechets8.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets8.png)
+![dechets8.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets8.png)
 
 *Transfert de propriété du MOA vers une entreprise*
 
@@ -106,7 +106,7 @@ Cependant, on peut effectuer des transferts de la maîtrise d'ouvrage vers une e
 
 <p>&nbsp;</p>
 
-![dechets9.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets9.png)
+![dechets9.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets9.png)
 
 *Dans le cas de Vinci, à qui peut-on revendre ces matériaux ?*
 
@@ -116,7 +116,7 @@ Nous pouvons revendre ces matériaux aux spécialistes de la construction, de l'
 
 <p>&nbsp;</p>
 
-![dechets10.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets10.png)
+![dechets10.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets10.png)
 
 *Formatlisation du transfert de propriété*
 
@@ -134,7 +134,7 @@ Il existe actuellement différentes plateformes où l’on peut retrouver les ma
 
 <p>&nbsp;</p>
 
-![dechets11.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets11.png)
+![dechets11.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets11.png)
 
 <p>&nbsp;</p>
 
@@ -146,7 +146,7 @@ Elle permet de réduire les coûts de chantier grâce à l'augmentation de la du
 
 <p>&nbsp;</p>
 
-![dechets12.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets12.png)
+![dechets12.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets12.png)
 
 *Plateforme pour le réemploi dans le BTP*
 
@@ -160,7 +160,7 @@ Sinon, il existe également des plateformes externes comme Cycle Up, Mobus, Orak
 
 <p>&nbsp;</p>
 
-![dechets13.png](D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets13.png)
+![dechets13.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/D%C3%A9chets%20et%20r%C3%A9emploi%20de%20la%20construction/dechets13.png)
 
 *Cas d’usage: optimisation des chutes pour une ossature bois.*
 

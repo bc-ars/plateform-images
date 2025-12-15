@@ -6,7 +6,7 @@ Dans cette leçon, nous allons vous présenter la démarche ECOFLEX sur le thèm
 
 <p>&nbsp;</p>
 
-![energies.gif](B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/energies.gif)
+![energies.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/energies.gif)
 
 <p>&nbsp;</p>
 
@@ -22,7 +22,7 @@ En France, près de 5 millions de logements sont mal isolés et sont considéré
 
 <p>&nbsp;</p>
 
-![bepos1.png](B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos1.png)
+![bepos1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos1.png)
 
 *Quelques chiffres sur le bâtiment en France*
 
@@ -32,7 +32,7 @@ La croissance de la demande énergétique mondiale est exponentielle, et les sou
 
 <p>&nbsp;</p>
 
-![bepos2.png](B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos2.png)
+![bepos2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos2.png)
 
 *Quelques chiffres sur le bâtiment en France*
 
@@ -63,7 +63,7 @@ Les bâtiments passifs permettent de réaliser d'importantes économies d'énerg
 
 <p>&nbsp;</p>
 
-![bepos3.png](B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos3.png)
+![bepos3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos3.png)
 
 *Caractéristiques et avantages des bâtiments passifs*
 
@@ -77,7 +77,7 @@ Les bâtiments passifs permettent de réaliser d'importantes économies d'énerg
 
 <p>&nbsp;</p>
 
-![bepos4.png](B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos4.png)
+![bepos4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos4.png)
 
 *Les limites des bâtiments passifs*
 
@@ -91,7 +91,7 @@ Les bâtiments passifs permettent de réaliser d'importantes économies d'énerg
 
 <p>&nbsp;</p>
 
-![bepos5.png](B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos5.png)
+![bepos5.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos5.png)
 
 *Technologies mises en oeuvres pour les bâtiments à énergie positive*
 
@@ -103,7 +103,7 @@ En outre, en plus des avantages des bâtiments passifs, les bâtiments à énerg
 
 <p>&nbsp;</p>
 
-![bepos6.png](B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos6.png)
+![bepos6.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos6.png)
 
 *Avantages des bâtiments à énergie positive*
 
@@ -120,7 +120,7 @@ Malgré leurs avantages, les bâtiments à énergie positive possèdent égaleme
 
 <p>&nbsp;</p>
 
-![bepos7.png](B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos7.png)
+![bepos7.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos7.png)
 
 *Les limites des BEPOS*
 
@@ -134,7 +134,7 @@ Les bâtiments passifs et les bâtiments à énergie positive continuent de bén
 
 <p>&nbsp;</p>
 
-![bepos.gif](B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos.gif)
+![bepos.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos.gif)
 
 *Tesla Solar Roof : ensemble de tuiles solaires qui fonctionnent en intégrant la technologie photovoltaïque ([https://www.tesla.com/fr_fr/solarroof](https://www.tesla.com/fr_fr/solarroof))*
 
@@ -162,7 +162,7 @@ On peut ensuite analyser les résultats pour identifier les zones où des améli
 
 <p>&nbsp;</p>
 
-![bepos8.png](B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos8.png)
+![bepos8.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/B%C3%A2timent%20%C3%A0%20%C3%A9nergie%20positive%20et%20b%C3%A2timent%20passif/bepos8.png)
 
 *Exemple d’utilisation des outils et pratiques BIM pour un bâtiment passif / à énergie positive*
 

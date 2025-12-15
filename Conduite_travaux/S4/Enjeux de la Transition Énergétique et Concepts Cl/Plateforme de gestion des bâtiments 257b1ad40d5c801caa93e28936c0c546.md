@@ -6,7 +6,7 @@ Dans cette leçon, nous allons vous présenter la démarche ECOFLEX évoquant le
 
 <p>&nbsp;</p>
 
-![ controlroom.gif](Plateforme%20de%20gestion%20des%20b%C3%A2timents/_controlroom.gif)
+![ controlroom.gif](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Plateforme%20de%20gestion%20des%20b%C3%A2timents/_controlroom.gif)
 
 <p>&nbsp;</p>
 
@@ -18,7 +18,7 @@ Commençons par comprendre ce qu'est la gestion technique des bâtiments. **Il s
 
 <p>&nbsp;</p>
 
-![plateforme1.png](Plateforme%20de%20gestion%20des%20b%C3%A2timents/plateforme1.png)
+![plateforme1.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Plateforme%20de%20gestion%20des%20b%C3%A2timents/plateforme1.png)
 
 *Plateforme de gestion des bâtiments*
 
@@ -33,7 +33,7 @@ Où retrouve-t-on ces types d'installations ? Les plateformes de gestion des bâ
 
 <p>&nbsp;</p>
 
-![plateforme2.png](Plateforme%20de%20gestion%20des%20b%C3%A2timents/plateforme2.png)
+![plateforme2.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Plateforme%20de%20gestion%20des%20b%C3%A2timents/plateforme2.png)
 
 *Types de bâtiments concernés par les plateformes de gestion de bâtiment*
 
@@ -80,7 +80,7 @@ Nous allons maintenant voir des exemples de plateformes, notamment Camileia ([ht
 
 <p>&nbsp;</p>
 
-![plateforme3.png](Plateforme%20de%20gestion%20des%20b%C3%A2timents/plateforme3.png)
+![plateforme3.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Plateforme%20de%20gestion%20des%20b%C3%A2timents/plateforme3.png)
 
 *Camileia*
 
@@ -96,7 +96,7 @@ La solution de Camileia a ainsi été conçue, non seulement, pour répondre de 
 
 <p>&nbsp;</p>
 
-![plateforme4.png](Plateforme%20de%20gestion%20des%20b%C3%A2timents/plateforme4.png)
+![plateforme4.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S4/Enjeux%20de%20la%20Transition%20%C3%89nerg%C3%A9tique%20et%20Concepts%20Cl/Plateforme%20de%20gestion%20des%20b%C3%A2timents/plateforme4.png)
 
 TwinOps
 
