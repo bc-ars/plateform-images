@@ -28,7 +28,7 @@ Ils sont systématiquement combinés avec d’autres systèmes de fondation (**s
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image.png)
 
 *Constitution d’un puits de fondation*
 
@@ -80,13 +80,13 @@ Les points suivants doivent être validés :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image%201.png)
 
 *Explication de la méthodologie de terrassement des puits (Source: 4geniecivil.com)*
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image%202.png)
 
 *Explication de la méthodologie de terrassement des plots (Source: 4geniecivil.com)*
 
@@ -110,13 +110,13 @@ En raison des dimensions importantes, une **stabilisation** peut s’imposer. Pa
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image%203.png)
 
 *Exemple de fourreau métallique (Source: lameireft.be)*
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image%204.png)
 
 *Exemple de busage béton (Source: leroymerlin)*
 
@@ -141,7 +141,7 @@ Le béton utilisé pour la base des puits est un **gros béton**, parfois enrich
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-526.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image%205.png)
 
 *Exemple de coulage de gros béton*
 
@@ -155,7 +155,7 @@ Les **semelles** sont ensuite exécutées en posant le ferraillage et en réalis
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-527.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%8F%97%EF%B8%8F%20Puits%20de%20fondation%20la%20technique%20cl%C3%A9%20pour%20des%20ba/image%206.png)
 
 *Exemple de semelles filantes associées aux puits (Source: forumconstruire.com)*
 
