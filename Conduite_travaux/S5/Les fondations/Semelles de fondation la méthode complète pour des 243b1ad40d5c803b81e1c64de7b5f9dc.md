@@ -24,13 +24,13 @@ Les **semelles filantes** ont pour but de supporter des **charges linéaires**, 
 
 <p>&nbsp;</p>
 
-![image.png](Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image.png)
 
 *Semelle filante - Source: maconnerie.bilp.fr*
 
 <p>&nbsp;</p>
 
-![image.png](Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%201.png)
 
 *Semelle isolée- Source: maconnerie.bilp.fr*
 
@@ -42,7 +42,7 @@ Ces fondations sont coulées sur une **couche de béton grossier**, appelée **b
 
 <p>&nbsp;</p>
 
-![image.png](Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%202.jpg)
 
 <p>&nbsp;</p>
 
@@ -95,7 +95,7 @@ Le fond de fouille peut être altéré par les **intempéries** (pluie, neige, o
 
 <p>&nbsp;</p>
 
-![image.png](Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%203.png)
 
 *Fouilles en présence d’eau - Source: prix-pose.com*
 
@@ -148,7 +148,7 @@ La couche doit être **légèrement plus longue et plus large** (+5 cm) que la f
 
 <p>&nbsp;</p>
 
-![image.png](Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%204.png)
 
 *Coulage d’un béton de propreté en fond de fouille d’une fondation (Source: toutsurlebeton.fr)*
 
@@ -168,7 +168,7 @@ En **limite de propriété**, le coffrage est obligatoire.
 
 <p>&nbsp;</p>
 
-![image.png](Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%205.png)
 
 *Coffrage de fondations - Source: pavebeton.fr*
 
@@ -200,7 +200,7 @@ Pour le **chaînage vertical**, fixer les **équerres** avec du fil de fer.
 
 <p>&nbsp;</p>
 
-![image.png](Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%206.png)
 
 *Principe de réalisation d’une semelle isolée (Source: toutsurlebeton.fr)*
 
@@ -210,13 +210,13 @@ Le schéma suivant montre différentes formes de semelles isolées :
 
 <p>&nbsp;</p>
 
-![image.png](Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%207.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%207.png)
 
 *Types de semelles isolées (Source: toutsurlebeton.fr)*
 
 <p>&nbsp;</p>
 
-![image.png](Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%208.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%208.png)
 
 *Exemple de ferraillage fondation type semelle isolée (Source: toutsurlebeton.fr)*
 
@@ -247,7 +247,7 @@ Le coulage doit être réalisé **en une seule fois**, selon la méthode suivant
 
 <p>&nbsp;</p>
 
-![image.png](Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%209.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Semelles%20de%20fondation%20la%20m%C3%A9thode%20compl%C3%A8te%20pour%20des/image%209.png)
 
 *Coulage de béton (Source: trucconstruction.fr)*
 
