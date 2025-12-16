@@ -222,4 +222,6 @@ Grâce aux **Eurocodes** et à une **méthodologie rigoureuse**, les équipes de
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-[https://www.youtube.com/watch?v=VqflH7AIGlI](https://www.youtube.com/watch?v=VqflH7AIGlI)
+
+
+https://www.youtube.com/watch?v=M5qGZQsEJ18&list=PLM6guBPDINvIrK7VWnyc6QpnXKDCVU_t5&index=8

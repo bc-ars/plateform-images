@@ -42,7 +42,7 @@ Il existe deux grandes familles de fondations :
     <p>&nbsp;</p>
     
 
-![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image1.jpg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/imagea.png)
 
 *Les différents types de fondations - Source BTP Cours.*
 
@@ -73,7 +73,7 @@ On distingue trois types principaux de fondations superficielles :
 
 <p>&nbsp;</p>
 
-![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/imagea.jpg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image1.jpg)
 
 <p>&nbsp;</p>
 
@@ -81,7 +81,7 @@ On distingue trois types principaux de fondations superficielles :
 
 <p>&nbsp;</p>
 
-![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image1.jpg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image2.jpg)
 
 <p>&nbsp;</p>
 
@@ -97,7 +97,7 @@ Les semelles filantes peuvent être construites en :
 
 <p>&nbsp;</p>
 
-![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image2.jpg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Tout%20savoir%20sur%20les%20fondations%20de%20l%E2%80%99%C3%A9tude%20de%20sol%20%C3%A0/image3.jpg)
 
 <p>&nbsp;</p>
 

@@ -58,7 +58,7 @@ Aussi appelée **brique rouge**, elle est obtenue par cuisson d’un mélange d�
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/ljwslmH8J2IEexacQSEfUO9J_8B7hbzziH3LL-m7jP4bAfoZT_EbPpDevZmzRghaVH9Sc2XwFebrcCQALcG4aI4Vl7nbNSzQvGtgFFJskSQhpIH7Ael2MB4eh9X1qFBK0cr1i217tDrlqmAl0PCUJA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%A7%B1%20Ma%C3%A7onnerie%20%26%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/imagea.png)
 
 *Maçonnerie brique pleine - Source: WA Maçonnerie*
 
@@ -84,7 +84,7 @@ Les **briques Monomur**, pouvant atteindre 50 cm d’épaisseur, permettent de
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/B5sQ1f9kMd9wbEvLc6otXV4Phg36_9gbcGzd_EMB-Ijzf8TDjUydOTnEvAWTGfjhsVWpGBZPPRIg62scxoXrn6gRILu9ImPSonkYN11qhfxmojtFDjTYqG3Fso8x-4pK0g9vaPDjHIUejjmgTEFV7A)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%A7%B1%20Ma%C3%A7onnerie%20%26%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/imageb.png)
 
 *Type de briques creuses*
 
@@ -114,9 +114,9 @@ Des **chaînages horizontaux** en béton assurent la stabilité des murs, tandis
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A7%B1%20Ma%C3%A7onnerie%20&%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%A7%B1%20Ma%C3%A7onnerie%20%26%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/image.png)
 
-*Bloc béton creux*
+*Bloc béton creux ou parpaing*
 
 <p>&nbsp;</p>
 
@@ -142,9 +142,9 @@ Les blocs sont **empilés à sec**, puis **remplis de béton** après insertion 
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/ezrH4w96VOpYMn-Mv98DXbUwFWaOUgoCN38OtTvQfzlO_Z74q82UhhfgTlPmJsArNm3b324eSnzQK03HvzuwC6jO724dlJvYR3MYyKpOKlkHB8nbBqTLPDvZ6Tde1NotpcZJMviSFvdsZoNw2piG9w)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%A7%B1%20Ma%C3%A7onnerie%20%26%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/imagec.png)
 
-*Blocs à bancher*
+*Blocs à bancher (Source:leroy Merlin)*
 
 <p>&nbsp;</p>
 
@@ -164,7 +164,7 @@ Le **béton armé** combine un **béton ordinaire** (ciment, granulats, eau) et 
 
 Cette **synergie béton-acier** lui confère une grande résistance à la **compression** et à la **traction**.
 
-![image.png](%F0%9F%A7%B1%20Ma%C3%A7onnerie%20&%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%A7%B1%20Ma%C3%A7onnerie%20%26%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/image%201.png)
 
 *Axonométrie poutre béton armé*
 
@@ -188,7 +188,7 @@ L’assemblage des armatures peut être fait par **soudure**, pour faciliter leu
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A7%B1%20Ma%C3%A7onnerie%20&%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%A7%B1%20Ma%C3%A7onnerie%20%26%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/image%202.png)
 
 *Façonnage armatures en usine - Source : Boulogne Composant Béton*
 
@@ -213,7 +213,7 @@ On distingue plusieurs types :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A7%B1%20Ma%C3%A7onnerie%20&%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%A7%B1%20Ma%C3%A7onnerie%20%26%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/image%203.png)
 
 *Banches métalliques pour béton banché.*
 
@@ -223,7 +223,7 @@ On distingue plusieurs types :
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/-Ea2Xs-F0qNA4OQ5GxCUwBTfbCPkcufABVIKIE3BWPALFVkiy6p_znM4ZGJOTGzDzBxXjO9W00-lNcrjVSyWjNIWstHvKBhyY3RexUKi79C1POF_t9FnknVvHgX4-18LwVsIeqa40ZXoc_OKzK_8GQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%A7%B1%20Ma%C3%A7onnerie%20%26%20B%C3%A9ton%20arm%C3%A9%20Les%20secrets%20d%E2%80%99une%20constr/imagec.png)
 
 <p>&nbsp;</p>
 

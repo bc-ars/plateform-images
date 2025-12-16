@@ -84,7 +84,7 @@ Exemples : **poteau**, **roue** sur sol, **équipement** sur plancher.
 
 Exemples : **poids propre** d’une **poutre** ou d’un **mur**.
 
-![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/image%201.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/imageb.png)
 
 <p>&nbsp;</p>
 
