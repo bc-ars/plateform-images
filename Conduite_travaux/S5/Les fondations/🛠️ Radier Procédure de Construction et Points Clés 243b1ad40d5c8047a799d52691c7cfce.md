@@ -24,7 +24,7 @@ Il est conçu pour **distribuer les charges** sur une **surface importante** : l
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-405.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%9B%A0%EF%B8%8F%20Radier%20Proc%C3%A9dure%20de%20Construction%20et%20Points%20Cl%C3%A9s/imagea.png)
 
 *Source: toutsurlebeton.fr*
 
@@ -36,7 +36,7 @@ Les **dalles portées** et le **dallage sur terre-plein** impliquent la réalisa
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A0%EF%B8%8F%20Radier%20Proc%C3%A9dure%20de%20Construction%20et%20Points%20Cl%C3%A9s/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%9B%A0%EF%B8%8F%20Radier%20Proc%C3%A9dure%20de%20Construction%20et%20Points%20Cl%C3%A9s/image.png)
 
 *Source: toutsurlebeton.fr*
 
@@ -159,7 +159,7 @@ Toutes les armatures sont **liées entre elles** par ligatures.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A0%EF%B8%8F%20Radier%20Proc%C3%A9dure%20de%20Construction%20et%20Points%20Cl%C3%A9s/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%9B%A0%EF%B8%8F%20Radier%20Proc%C3%A9dure%20de%20Construction%20et%20Points%20Cl%C3%A9s/image%201.png)
 
 *Exemple de ferraillage - Source: be-gph.fr*
 
@@ -190,7 +190,7 @@ Le **séchage** complet du béton nécessite **28 jours**, garantissant son **du
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A0%EF%B8%8F%20Radier%20Proc%C3%A9dure%20de%20Construction%20et%20Points%20Cl%C3%A9s/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%9B%A0%EF%B8%8F%20Radier%20Proc%C3%A9dure%20de%20Construction%20et%20Points%20Cl%C3%A9s/image%202.png)
 
 *Durcissement du béton - Source: betonexpert.fr*
 
