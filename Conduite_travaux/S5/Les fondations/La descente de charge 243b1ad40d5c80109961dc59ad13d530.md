@@ -24,7 +24,7 @@ Toute structure étant soumise à des **efforts gravitationnels**, le cheminemen
 
 <p>&nbsp;</p>
 
-![image.png](La%20descente%20de%20charge/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/image.png)
 
 <p>&nbsp;</p>
 
@@ -45,7 +45,7 @@ La **descente de charges** consiste donc à vérifier le bon **cheminement** des
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-423.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -74,7 +74,7 @@ En détail, on distingue les types de charges suivants :
 
 Exemples : **poteau**, **roue** sur sol, **équipement** sur plancher.
 
-![image.png](La%20descente%20de%20charge/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/image%201.png)
 
 <p>&nbsp;</p>
 
@@ -84,7 +84,7 @@ Exemples : **poteau**, **roue** sur sol, **équipement** sur plancher.
 
 Exemples : **poids propre** d’une **poutre** ou d’un **mur**.
 
-![](https://api.hupso.co/uploads/img/content/image-425.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/image%201.png)
 
 <p>&nbsp;</p>
 
@@ -94,7 +94,7 @@ Exemples : **poids propre** d’une **poutre** ou d’un **mur**.
 
 Exemples : **neige**, **poids propre** d’une **dalle**.
 
-![image.png](La%20descente%20de%20charge/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/image%202.png)
 
 <p>&nbsp;</p>
 
@@ -110,7 +110,7 @@ La **bande de chargement** représente la **surface de charge** reprise par un *
 
 <p>&nbsp;</p>
 
-![image.png](La%20descente%20de%20charge/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/image%203.png)
 
 <p>&nbsp;</p>
 
@@ -124,7 +124,7 @@ En pratique, la **bande de chargement** équivaut, selon la configuration, à **
 
 <p>&nbsp;</p>
 
-![image.png](La%20descente%20de%20charge/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/image%204.png)
 
 <p>&nbsp;</p>
 
@@ -141,11 +141,11 @@ Pour les **éléments ponctuels**, la **bande de chargement** dépend des **entr
 | D | Horizontal : 10/2 + 10/2 = 10 m |
 | Vertical : 5/2 + 5/2 = 5 m |  |
 
-![image.png](La%20descente%20de%20charge/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/image%205.png)
 
 <p>&nbsp;</p>
 
-![image.png](La%20descente%20de%20charge/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/image%206.png)
 
 <p>&nbsp;</p>
 
@@ -165,7 +165,7 @@ Prenons un exemple concret : déterminer les **charges** appliquées à la **sem
 
 <p>&nbsp;</p>
 
-![image.png](La%20descente%20de%20charge/image%207.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/La%20descente%20de%20charge/image%207.png)
 
 <p>&nbsp;</p>
 
