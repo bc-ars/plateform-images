@@ -83,7 +83,7 @@ La réalisation d’une fondation profonde suit plusieurs étapes :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%8E%20Fondations%20profondes%20l%E2%80%99art%20de%20construire%20quand%20l/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%94%8E%20Fondations%20profondes%20l%E2%80%99art%20de%20construire%20quand%20l/image.png)
 
 *Coulage d’un pieu moulé (forage, tubage, mise en place des armatures, bétonnage).*
 
@@ -113,7 +113,7 @@ Le béton employé pour ces pieux doit contenir **au minimum 350 kg de ciment pa
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-530.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%94%8E%20Fondations%20profondes%20l%E2%80%99art%20de%20construire%20quand%20l/imagea.png)
 
 *Élimination du béton contaminé dans un pieu moulé*
 
@@ -136,7 +136,7 @@ La méthode la plus courante est le **marteau-piqueur** (ou **BRH**).
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%8E%20Fondations%20profondes%20l%E2%80%99art%20de%20construire%20quand%20l/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%94%8E%20Fondations%20profondes%20l%E2%80%99art%20de%20construire%20quand%20l/image%201.png)
 
 *Principe du recépage traditionnel (Source: btp-cours.com)*
 
@@ -161,7 +161,7 @@ Elle n’est pas adaptée aux **pieux préfabriqués** ni aux pieux avec **tubag
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-533.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/%F0%9F%94%8E%20Fondations%20profondes%20l%E2%80%99art%20de%20construire%20quand%20l/imageb.png)
 
 *Recépage avec la technique Recépieux*
 
