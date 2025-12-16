@@ -66,7 +66,7 @@ Deux autres Eurocodes concernent des **méthodes particulières** :
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-399.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Dimensionnement/imagea.jpg)
 
 **À retenir :**
 
@@ -95,7 +95,7 @@ Une structure est soumise à trois catégories de **charges** :
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-400.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Dimensionnement/imagec.png)
 
  *Symboles pour caractériser les différents types de charges (Source: Eurocode)*
 
@@ -111,7 +111,7 @@ Les principales **charges** à connaître sont :
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-401.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Les%20fondations/Dimensionnement/imageb.png)
 
 *Exemple : surcharges d’exploitation applicables aux bureaux (Source: Eurocode)*
 
