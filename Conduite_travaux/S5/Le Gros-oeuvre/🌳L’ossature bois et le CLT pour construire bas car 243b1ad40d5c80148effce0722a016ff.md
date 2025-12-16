@@ -40,7 +40,7 @@ Pour préserver le bois de toute humidité, on ajoute plusieurs membranes :
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/Sd37zamJHbm7HTAWADJLnFT_HbK7o61UGuPu9RQtZlHg6zk758L0WCXDvcVEanRr7yM5SttD9Ykv9OZ-7parmCIRSxhzyc5B7FuzY7Xy8XaioWztKEIdzS5-PkrSp84kCsQs6eu5GcRiJruBzoVgbg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%8C%B3L%E2%80%99ossature%20bois%20et%20le%20CLT%20pour%20construire%20bas%20car/imagea.png)
 
 *Composition mur ossature bois - Source : Préfabrication bois*
 
@@ -62,7 +62,7 @@ Pour répondre aux normes acoustiques et incendie, ils intègrent :
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/IVq0ZEk83O3IZHaUOLdUkUoZxJT9HaZ6zdCL98RzJkDEiOJd9A_tujIDpihz4Ik-Zaqf6tdI7F9m5E6eSgsMglJ89shj5Klk39kVH5oPPEic9Add96RCHRsFpzB0h-kTHLpQxPKEaAISJSY9EZUsrg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%8C%B3L%E2%80%99ossature%20bois%20et%20le%20CLT%20pour%20construire%20bas%20car/imageb.png)
 
 *Composition plancher salivé - Source Tramico*
 
@@ -110,7 +110,7 @@ Dimensions :
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/3L073A0Ce3Eh1VkgUacm2uCIH6MeuIQSLByH0U-D7-2O8i2CQ-GHus434JlMR3tsGpYceeG2W4NUA58EizCXB5Nbj1nzgiBd4o8Z0uWmv_cqKKDd4rZUW7H-M03mO4sOnQyTy11GrFSHrcNpa8acww)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%8C%B3L%E2%80%99ossature%20bois%20et%20le%20CLT%20pour%20construire%20bas%20car/imagec.png)
 
 *Composition panneaux CLT - Source : Pfeifer Group*
 
@@ -120,7 +120,7 @@ Usinés en usine, ils sont livrés **prêts à poser** et manipulés sur chantie
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/dW-MDhSTnrkmCZMUE_6wFNQtRZp2CMS0ji4XwUkcgi8CYAEvVNM1T10YSFIXNHEvg_-jY4jC9MZdl3JOjKWW_o9V1XZP6ylOxkNfrNT39jU3oh6_Y965Fp4PHiCh8T9R0Eg0d-XNVRhlPBfZQuDy8A)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%8C%B3L%E2%80%99ossature%20bois%20et%20le%20CLT%20pour%20construire%20bas%20car/imaged.png)
 
 *Vue aérienne chantier CLT - Source : MetsaWood*
 
@@ -161,7 +161,7 @@ Pour satisfaire les exigences acoustiques et incendie, les **planchers CLT** inc
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/Jj4qFwuxU5RVn6ymVnw5mlj71ZWGfg2uKdg3YL8wX1Bi-F-qT06L6IvrJ9varYIhQZgLXbZUQX0SrZOUyH0EVx3roKeYbO-zx4pRf0oclsnzF_5jNwXt_IR5qZjzERPE9xIPSyldFMxPhvvssqKURw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/%F0%9F%8C%B3L%E2%80%99ossature%20bois%20et%20le%20CLT%20pour%20construire%20bas%20car/imagee.png)
 
 *Exemple composition plancher CLT - Source : Wilmotte Associés*
 
