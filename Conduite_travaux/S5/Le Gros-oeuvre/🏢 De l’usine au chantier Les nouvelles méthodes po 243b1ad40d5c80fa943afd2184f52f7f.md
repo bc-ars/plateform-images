@@ -46,7 +46,7 @@ Le recours aux prémurs offre plusieurs atouts :
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/Rg41gpCVTBFars-7t2QY6yGZ7wPjXhGGnq_0ykqRhKNcBdIHZ-4U7Lqezieho7xpEsU2Zxs12I2Ss5Nasqb-ACGdGHgtY-saG91ZoOTKI_yQ5xGjvjycZAeify_40rPl8yzyVE1VAi08BrtTzyh_Hw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/l'usine/imagea.png)
 
 *Constitution prémur béton – Source : Rector*
 
@@ -70,7 +70,7 @@ Leur utilisation offre plusieurs avantages :
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-45.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/l'usine/imageb.png)
 
 *Constitution plancher béton avec prédalle*
 
@@ -102,7 +102,7 @@ Sur le chantier, les interventions se limitent, permettant un **gain de temps co
 - L’installation éventuelle d’une **isolation complémentaire** et du **revêtement de façade**.
 - <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/BVP93X77UbSZs87QVQegEoELzjxVTlWl_lGINkNKfUB1opGc3ryCxJjRYw6g-1IgPyPmqb2sfZX5flyiN_nWQdOv2Yl81-wSs_rFbCvcYFbfHEssAEmb_E3jr0DoYGWUUvAMknV8nrerUAxYHsjtmA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/l'usine/imagec.png)
 
 *Module 3D en bois en cours de construction – Source : Ossabois*
 
@@ -140,7 +140,7 @@ Pour les **planchers intermédiaires**, les hourdis sont en béton et nécessite
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/r5ZMrlk14Qd3vnUuRHQhW4paJsGmhBojwq2tnYfmra1x6sZemcyBTMWoN3UD-ul_KhNNaUuHGpE9Ul27aBERg9PK8syu3IqVMrf2VfGGT30nM5vBn39fra0Vx8lhdSi90C16_eIGbs4_YDMgOzz_vw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/l'usine/imaged.png)
 
 <p>&nbsp;</p>
 
@@ -163,7 +163,7 @@ Des **connecteurs vissés** dans le bois et enchâssés dans le treillis permett
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/dzVa_M1FC0oXnc2pNrVw5oesVcoSqxatU4Fu2I_htEe_7prEeD0NOOJYeVAxWlPvAPwemTFMmV2hIWJjrc_E9jOjm8QGSdt4a1jLLF9gXfWEQJicAgfvgEFuc2jMPC4MoPs8MIrZN9_JXjwLXvngGQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/l'usine/imagee.png)
 
 *Composition plancher mixte bois-béton – Source : SFS*
 
@@ -199,7 +199,7 @@ Selon le type de bac et l’épaisseur de la dalle, ces planchers peuvent attein
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/IjcZvn1uXZy8TjC6HCzKJqLklAFrrtrnbCUmqs_VKEAjsQDDtNJlsy5W29Yrw2g91d8LaLuCsNKygh5EyJPJ4ggYBGc0vah7yVJBi48LR4b6EmKfPBxIAOvZmPuilFlgwhPzl3pRGgfB4uvVAZ2sAw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S5/Le%20Gros-oeuvre/l'usine/imagef.png)
 
 *Plancher Cofrastra – Source : Arcelor Mittal*
 
