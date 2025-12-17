@@ -22,11 +22,11 @@ Représentant la **cinquième façade** du bâti, elle confère également un ca
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/qMQPlNEbGe6SwrLXIfB6VU0vfQx1aDyqUUI0bUSfgt6_bK2x0qoxX4T0Nx1TT50bU_o7xxrsVG7gDttoO1owQ7ivmMDCRIGvdzPp4AMaIP-tchaURRzY4-gfpU9J1X8iFQbh2RjU9I8EhiEZlw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagea.png)
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/b1-KIVjCFDlkYfM28Dlw9j8II2Nh74gItSKg8ywFRn7FiKs-kAGPL-gyJDP-Wj6qVfaO1Xt8-YQUuulJA3vizgC6yToDCwYugjsTN9iasWkpUgHQexiUZHK4NNRTZPnUV56aqZFEa23bBvP-_Q)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imageb.png)
 
 *Éléments d’une toiture*
 
@@ -56,7 +56,8 @@ Les principaux types sont :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger,%20isoler%20et%20sublimer%20votre%20b%C3%A2t/image.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/image.png)
+
 
 *Types de toitures en pente (Source: technologie-sciarretta.ovh)*
 
@@ -79,13 +80,13 @@ L’**évacuation des eaux pluviales** est essentielle. Trois principaux disposi
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/sGIJV-NV3tPNj308HlEHaqG2oVXMiiPWOwyxuVJAS9zi9i789FeX_sJpB02luxw-6wJJyxN84fMEvujjXi7tvCWZjczTBVmf8ZCZPqmhq0BbXlRt8Hf4Tc6MCLCTLELu39UmR6qPkN0oAOgifw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagec.png)
 
 *Chéneau en zinc (Source: Pinterest)*
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/rsYlyoBGsIMV3WjdOPG8fMYahvHTowB1OyPE3LEvQ5QPqwhWOiquXTbV6o6MbyfLNpX7zxNNO4KmHXQSJMyrBzK1omq86JQufPXC_w-76qtMA13tyuJxWYT0Mx1TcMQGiG01B1s4-TE7BTJQpQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imaged.png)
 
 *Noue en zinc (Source: Pinterest)*
 
@@ -101,7 +102,8 @@ La France est divisée en **3 zones climatiques** qui influencent la pente selon
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/uimDlqJ1NVCTabQcQHplEQSFIfwC89XJU32Asljl3qPpga8o7l3I09BzlBGYxusp_xrxc2O4GKtmboICcQj59fCErDWXQI9h4C3zWggKIYDT3EaxEDMZmuMgr7SxDzrsyWr-yvjOjiolCSSXeA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagee.png)
+
 
 *Zones géographiques des toitures en pente en France (Source: CERIB)*
 
@@ -117,7 +119,8 @@ Les principales formes : **dôme**, **courbure simple**, **courbure double**, **
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/1sMASgdV9Up8Jb9HQ5I4Wpq5C2KZIzZmOyUHSCpElGetk1feqeLnT3Uahkotm53hbB6-S1OvH6JW-rTftKUgYDLn7a2c5zpBY-J7RgXB5-ikmgsLYd1YwGHR882BeougzbKyO9zqTM5aaeVZSg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagef.png)
+
 
 *Toiture arrondie en dôme (Source: Pinterest)*
 
@@ -131,7 +134,7 @@ Sans pente, elle sert de **terrasse** ou de **toit végétalisé**. Constituée 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger,%20isoler%20et%20sublimer%20votre%20b%C3%A2t/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/image%201.png)
 
 *Composition d’une toiture plate (Source: gustaverideau.com)*
 
@@ -211,13 +214,13 @@ Types principaux : **tuile canal**, **tuile plate** (avec variantes comme la tui
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/zzJ2PO5wSfHUw4TsROQhyUjspAgGHMQQhnzlwD4G-ElZyHm_j7oWQxA4IwEHgZl1szw83kRjMt86X4pI9tJkGUPPQMNfvSNQOXjDPb_qB3jmT0coisM1QSXMy1fofhS4mYU3ZTLH7icXlBXstg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imageg.png)
 
 *Toitures (Source: Pinterest)*
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger,%20isoler%20et%20sublimer%20votre%20b%C3%A2t/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/image%202.png)
 
 *Types de tuiles (Source: dsdrenov.com)*
 
@@ -237,7 +240,7 @@ La pose se fait au **crochet** ou par **clouage**, sur **liteaux** ou **voliges*
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/mUd6WNTVyiDh3JLatDQrS0qSrhRRrrEQo-Ws3o66H2bRMyeAQrDlMOGiM-pM-FefJkE7onyFB0QrY2vOdvMdA-jnYbIL8HseHQ1RfWezp0jlVLhPC1K8cULby0p6IjQiTEPFDXoKOvS6iCW5PQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imageh.png)
 
 *Toiture en ardoise (Source: Pinterest)*
 
@@ -253,7 +256,7 @@ Durée de vie moyenne : **25 ans**.
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/HCZB7XcZ-DtMX0LBoYhwr4C-qqb67w_Y48op5x0fZ6HNmcIhCE_SwcxqHBXF_BmJY5884fyOsx24Tq8TwtidLyxfRYg6QLm9IVONIDNArIz8upIEpv-KpabUExR9VkF7Gwc4HipFf9A5JmWvsQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagei.png)
 
 *Toiture en shingle (Source: Pinterest)*
 
@@ -267,7 +270,7 @@ Les **tavaillons** ou **bardeaux de bois** (mélèze, châtaignier, red cedar) s
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/hge1xDt3CUXGWr-2ooF_TRhoyKQdSPfwkHkOqFa8fDrAoE8RoyHUy7AbU1QJAPCmJO6UAMQaTJbB1JD3Zk9gXzeM3iSdXQ4D8A376JKMNCtmMX0wE-3peTRvyj_UVFIbvg6lKNm63NYbIQ6cAQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagej.png)
 
 *Toiture en tavaillon (Source: Pinterest)*
 
@@ -281,7 +284,7 @@ La **lauze**, pierre utilisée en couverture, reste typique des **régions monta
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/uj-IfvTR4cKARMuzxsB7NUk1snfAF5t0_bZ4LBN5asx7MKJmq_6epYUjqzKnDIbUuezExsgvcyT2OKnmgyiF9wMuqWCBZIS5cyxUpKZU3dS2p78Zz6JAaTlfpfE1S2YazstVgGX8kYPe4CcWIg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagek.png)
 
 *Toiture en lauze (Source: Pinterest)*
 
@@ -308,7 +311,7 @@ Le **zinc** et le **cuivre** se patinent (gris platine, noir ou vert). Souples e
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/pTbwHkd0NtsP8j5KbeGNFOzAKhHX2u67NvH2NurqVfcxHaAsHvAu0H5SIujOc7_MLO11IqlhVXFLGU3GmaM3JJFC_KT0s3RjNX9ToztLIpu99O7_h9_q33g4jhLozX6pb-VtUxeg3qGunvjSSA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagel.png)
 
 *Couverture en zinc (Source: tratidion-toiture.be)*
 
@@ -324,7 +327,7 @@ Des versions **double peau** améliorent l’**isolation** et l’**acoustique**
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/ow6HSSZxJSPu5p4DSvG-l82hmRnlfq-hWqSMeKXtdhnVLkSrLZE3DqFqHSYt6nvQLjnsZTT2pwHGUyRKYQUKuq5hBVTkeghFizE4tq1xrtSAKdlmEXzkc9sV0iuWdf5F7h_F3ewIo3aGQ5NPKQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagem.png)
 
 *Toiture en bac acier (Source: Leroy Merlin)*
 
@@ -346,7 +349,7 @@ Composé d’un **profil métallique**, d’un **isolant** et d’un **deuxième
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/Spu79zQxzxORqMQjIPzamnu7Ml4YXZuJRYDhHeljkbLwb22Fg-_ur8d4LHe6nGvKOX6MGZRKc9Gbz2LzpMG0moVGjahm80eU7sGc2Az7h5yoKlI1KIK4ySCDIx_gGxkGeiUHy5KbEMlHqUzY4g)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagen.png)
 
 *Source: faynot.com*
 
@@ -360,7 +363,7 @@ Composé d’un **profil métallique**, d’un **isolant** et d’un **deuxième
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/nS9OJfX9YxN410S91qbYVeYyboQ4F8qzQ9W_YZmQM9k1TbA-mil_UCGe8orgiFzpvL5rzlZm3k5r1vYDAX0SPfrsMhGAWEq7XGOIJEu4iB4dCevwqsfuYZBe1o8zQsW4BGPY1mqSwzhlQtOZlA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imageo.png)
 
 *Tôles ondulées synthétiques (Source: Pinterest)*
 
@@ -374,7 +377,7 @@ La **toiture végétalisée**, composée de plantations sur dalle béton, offre 
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/pcUcn8AD18LHWFId_O9nQziJ78oZkdBFhopyRACQF6AX--Vw6Ono06MMp8QyT3eqIldlDhI23tfphRKM6fhfi3O2gttu-CEW-zVQUgjy6KDPkrpcN90mkWVoPnKGxFzwiRpmXK-NpBJZXhbueQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imagep.png)
 
 *Toiture végétalisée (Source: Pinterest)*
 
@@ -388,7 +391,7 @@ Les **toitures en fibrociment** contenant de l’**amiante** nécessitent un **r
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/yGFjHEAUYKdEWSd0rISh88GJFq5mQBAIPuOMSUsUe0LWXFGWM0vxPK46BUZNiJULzTDLY5DpL7o38E5BUIxUsD3HgqGsZd0omIGIXebDwEreiKs8kWcy4Kus-HDu-wtfFFiR-TcrFEV91xiCwA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imageq.png)
 
 *Toiture en fibro-ciment amianté (Source: Pinterest)*
 
@@ -402,7 +405,7 @@ La **sur-toiture** consiste à poser une nouvelle couverture (souvent **bac acie
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/IwbA-QM34EbvCqI3Cjyb5-p7SKL2CkDgkzKZO0KT6-EIA7vpbsDI5GNoT3iRxUmCgzDYLq-qPcJmF6UBDso390AJbKeqpzCMMMYwqD9U98CfkEHJWn_KhPS8QE3GF15_qMBhq2-ED-sx3pwcKQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%8C%A6%EF%B8%8F%20Toitures%20prot%C3%A9ger%2C%20isoler%20et%20sublimer%20votre%20b%C3%A2t/imager.png)
 
 *Système de sur-toiture (Source: Leroy Merlin)*
 
