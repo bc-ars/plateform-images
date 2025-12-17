@@ -34,7 +34,7 @@ Une large part de ces **arrêts de travail** résulte de défaillances dans la *
 
 <p>&nbsp;</p>
 
-![image.png](image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/imagea.png)
 
 *Exemple des causes principales des accidents de travail avec arrêt en Bretagne (Source: carsat-bretagne.fr)*
 
@@ -129,7 +129,7 @@ Il est calculé ainsi :
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-19 à 12.23.10.png](Capture_decran_2023-04-19_a_12.23.10.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -168,7 +168,7 @@ La formule pour calculer le **coût direct AT/MP** par lot est :
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-19 à 12.23.39.png](Capture_decran_2023-04-19_a_12.23.39.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/imagec.png)
 
 <p>&nbsp;</p>
 
@@ -286,7 +286,7 @@ La norme française **NF X35-109**, portant sur l’**ergonomie dans la manutent
 
 <p>&nbsp;</p>
 
-![Untitled](Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/Untitled.png)
 
 <p>&nbsp;</p>
 
@@ -375,7 +375,7 @@ Le schéma suivant illustre qu’une **fourniture** fait l’objet d’au moins 
 
 <p>&nbsp;</p>
 
-![](4-24.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/imageb.png)
 
 <p>&nbsp;</p>
 
@@ -479,7 +479,7 @@ Cette méthode repose sur **quatre étapes successives**, chacune correspondant 
 
 <p>&nbsp;</p>
 
-![Untitled](Untitled%201.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/Untitled%201.png)
 
 <p>&nbsp;</p>
 

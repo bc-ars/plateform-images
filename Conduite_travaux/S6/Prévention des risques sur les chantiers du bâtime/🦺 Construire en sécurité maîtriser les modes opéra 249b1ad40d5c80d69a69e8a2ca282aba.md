@@ -14,7 +14,7 @@ Un **mode opératoire** sur un chantier de construction, parfois désigné sous 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A6%BA%20Construire%20en%20s%C3%A9curit%C3%A9%20ma%C3%AEtriser%20les%20modes%20op%C3%A9ra/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%F0%9F%A6%BA%20Construire%20en%20s%C3%A9curit%C3%A9%20ma%C3%AEtriser%20les%20modes%20op%C3%A9ra/image.png)
 
 *Illustration de marquage au sol (traçage) d’un chantier (Source: professor.capullent.com)*
 
@@ -37,7 +37,7 @@ Ce type de document peut aussi intégrer des réflexions complémentaires comme 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A6%BA%20Construire%20en%20s%C3%A9curit%C3%A9%20ma%C3%AEtriser%20les%20modes%20op%C3%A9ra/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%F0%9F%A6%BA%20Construire%20en%20s%C3%A9curit%C3%A9%20ma%C3%AEtriser%20les%20modes%20op%C3%A9ra/image%201.png)
 
 *Exemple de mode opératoire (Source: bumeo.fr)*
 
@@ -169,8 +169,6 @@ Une fois l’évaluation achevée, il est nécessaire de :
 
 <p>&nbsp;</p>
 
-[🎬](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
 *Nous venons de voir que la rédaction d’un **mode opératoire clair et structuré** n’est pas seulement une exigence réglementaire : c’est avant tout un **outil concret de prévention et d’organisation** sur le chantier. En identifiant les risques, en planifiant les étapes et en définissant les moyens à mobiliser, il permet d’assurer la **sécurité des équipes**, la **qualité des ouvrages** et la **maîtrise des délais**.*
 
 *La vidéo de la chaîne Prévention Chantier suit illustre ces principes en montrant, de manière pratique, comment un mode opératoire se traduit sur le terrain et pourquoi il constitue une clé essentielle pour **construire en sécurité et avec efficacité**.* 
@@ -179,6 +177,5 @@ Une fois l’évaluation achevée, il est nécessaire de :
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-[👉](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 [https://www.youtube.com/watch?v=c2styzmgRjM](https://www.youtube.com/watch?v=c2styzmgRjM)

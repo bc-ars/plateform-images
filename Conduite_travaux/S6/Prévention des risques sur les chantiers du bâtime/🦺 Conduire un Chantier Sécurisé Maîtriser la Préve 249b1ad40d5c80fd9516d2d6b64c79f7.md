@@ -18,7 +18,7 @@ Elle engage non seulement l’entreprise, mais aussi le **conducteur de travaux*
 
 <p>&nbsp;</p>
 
-### **📌 1. Les 9 piliers de la prévention**
+### **📌 Les 9 piliers de la prévention**
 
 <p>&nbsp;</p>
 
@@ -35,7 +35,7 @@ Les points fondamentaux à retenir de ce schéma :
 
 <p>&nbsp;</p>
 
-### **⚠️ 2. Pyramide de Bird : comprendre les signaux avant l’accident**
+### **⚠️ Pyramide de Bird : comprendre les signaux avant l’accident**
 
 <p>&nbsp;</p>
 
@@ -67,7 +67,7 @@ La **sécurité** doit être pensée à **tous les niveaux**.
 
 ****
 
-### **📝 A. Le PPSPS : votre plan d’attaque sécurité**
+### **📝 Le PPSPS : votre plan d’attaque sécurité**
 
 <p>&nbsp;</p>
 
@@ -77,7 +77,7 @@ Mettre en place un **plan de sécurité détaillé** avant le lancement des trav
 
 <p>&nbsp;</p>
 
-### **🧑‍⚕️ B. Premiers secours : former pour réagir vite**
+### **🧑‍⚕️ Premiers secours : former pour réagir vite**
 
 <p>&nbsp;</p>
 
@@ -87,7 +87,7 @@ Former des travailleurs aux **premiers secours** pour gérer toute situation d�
 
 <p>&nbsp;</p>
 
-### **🚨 C. Évacuation : prévoir l’imprévu**
+### **🚨 Évacuation : prévoir l’imprévu**
 
 <p>&nbsp;</p>
 
@@ -109,7 +109,7 @@ Le **PIC (Plan d’Installation de Chantier)** permet de concevoir la **configur
 - Définition des éléments d’**organisation** : contrôle d’accès, chemin piétonnier, voies pour engins, circuit visiteurs.
 - <p>&nbsp;</p>
 
-### **📦 A. Stockage malin des matériaux**
+### **📦 Stockage malin des matériaux**
 
 <p>&nbsp;</p>
 
@@ -119,7 +119,7 @@ Ranger les matériaux de manière **organisée** pour empêcher les **chutes** e
 
 <p>&nbsp;</p>
 
-### **🚧 B. Zones bien délimitées et signalées**
+### **🚧 Zones bien délimitées et signalées**
 
 <p>&nbsp;</p>
 
@@ -129,7 +129,7 @@ Installer des **barrières** pour délimiter les zones de chantier et utiliser u
 
 <p>&nbsp;</p>
 
-### **🛑 C. Contrôler qui entre sur le chantier**
+### **🛑 Contrôler qui entre sur le chantier**
 
 <p>&nbsp;</p>
 
@@ -139,7 +139,7 @@ Limiter l'accès aux personnes **autorisées uniquement** sur le chantier.
 
 <p>&nbsp;</p>
 
-### **⚡ D. Risques électriques : zéro tolérance**
+### **⚡ Risques électriques : zéro tolérance**
 
 <p>&nbsp;</p>
 
