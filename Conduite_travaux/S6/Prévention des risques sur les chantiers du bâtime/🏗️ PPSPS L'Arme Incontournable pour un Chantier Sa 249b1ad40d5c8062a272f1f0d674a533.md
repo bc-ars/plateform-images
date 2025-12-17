@@ -135,7 +135,7 @@ Toute modification implique une **actualisation immédiate** du document.
 
 **Exemple d’organigramme**
 
-![](https://api.hupso.co/uploads/img/content/image-283.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/PSPS/imagea.jpg)
 
 <p>&nbsp;</p>
 
@@ -174,7 +174,7 @@ Il s’agit d’une **fiche pratique** et **synthétique**, permettant à un sal
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-284.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/PSPS/imageb.png)
 
 <p>&nbsp;</p>
 
