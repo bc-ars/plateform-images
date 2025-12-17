@@ -49,7 +49,7 @@ Ils sont généralement équipés d’une **fourche** permettant de manipuler le
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/7_f7I1ceTwWvni2w5JsCJwCTfIPRjafv8KsKjsBZUmOIc0kAKRXEQgxr90fG2bP4nLrggtcx6zb51I6vhA4c1zR_wQd_00zQNvHE86dlDLdQmY5WjbnSBq8_-tNfhJSnvmSBU7R2jclzbPgR_uZ4Kw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Lever/imagea.png)
 
 *Chariot élévateur avec fourche*
 
@@ -69,7 +69,7 @@ Les **chariots télescopiques** (ou **manuscopiques**, souvent appelés **manito
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/1aGRas2wGHxxDBxMQMtuy8lNgbsx1e7GI8DvDxoH-j6amPIHAtHMaAXjSoJ96RBfbekv7HssWj40WlNMuQFtPh2UN2kMSp7QvOscR6ACtE7BEIxntgA0rOhmfTkSNRn-TdXInveojopyFr6erHXRlw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Lever/imageb.png)
 
 *Chariot télescopique*
 
@@ -88,7 +88,7 @@ Les **grues mobiles** sont intégrées à des **véhicules sur roues ou chenille
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/dB9OxG9kFpgVutsVnYw8gpgEybtiZ329uTPqBKx99a8HBUR2pRbUDrqMzY14P_cVY3gHuv2F4X5HGg4xes0tnATIP-MiVtrOyISFPze0Z6CLtwtGEDPaB_6gb95cr1dWsVNQGVZGNJjOMIVGwqlu5g)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Lever/imagec.png)
 
 *Grue mobile*
 
@@ -102,7 +102,7 @@ Plus compactes que les grues mobiles, les **mini-grues mobiles** sont destinées
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/l2hdCj1-p4boCRDgZmcHSaFflkYOLnKZ2ZLqUDyZfgVD5m-DikJf7x8p74DfRpkDODpp6XNu04_2F2LOHcaSnTKzwIXY79Ntb2nZdDHzwLsKH0fl4XsHyfmWG9GrAFT3999IAkJhfeiALrm6od8b_w)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Lever/imaged.png)
 
 *Mini-grue mobile*
 
@@ -125,7 +125,7 @@ On distingue :
     <p>&nbsp;</p>
     
 
-[](https://lh5.googleusercontent.com/lHsMmFrcx8vSp7QlB6Nd9RKfoB-tg56qBr4WRANwN1Q7kj89sblIbG3PEXcBiCsUU5ycEI2m5pvn-0xOHF1c6GISBOTOmxrqLN8G9C3SGWuDkbnsOowIBgMmjOxzpA56i71X7dFaAMonoAdH-za37Q)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Lever/imagee.png)
 
 *Vocabulaire des grues à tour*
 
@@ -151,9 +151,9 @@ Des **dégagements minimum** sont à respecter : 0,60 m entre la grue et tout é
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/LMZ7bmFWShl6zi8h6MudQGLDuovnEdH9PNRnTynpwQTa0nj9fxw5kHcmjj-HsHesB7fxZe5AXoVXewCneAHmSx1cVpT3knSk8frUJpI5QPR7DQy7Kdt_2ti7g3WDbjiWCyp077vXHswD22ddDx9adg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Lever/imagef.png)
 
-[](https://lh3.googleusercontent.com/fugXZiw2OZNiAXMcvECOmD4Xl4qGh3brbSOMJuV-9UiIZNRno_bcxH8S0T5x5plmlVA4veyttKUd5OMEuy135wrzT6inPF9olRmZ1JqqCssnkSgyqBTm5ydEW7xtDnkUb_8NvNwS6Li_9RwF207hHQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Lever/imageg.png)
 
 *Abaque de dimensionnement grue à tour*
 
