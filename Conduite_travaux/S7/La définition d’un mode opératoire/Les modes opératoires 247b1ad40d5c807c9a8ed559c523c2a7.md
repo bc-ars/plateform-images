@@ -22,13 +22,13 @@ Les modes opératoires peuvent être conçus sous un **format graphique** ou org
 
 <p>&nbsp;</p>
 
-![image.png](Les%20modes%20op%C3%A9ratoires/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Les%20modes%20op%C3%A9ratoires/image.png)
 
 *Mode opératoire graphique (Source: rcmo.fr)*
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-938.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Les%20modes%20op%C3%A9ratoires/imagea.png)
 
 *Mode opératoire sous forme tabulaire*
 
@@ -75,7 +75,7 @@ Cette approche permet de **détailler chaque étape** sous un angle à la fois *
 
 <p>&nbsp;</p>
 
-![image.png](Les%20modes%20op%C3%A9ratoires/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Les%20modes%20op%C3%A9ratoires/image%201.png)
 
 *Tableau méthode 5M (Source: kitoutils.com)*
 
@@ -93,7 +93,7 @@ L’**OPPBTP** met à disposition une **trame de mode opératoire** qui peut ser
 
 <p>&nbsp;</p>
 
-![image.png](Les%20modes%20op%C3%A9ratoires/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/Les%20modes%20op%C3%A9ratoires/image%202.png)
 
 *Trame OPPBTP – Mode opératoire*
 
