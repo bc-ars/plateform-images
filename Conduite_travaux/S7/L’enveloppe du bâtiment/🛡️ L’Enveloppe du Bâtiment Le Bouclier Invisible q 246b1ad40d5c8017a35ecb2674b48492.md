@@ -10,7 +10,7 @@ L’**enveloppe d’un bâtiment** regroupe l’ensemble des éléments qui prot
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/EdcAQj8ekPRL2APZtK9G-gyMCy_AJDBr8sWwxYAnngkLlyhYKYiVMwiS9MaOeGl2L1OOyWP7C4UjKWmtvgdhqfnp1LmabfGkZAfhDMYG1Gy-9nl6yjFRQ1vrN1Z4jT_mME3sRQB2Q-G3XvrLWQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/imagea.png)
 
 *Schéma de la composition de l'enveloppe du bâtiment*
 
@@ -29,7 +29,7 @@ Nous allons décomposer l’enveloppe du bâtiment en ses différents éléments
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/2W6TuX-daC_b-wVnTCtXA3NCoudvfLt-iLhB2rJD1rAJj9zBYtGHxYX-4m9ifs2-DSlrvtqcguwmvm7MGwi1cl_1TNi0-98rAX4NB5Rq44r4EUoHcBgHP7TQMkJ5ELzcQAs0PNCBL2B4FkZl_w)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/imageb.png)
 
 *Composants de l’enveloppe d'un bâtiment à toit plat (Source: IKO.com)*
 
@@ -73,7 +73,7 @@ Le **solin traversant** sert à rediriger l’humidité infiltrée depuis l’ex
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/image.png)
 
 *Mur de blocs de béton recouvert d’un solin traversant - Source : Société canadienne d’hypothèques et de logement* 
 
@@ -91,7 +91,7 @@ L’ajout d’un **chaperon d’étanchéité** sur le sommet des murs est une m
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/slFiKrCbpGFLD52cHWBKoC-soDABCW7JZ55QOaj8TH9ur1xFnv0xIdbJ2R-4wpYxwa1bJIA9_C14PlGcF4Vo-w5srFqdCxBULU6gVNKfp4EG28Qzw4aNP4Mj-a64PxxsA4onCz0QLAOfuIR8IQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/imagec.png)
 
 *Capuchon de mur de maçonnerie (Source: IKO.com)*
 
@@ -115,7 +115,7 @@ Les **joints de dilatation** permettent aux parties structurelles de bouger ind�
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/image%201.png)
 
 *Mise en place des joints dilatation (Source: Leroy Merlin)*
 
@@ -135,7 +135,7 @@ Le modèle **EIFS avec drainage**, le plus courant aujourd’hui, favorise l’�
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/sLE60ph15j8QxjSKevyAb2NdCboTRgGmCU_S1Rh1mFAnRgJ706a-WBMeho3zSZMtEwU6XR0U0l4TuJmqTVQpReOtqJfS6Quh74wi20AUuIPsetZUu37G4nVVlEyxR1dMhhvxYtwRneEIG__7Wg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/imaged.png)
 
  *Illustration d’un système EIFS (Source: IKO.com)*
 
@@ -151,7 +151,7 @@ Les puits de lumière, en particulier, peuvent constituer un **point faible** si
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/image%202.png)
 
 *Puits de lumière (Source: attila.fr)*
 
@@ -169,7 +169,7 @@ Un **drain périphérique** (type **drain français**) empêche l’eau de stagn
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/image%203.png)
+![image.png](%https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%F0%9F%9B%A1%EF%B8%8F%20L%E2%80%99Enveloppe%20du%20B%C3%A2timent%20Le%20Bouclier%20Invisible%20q/image%203.png)
 
 *Exemple d’imperméabilisation d’un mur de fondation enterré (Source: IKO.com)*
 
