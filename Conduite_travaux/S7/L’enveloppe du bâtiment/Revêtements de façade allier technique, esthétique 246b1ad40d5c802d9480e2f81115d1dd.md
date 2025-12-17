@@ -16,13 +16,13 @@ Un **enduit de façade** désigne généralement une **couche unique** (monocouc
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image.png)
 
 *Application d’un enduit de façade (Source: Weber)*
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%201.png)
 
 *Différentes finitions d’enduit de façade (Source: dsdrenov.com)*
 
@@ -70,7 +70,7 @@ En effet, la couleur des **façades** et parfois celle des **volets** est encadr
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%202.png)
 
 *Mise en peinture d’une façade (Source: fca-renovation.com)*
 
@@ -106,13 +106,13 @@ Le **bardage métallique** offre la meilleure **protection** contre les **agress
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%203.png)
 
 *Mise en place d'un bardage métallique sur une façade (Source: faynot.com)*
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%204.png)
 
 Détail d'un bardage métallique  *(Source: faynot.com)*
 
@@ -138,13 +138,13 @@ Le **bois carbonisé** est un revêtement **écologique**, à la fois **recyclab
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%205.png)
 
 *Mise en place d'une façade en UPVC  (Source: ventanasierra.org)*
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%206.png)
 
 *Bardage de bâtiment en bois (Source: Bois.com)*
 
@@ -158,7 +158,7 @@ Le **bardage en béton**, décliné en **panneaux** ou **tuiles**, s’impose de
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%207.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%207.png)
 
 *Bardage de bâtiment en béton préfabriqué (Source: Pinterest)*
 
@@ -195,7 +195,7 @@ Le **parement en pierre** utilise une **fine couche** de **grès**, **marbre** o
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%208.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%208.png)
 
 *Revêtement en pierre (Source: Pinterest)*
 
@@ -209,13 +209,13 @@ Les **briques** et **maçonneries** sont prisées pour leur **esthétique**, leu
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%209.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%209.png)
 
 *Détail du revêtement de la paroi extérieur d'un bâtiment en brique (Source: Pinterest)*
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%2010.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%2010.png)
 
 *Façade d'un bâtiment en brique (Source: Pinterest)*
 
@@ -237,7 +237,7 @@ La **façade végétalisée** est une solution innovante mêlant **structures m�
 
 <p>&nbsp;</p>
 
-![image.png](Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique,%20esth%C3%A9tique/image%2011.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Rev%C3%AAtements%20de%20fa%C3%A7ade%20allier%20technique%2C%20esth%C3%A9tique/image%2011.png)
 
 *Façade végétale d'un bâtiment.(Source: smc2-construction.com)*
 
