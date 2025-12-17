@@ -29,7 +29,7 @@ L’**étanchéité à l’air** repose, quant à elle, sur l’utilisation de *
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/K8VRiiFILhsZK-QkO-Oq1K4S1pDUDTkmvYNqzmh2w73NM_Ze76OqGPfy-_uyapIIgvx1G0I0txVQho9d7YNj02X-quEqd3tN5TT0FjwGA-mlq-y3HqrtORUBWV2akXHmxPJvHFKX4-bBKbwPVW_1jw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/imagea.png)
 
 *Interfaces à traiter pour l’étanchéité à l’eau*
 
@@ -60,7 +60,7 @@ Le **drain**, installé au fond d’une tranchée périphérique, permet de **re
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/QjNc4hdVlqd9Rb4OhfH30zEIjjnDH5ZFZYeJo5xKCcNl6H-RqaLgXBlajpWiKwuLpHyxToqCGExJoeqazgl5EQ-gUTAdOKdr6MWjzEsYlbJQDtM9V5tcYmSIRLoFf10oY9RRPKs9XaeGyAGGQzXqZw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/imageb.png)
 
 *Traitement d'étanchéité à l’eau des murs enterrés.*
 
@@ -73,13 +73,13 @@ Pour assurer l’imperméabilisation des murs en contact avec le sol, plusieurs 
 
 <p>&nbsp;</p>
 
-![image.png](%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image.png)
 
 *Mortier d’imperméabilisation (Source: Batiproduits)* 
 
 <p>&nbsp;</p>
 
-![image.png](%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%201.png)
 
 *Enduit bitumineux d’étanchéité (Source: maison-etanche.com)*
 
@@ -89,7 +89,7 @@ En complément, des **membranes durables** (ex. : **nappes à excroissances**, *
 
 <p>&nbsp;</p>
 
-![image.png](%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%202.png)
 
 *Nappes à excroissance (Source: nature-bois-concept.com)*
 
@@ -112,7 +112,7 @@ Pour les **murs bois** (ossature ou CLT), une **membrane pare-pluie** protège l
 
 <p>&nbsp;</p>
 
-[](https://lh3.googleusercontent.com/TTmfCwQ3hEQLLULY4QvTGwx-m1k2h2nfN3-fHdwBFEDdabpjMk9o4meX82z9UL9Fd0KgWFnTM0DN6t-u1ocm30lwCKkoCz441z3aOgRJRMLo4u4XvbqY7QCJ_kQofcHarrwxuBAheg6UVT1bmdt_Zg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/imagec.png)
 
 *Pare-pluie sur façade ossature bois (Pare-pluie DELTA®FASSADE)*
 
@@ -141,7 +141,7 @@ Les menuiseries doivent intégrer des **joints spécifiques** à :
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/N39ci4JmkDJdKCuNKMnXEYYPigPAI5ZFWxkFe-JhAhLDeCpk7ErGGwJWRYXe-MsGQu5WHwF6J3VTSM64AjMD12lRLnOxg-TiNGTpRdrK0bKjfZojZD2v5-qsaXy7_r7zgaT7EmLAhACObHB6Ippxpw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/imaged.png)
 
 *Coupe menuiserie extérieure*
 
@@ -161,7 +161,7 @@ Lors de la pose, deux interfaces nécessitent un traitement :
 
 <p>&nbsp;</p>
 
-![image.png](%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%203.png)
 
 *Joints d’étanchéité à l’eau (Source: ‘Amazon)*
 
@@ -172,7 +172,7 @@ Lors de la pose, deux interfaces nécessitent un traitement :
     
      <p>&nbsp;</p>
     
-    ![image.png](%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%204.png)
+    ![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%204.png)
     
     *Traitement pied de menuiserie : pièce d’appui maçonné (Source: Bouvet Menuiseries)*
     
@@ -183,7 +183,7 @@ Lors de la pose, deux interfaces nécessitent un traitement :
     <p>&nbsp;</p>
     
 
-![image.png](%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%205.png)
 
 *Étanchéité à l’eau par membrane sur menuiserie posée en applique extérieure (Source: ArchiExpo)*
 
@@ -218,7 +218,7 @@ Les **points singuliers** (cheminées, chêneaux, puits de lumière, joints) né
 
 <p>&nbsp;</p>
 
-![image.png](%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%206.png)
 
 *Type d’étanchéité sur toiture plate (Source: Alliance EPDM)*
 
@@ -265,7 +265,7 @@ Pour les **prémurs** ou structures **bois**, les **jonctions** mur/mur et mur/p
 
 <p>&nbsp;</p>
 
-![image.png](%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%207.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%207.png)
 
 *Raccord étanchéité à l’air entre prémurs – Source : KP1*
 
@@ -279,7 +279,7 @@ Les **joints** décrits pour l’étanchéité à l’eau assurent également l�
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/oOIJRCWe-fL_1tBt1e2ZzSZxcCwf-kh4qMnjzujBoL165yt2AvXG-laD37v8hNcHtGPBTGv7su_NyQcDve-pZY-YIRNgDGEB0uUg5iu8y9uM-zZz2DQ4LJ7O1TZ75UwC8YUgXaThlOAQHF0-fZ_Ghg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%209.png)
 
 *Scotch de traitement à l’air interface menuiserie extérieure/structure (Source: Schuco)*
 
@@ -296,7 +296,7 @@ Dans les **systèmes ouverts** combinant structure et isolation (ossature bois, 
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/8xv3pJ-KioWfdPasbohEOIAqSDH47GDea8_dbql7FzuSVyjshKgk_rca-UPcjEChoAlDBqbjhe9BoM_6HsivsYGJat3g5MNyKElDlgzUX_pjKCIpIj2kIkEwxeiufMWZSdQRPT3vvdbv_MbB4LUs9w)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%208a.png)
 
 *Traitement étanchéité à l’air : murs et combles aménagés – Source : Isover*
 
@@ -306,7 +306,7 @@ Le **frein-vapeur** est privilégié car il favorise le **séchage des parois** 
 
 <p>&nbsp;</p>
 
-![image.png](%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%208.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/%C3%89tanch%C3%A9it%C3%A9%20des%20B%C3%A2timents%20Les%20Cl%C3%A9s%20d%E2%80%99une%20Protection/image%208.png)
 
 *Traitement de raccord étanchéité à l’air (Source: ecomerchant)*
 
