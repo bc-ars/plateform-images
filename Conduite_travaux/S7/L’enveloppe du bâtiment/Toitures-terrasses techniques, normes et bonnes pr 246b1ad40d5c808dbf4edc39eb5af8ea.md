@@ -111,7 +111,7 @@ Les pentes des supports maçonnés ou en béton se répartissent en quatre class
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/xe65JKXDnaLtK_iNqAnEUBRTez2hGSiTLz3HdqAPhDl-m92pmzprzO3lKxjtt6OHL9MRAJ63HrMusH6ikyPCSYbrqh2O2esYJeoZuHsOYninEbGhHVNzPBGyIHIl9q5OImUbIHVIk3_mNbkSRA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imagec.png)
 
 <p>&nbsp;</p>
 
@@ -128,7 +128,7 @@ L’isolation se réalise principalement par l’**extérieur** pour des raisons
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/g-HiSFPhANn8wgV66WtouF-Jpkoqbgax809VOPRKx8KV2n4td2KwvLTBxxmoGvknxjGLiJ2r_aNrjoZzTruWATkG91itPXBCNEKz1WmVfIEwzYCXsrZmWDEX7FSrcqPmRwmuMDDF1d3pUyD6BA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imaged.png)
 
 <p>&nbsp;</p>
 
@@ -138,7 +138,7 @@ Détail d'une isolation inversée vs une isolation conventionnelle.
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/76rguQDqMn8Ysz5xX2N3exrc2FJCmHNrT7vRgF8wshCbfedd-fD2U-zdvjugRLzzx1D91MXQLCAzNjeUIHJ1H07ZzPKy6JFaeL7wKJX28W25DWNb4xnr92VfOxWEG533B728KQdEEFcHJAODqg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imagee.png)
 
 <p>&nbsp;</p>
 
@@ -195,7 +195,7 @@ La disposition de l’étanchéité sur une toiture plate diffère si la toiture
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/gXskLr3r92em0Tt-oRPCAGmSkAwBvkC4FhKczvp2ZFRVZUrf2xx-Xx1VAGYskwwYyEPtQVcq7I47O7vSzvTlh56j2xjpqEKJmtoWlZ8T0dACTcFcHpvUBYaoYP7ACaxrAE-kcx6r5O62CgLX5A)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imagef2.png)
 
 *Disposition de l’étanchéité sur une toiture-terrasse circulable et non circulable.*
 
@@ -248,7 +248,7 @@ Les **bitumes**, issus du **pétrole** ou de l’**asphalte naturel**, servent �
 
 <p>&nbsp;</p>
 
-![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%204.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imageg.png)
 
 *Techniques de pose des revêtements d'étanchéité.*
 
@@ -276,7 +276,7 @@ Le **classement F.I.T.** évalue les performances :
     
     <p>&nbsp;</p>
     
-    [](https://lh5.googleusercontent.com/a2DjsX2Nq5cIWpn6uT5IalkI29gkfmSqMC32jTy9CtkMsTcaWprjMT5bjjIHQwvfy3b79vT4B280FcSk8xZS1DLjevkdZr627PYiytxdP0F2eWPBOIhzXGa0Rpt2OBeAGC-ti_WZ57uA8J7n6A)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imagef.png)
     
 
 <p>&nbsp;</p>
@@ -296,11 +296,11 @@ Le tableau suivant décline les différentes options de protection en fonction d
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/hEK1lvoV1O_CfFhZabNSPbcaxaag91nV402saIoN-B2v8arJQgRoO1-HP7UDtSY0JHxV8MVRohuvL7pRUEiPG-C_pKg1tu7_HVjvqTyAoHe0wy3c-YXxsnXansTedFQrzt-FkjHXiJwJS78H3g)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imageh.png)
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/FWmoGxtJ0rHpPq_gKMm_7W94LcIimKlT7Rfie8qvKhP-mwF5oWsByBzYhteuRIUPahFq_dJy0jEcDel98lXcyJL0Kz2WMlthw3_tSbh416BXsrm00z_GJp6H8vqGcwkNzuG7aC40i-vBfvV5qw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imagei.png)
 
 *Différents types de protections pour le revêtement d'étanchéité.*
 
@@ -323,7 +323,7 @@ Le tableau suivant décline les différentes options de protection en fonction d
 
 Les **points singuliers** regroupent tous les éléments interrompant la **continuité de l’étanchéité**. Leur **conception** doit empêcher toute infiltration et leur **exécution** doit être particulièrement soignée. Ils peuvent être **linéaires** (pourtour de la toiture, jonction des façades en retrait, joints de dilatation) ou **ponctuels** (évacuations d’eaux pluviales, ventilations, passages techniques).
 
-[](https://lh4.googleusercontent.com/eNF-JhXeFXXxH_6nAr2cP1sHaCd6yuChQeoLAMeeL0FIrk62_4ju1pemjGiN9rsXf7-YeJKM9FMY-zFspsGi3VHTNEK3JhYQiZDNovcqM340SRGJbdMgbH2nX7bQnrOq99iZRAWuQMYsgMAQFw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imagej.png)
 
 *Les points singuliers sur une toiture-terrasse.*
 
@@ -356,7 +356,7 @@ Les **joints de rupture** traitent quant à eux les **tassements différentiels*
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/GlEAeEomIcASzhBje0tQZWgAO-qx8uE9HTwhVRVdAGKXDyNp62ZvfpYXTgKlwBAjBaHdYCFqoCn3GOmF4uUyDWE-01Kc0l8IWj_iTe1b4cHftXaY3oUEoQ6iCuw6T0kaTOVxQdrcNyPQuhZsxQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imagek.png)
 
 Détail d'un joint de dilatation sur costières en maçonnerie.
 
@@ -378,7 +378,7 @@ En plus de son rôle **technique**, l’acrotère :
 
 <p>&nbsp;</p>
 
-![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%205.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%205.png)
 
 *Détail d'un acrotère.*
 
@@ -398,7 +398,7 @@ Les **distances minimales** entre ouvrages émergents dépendent de leur largeur
 | 0,4 < L < 1,2 | 0,5 |
 | L > 1,2 | 1,0 |
 
-![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%206.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%206.png)
 
 *Détail des distances d'implantation des ouvrages émergeants.*
 
@@ -418,7 +418,7 @@ Ils doivent être **visitables** et ne peuvent être appliqués sur des supports
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/lz9_TRvokTjUs7YWL9a4LL3x7VZGe4MoXGzCLwpXisvRM5-_1PW3cGXQkCLg9vzviXFJN-Cb_D894XjW5b2GSVHuR2nuaHxOaD6EdEg-ld93gX1NAIiIctt3BZ_J-6mLDEVKp3CURxucW4HiBg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imagen.png)
 
 *Détail d'un relevé d'étanchéité.*
 
