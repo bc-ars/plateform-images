@@ -51,7 +51,7 @@ Une **fenêtre à deux vantaux** comprend un dormant et deux ouvrants (= 2 vanta
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/_CmO7UX04RFNtD_ajpVur3AtIVcp37wc7mf1CSd4FFGdCdJSY0PjK-_2KDaejrRekMDTUhM8ju5B1xmiYB2bZeQ74yYPf9Z-6KPZ-OC8-TNo6LeAXzmUO6eYWl2Vw5z-Ib45IvcLagrYbsDnDs6yOg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagea.png)
 
 *Fenêtre à la française à 2 vantaux.*
 
@@ -67,13 +67,13 @@ Les **menuiseries composées** se constituent de **plusieurs fenêtres accolées
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/P7TGy15gVjPHLfKbCasSgHqgdXrjQBzWfxm-uKXaXHEGJZeXprQh6wuJKfHfzj3JJ7ljQ0ZOAD5EF_YKBT9YIHSWEW3p_0ao3vfITIQOaGgcx280hdWpa5pXcikKaXC6y7jRkF12flW1iwXr_N0FNg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imageb.png)
 
 *Menuiseries composées avec allège (haut) et imposte (bas).*
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/RcZ95L1RSFBJ0yT5itX5zqSRicvrpgptnCsGiYL8gCi4tGhkinZp0ZujJLFSxXza4dNWs0odRLZ2OHDB1pY9QWRrNo5j-hNo34zJcX6wVy-SAUKWEYHbq-AGzOQAiy_Yp3bgjceEPgFHftnTNwX-Xw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagec.png)
 
 <p>&nbsp;</p>
 
@@ -83,7 +83,7 @@ Les vitrages peuvent être de plusieurs types :
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/gnSz8jFNQ4DOZwzG41ef9e4WLgK5BZTde14hUDW6nku4o9Fi5MLqf4xbjCzrcxzd7TscsT4kWSJK3WtbNz7-BFePgxX6btigo_KO4N6nvy3-dEBtVb9v7juJUvgTtCMD85FMMfFux2I0wJzZvedjBA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imaged.png)
 
 <p>&nbsp;</p>
 
@@ -91,7 +91,7 @@ Les vitrages peuvent être de plusieurs types :
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/ohk62gOpbWVjO4M_cWBSWc4iTvcqjjsWnoBYS3uspw1pOOy7LZQv5yx2er0ZYPreHpVMk-vPHvGknGqKBvtjhicw05-WS99oKn3mJ6c9yrVbb2NNsilukDj17BzGP93eEnTdZrP54zn4B_UFl0fYOA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagee.png)
 
 <p>&nbsp;</p>
 
@@ -99,7 +99,7 @@ Les vitrages peuvent être de plusieurs types :
 
 <p>&nbsp;</p>
 
-![image.png](Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/image.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/image.png)
 
 <p>&nbsp;</p>
 
@@ -111,7 +111,7 @@ Sur les **plans**, les menuiseries se représentent par les **symboles normalis�
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/ox2BXVtMGSR0tKPct2KHGTdct_GnC8b5FLflIIkE1peFBjHT8cK01PAIz_YtcDbr2oPzfz_ebvY2SYVWqiQ8lRoPSc-acDbisdenw1MPaWU5BOGw6VEE4IXoAnMevRzTV1hqeDxU1djSIG9jPaMizg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagef.png)
 
 *Règles de représentation des menuiseries.*
 
@@ -129,7 +129,7 @@ Différents systèmes d’occultation existent :
     
     <p>&nbsp;</p>
     
-    [](https://lh5.googleusercontent.com/oWZEJFUglDilHOpItvOHBu61qyEvQ_iOmh5KpzEQYhyM6lD2UvrqtBw_FapyERCjVWoL9xw_RDyV54vCQubErc48_g0WZtLBcapCP_fQwFV2plm08SxsHiKkmOM1ysCa7J0xMSNMiQs81bvLphDTbA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imageg.png)
     
     <p>&nbsp;</p>
     
@@ -137,14 +137,14 @@ Différents systèmes d’occultation existent :
     
     <p>&nbsp;</p>
     
-    [](https://lh4.googleusercontent.com/MFtIgE_VmgLChtm9nSSAXXu7NyqDfgt0sC5_eRlYZpfKpcsgGZVt6hCDpZAgKx0WXkgaMHMBm6qog_kKKaH_2O900pwkt3tjTgzkRwE21qGJbudKFtsg3ivkoKZ2vIaz2c7YSzaNxnR9xfUPo-sBnQ)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imageh.png)
     
     <p>&nbsp;</p>
     
     - **Stores** et **brise-soleil** (**BSO**) *- Source: Maygnan fermetures*
     
 
-[](https://lh3.googleusercontent.com/OaoOgdGYvLYM-G77wHX9xl4fs6QtrLdRXJqltxOQNnKzKaBCXFI9pzGoPGG5_2gbaIFcCNXSbrfuK83I0BF-dpWyuyU8smbBsey_QQL46-CVd_4Dx1Kw6hFxxW6FbUNvfI85rUiY5bR9XTRt658vQA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagei.png)
 
 <p>&nbsp;</p>
 
@@ -154,19 +154,19 @@ L’intégration des **occultations extérieures** doit être soignée pour pré
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/yPi9K3CDgrnQ1nT9DB9bcamY5faI0oGXOpEPUieKAMciV1FXBUIMuMtduB7i8aH8buo_ianS0YYyBco-thbIBGpKdq8ZFpRVCK1-9PX4QR_aZy7OYktKTf8WMLFgEYn18hvkrWpL-6a6iGwwSHblLg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagej.png)
 
 *Bio'Bric - Bouyer Leroux - Grand Est - Pôle Habitat FFB*
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/S3uv6TJlQmh3ogTvf_7KfQlQiHjOqWE7YBxnl5A7mknPfILYU6jfEGsBU7neoSt9ZnZBX_WGPNkDkgx8lJmCnTZiqiDklru997gxMFEeDaCFsx_O1jNulWCl4QI0bdd8muhBqG8RlZFt3RyEEtDrvA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagel.png)
 
 *Volets monobloc standard*
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/fLKZFJzPYk9DAfsmAiU1VHVQr2oMbw30MhKfswfdP2BT_bhVhiyHTQChhioi51NM_lCNDVGUvLfzg2dhbs2D0pEdRv0u5Vc5YNU4oD6dYWJSKkxE8Izcjd01CwoTUrkEV_uBGZgSHu6ZbXppVGmHQg)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagem.png)
 
 *Store Brise Soleil orientable BSO - Maison de Lumiere Technal by Fenêtre Rénovation Paris*
 
@@ -274,7 +274,7 @@ Pour l’installation, il faut relever **5 dimensions** :
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/Bm23iIqdfTSlNNHRGCTS5E4dXciCJ8fM1d_Hs9Q8TNgMy1doWj2zdvpBmpNrtPaACfOdSAk_qjpo2YF2M0jf2bPZVqzElBMHJtCLrnI4CWBAOH15pGLPkNVvIccTPKkK7nlRULSduY5QOBzMxFQtTw)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagel.png)
 
 *Schéma : pose en applique intérieure.*
 
@@ -299,7 +299,7 @@ Pour ce type de pose, il faut relever **6 dimensions** :
 
 <p>&nbsp;</p>
 
-[](https://lh6.googleusercontent.com/a8nexiwWuqz2LI2vH7qH3TLdPDlhoyHe0-y6Fzl3_M_MBI7ksMWXeaiaGyO4inrUWNWnJgkpmb92PXLc8qHfLJjpWExhiLLhCXKvj_VXfxX_tCKAk611GrymArZ85uRxpz4KWVPgFFmL0zv-eUXmRA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagem.png)
 
 *Schéma : pose en feuillure.*
 
@@ -322,7 +322,7 @@ Il faut relever **3 mesures** :
 
 <p>&nbsp;</p>
 
-[](https://lh4.googleusercontent.com/NwfpVNr0YLvBZZiXxVH78wO1hHrhbJWdVnce1XCbQqV-Xo6wvTHsoEhnmjG-3QlLxvkUVYp3-PMAKTdjhrAhTp7XlVpC8SFlp1TLhRM9rhZGsbCtYr06cWo7cyrG0mkXMD_Y0ewAaFyo3Ykmo1755w)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagen.png)
 
 *Schéma : pose en tunnel.*
 
