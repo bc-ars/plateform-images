@@ -14,7 +14,7 @@ La conduite des **chantiers** implique généralement l’usage d’**engins lou
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image.png)
 
 *Classification générale des engins (Source: tractopelle.ma)*
 
@@ -30,7 +30,7 @@ La conduite des **chantiers** implique généralement l’usage d’**engins lou
 
 ****
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%201.png)
 
 *Chargeuse (Source: archiexpo.fr)*
 
@@ -59,7 +59,7 @@ La conduite nécessite le **CACES R482 C1**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%202.png)
 
 *Mini-chargeuse (Source: tracktor.fr)*
 
@@ -81,7 +81,7 @@ La conduite nécessite le **CACES R482 A**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%203.png)
 
 *Pelleteuse (Source: directindustry.fr)*
 
@@ -105,7 +105,7 @@ La conduite nécessite le **CACES R482 A**.
 
 ****
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%204.png)
 
 *Tractopelle (Source: isermat-secamat.com)*
 
@@ -123,7 +123,7 @@ La conduite nécessite le **CACES R482 C1**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%205.png)
 
 *Bulldozer (Source: galadarigthe.com)*
 
@@ -143,7 +143,7 @@ La conduite nécessite le **CACES R482 C2**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%206.png)
 
 *Décapeuse (Source: societedentreprisesgenerales.com)*
 
@@ -161,7 +161,7 @@ La conduite nécessite le **CACES R372m catégorie 8**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%207.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%207.png)
 
 *Compacteur (Source: ugap.fr)*
 
@@ -181,7 +181,7 @@ La conduite nécessite le **CACES R482 D**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%208.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%208.png)
 
 *Déverseur ou dumper (Source: mecalac.com)*
 
@@ -197,7 +197,7 @@ La conduite nécessite le **CACES R482 E**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%209.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%209.png)
 
 *Niveleuse (Source: directindustry.com)*
 
@@ -221,7 +221,7 @@ La conduite nécessite le **CACES R482 C3**.
 
 ****
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2010.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2010.png)
 
 *Semi-remorque (Source: faymonville.com)*
 
@@ -237,7 +237,7 @@ Ses dimensions standards sont généralement de **16,50 m de long**, **2,55 m de
 
 ****
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2011.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2011.png)
 
 *Camion toupie (Source: guidebeton.com)*
 
@@ -257,7 +257,7 @@ Sa capacité maximale atteint en général **8 m³**.
 
 ****
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2012.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2012.png)
 
 *Camion-plateau (Source: seigle-location.com)*
 
@@ -273,7 +273,7 @@ Ses **ridelles** assurent un **maintien sécurisé** de la cargaison. Selon sa c
 
 ****
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2013.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2013.png)
 
 *Camion Ampliroll (Source: innovactionsystemes.com)*
 
@@ -291,7 +291,7 @@ Grâce à ce système, un seul camion peut remplir plusieurs fonctions. Il est d
 
 ****
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2014.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2014.png)
 
 *Camion benne (Source: rentforce.com)*
 
@@ -311,7 +311,7 @@ Ses configurations les plus courantes sont :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2015.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2015.png)
 
 *Camion-citerne (Source: bf.bazarafrique.com)*
 
@@ -335,7 +335,7 @@ Le **camion-citerne** se distingue par sa **cuve**, utilisée pour transporter d
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2016.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2016.png)
 
 *Grue à tour (Source: jdlgroupe.com)*
 
@@ -360,7 +360,7 @@ La conduite nécessite le **CACES R487**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2017.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2017.png)
 
 *Grue mobile (Source: directindustry.com)*
 
@@ -383,7 +383,7 @@ La conduite nécessite le **CACES R483**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2018.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2018.png)
 
 *Foreuse (Source: directindustry.com)*
 
@@ -420,7 +420,7 @@ La conduite nécessite le **CACES R482 B2**.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2019.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2019.png)
 
 *Fraiseuse routière ou raboteuse (Source: hellopro.fr)*
 
@@ -438,7 +438,7 @@ Les matériaux retirés sont évacués par un **convoyeur** vers une **benne**. 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2020.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2020.png)
 
 *Finisseur de route (Source: asphalte-evolution.fr)*
 
@@ -462,7 +462,7 @@ Son **avancée régulière** garantit une **pose homogène**.
 
 ****
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2021.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2021.png)
 
 *Bétonnière (Source: manutan.fr)*
 
@@ -478,7 +478,7 @@ La **bétonnière** mélange les **constituants du béton** (ciment, sable, eau)
 
 ****
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2022.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2022.pngg)
 
 *Centrale à béton (Source: euromecc.com)*
 
@@ -502,7 +502,7 @@ Les centrales modernes sont **automatisées**, ajustant les quantités d’eau e
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2023.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2023.png)
 
 *Auto-betonniere (Source: dupontmateriel.fr)*
 
@@ -520,7 +520,7 @@ Certains modèles montés sur camion mélangent les constituants à l’arrière
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre,%20comprendr/image%2024.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/La%20d%C3%A9finition%20d%E2%80%99un%20mode%20op%C3%A9ratoire/%F0%9F%9A%9C%20Les%20engins%20du%20BTP%20d%C3%A9crypt%C3%A9s%20conna%C3%AEtre%2C%20comprendr/image%2024.png)
 
 *Pompe à béton (Source: sodeximfrance.com)*
 
