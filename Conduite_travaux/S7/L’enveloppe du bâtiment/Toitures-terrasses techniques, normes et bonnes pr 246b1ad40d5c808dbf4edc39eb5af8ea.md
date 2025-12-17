@@ -62,7 +62,7 @@ Le matériau le plus utilisé reste le **béton armé coulé en place** ou les *
 
 <p>&nbsp;</p>
 
-![image.png](Toitures-terrasses%20techniques,%20normes%20et%20bonnes%20pr/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image.png)
 
 <p>&nbsp;</p>
 
@@ -74,7 +74,7 @@ Les éléments porteurs, selon leur **sensibilité à la fissuration**, sont cla
 
 <p>&nbsp;</p>
 
-[](https://lh5.googleusercontent.com/v2ras60lZlnf9Yrhk4DrYttKL_BAGjMI1HaFTZYGsPRAKp-VdJnXyZKSpPU2W79aJmhSbHAqKH7t2mojqD11Eo8Gd-vMbbSi7F5MycWu3FQfehbJcYwh4IHRACfBbZQc84FOOL11PsUTgRCVIA)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -82,7 +82,7 @@ Les éléments porteurs, selon leur **sensibilité à la fissuration**, sont cla
 
 <p>&nbsp;</p>
 
-![image.png](Toitures-terrasses%20techniques,%20normes%20et%20bonnes%20pr/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%201.png)
 
 <p>&nbsp;</p>
 
@@ -90,13 +90,13 @@ Les éléments porteurs, selon leur **sensibilité à la fissuration**, sont cla
 
 <p>&nbsp;</p>
 
-![image.png](Toitures-terrasses%20techniques,%20normes%20et%20bonnes%20pr/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%202.png)
 
 - **TYPE D** : élément porteur en **éléments préfabriqués en béton armé ou précontraint** liés par des **clefs continues en béton**.
 
 <p>&nbsp;</p>
 
-![image.png](Toitures-terrasses%20techniques,%20normes%20et%20bonnes%20pr/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%203.png)
 
 <p>&nbsp;</p>
 
@@ -248,7 +248,7 @@ Les **bitumes**, issus du **pétrole** ou de l’**asphalte naturel**, servent �
 
 <p>&nbsp;</p>
 
-![image.png](Toitures-terrasses%20techniques,%20normes%20et%20bonnes%20pr/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%204.png)
 
 *Techniques de pose des revêtements d'étanchéité.*
 
@@ -378,7 +378,7 @@ En plus de son rôle **technique**, l’acrotère :
 
 <p>&nbsp;</p>
 
-![image.png](Toitures-terrasses%20techniques,%20normes%20et%20bonnes%20pr/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%205.png)
 
 *Détail d'un acrotère.*
 
@@ -398,7 +398,7 @@ Les **distances minimales** entre ouvrages émergents dépendent de leur largeur
 | 0,4 < L < 1,2 | 0,5 |
 | L > 1,2 | 1,0 |
 
-![image.png](Toitures-terrasses%20techniques,%20normes%20et%20bonnes%20pr/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%206.png)
 
 *Détail des distances d'implantation des ouvrages émergeants.*
 
@@ -436,7 +436,7 @@ Selon le **DTU 40.5**, l’eau doit s’écouler **directement** vers les **gout
 
 <p>&nbsp;</p>
 
-![image.png](Toitures-terrasses%20techniques,%20normes%20et%20bonnes%20pr/image%207.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%207.png)
 
 *Chéneau en encorbellement.*
 
@@ -446,7 +446,7 @@ Selon le **DTU 40.5**, l’eau doit s’écouler **directement** vers les **gout
 
 <p>&nbsp;</p>
 
-![image.png](Toitures-terrasses%20techniques,%20normes%20et%20bonnes%20pr/image%208.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/image%208.png)
 
 *Caniveau.*
 
