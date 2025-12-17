@@ -43,7 +43,7 @@ Ce procédé convient aux **murs maçonnés ou en béton**.
 
 <p>&nbsp;</p>
 
-![image.png](Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes,%20pr%C3%A9cautions%20et%20bon/image.png)
+![image.png](http://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes%2C%20pr%C3%A9cautions%20et%20bon/image.png)
 
 *Doublages isolant intérieur de type collé (Source: Gedimat)* 
 
@@ -66,7 +66,7 @@ Ce procédé s’adapte à **tous types de murs supports**.
 
 <p>&nbsp;</p>
 
-![image.png](Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes,%20pr%C3%A9cautions%20et%20bon/image%201.png)
+![image.png](http://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes%2C%20pr%C3%A9cautions%20et%20bon/image%201.png)
 
 *Doublages isolants intérieurs de type désolidarisé (Source: cote-iso.fr)*
 
@@ -96,7 +96,7 @@ Ces derniers sont placés à l’interface **plancher/façade** ou **plancher/ba
 
 <p>&nbsp;</p>
 
-![image.png](Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes,%20pr%C3%A9cautions%20et%20bon/image%203.png)
+![image.png](http://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes%2C%20pr%C3%A9cautions%20et%20bon/image%203.png)
 
 *Principe de mise en œuvre de rupteurs thermiques (Source: COHB-industrie.com)*
 
@@ -139,7 +139,7 @@ En général, les **isolants** se présentent sous forme de **panneaux d’envir
 
 <p>&nbsp;</p>
 
-![image.png](Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes,%20pr%C3%A9cautions%20et%20bon/image%204.png)
+![image.png](http://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes%2C%20pr%C3%A9cautions%20et%20bon/image%204.png)
 
 *Exemple ITE avec revêtements de façade complétée de bardeaux (Source: Batiweb)*
 
@@ -166,7 +166,7 @@ En partie courante, les **contrôles essentiels** sont :
 
 <p>&nbsp;</p>
 
-![image.png](Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes,%20pr%C3%A9cautions%20et%20bon/image%205.png)
+![image.png](http://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes%2C%20pr%C3%A9cautions%20et%20bon/image%205.png)
 
 *Exemple de défaut de mise en œuvre d’une ITE (Source: AQC)*
 
@@ -203,7 +203,7 @@ Certains procédés combinent dans une même épaisseur **fonction structurelle 
 
 <p>&nbsp;</p>
 
-![image.png](Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes,%20pr%C3%A9cautions%20et%20bon/image%206.png)
+![image.png](http://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Isolation%20des%20fa%C3%A7ades%20m%C3%A9thodes%2C%20pr%C3%A9cautions%20et%20bon/image%206.png)
 
 *Brique Monomur. Prémur isolé. Panneau sandwich. Mur ossature bois.*
 
