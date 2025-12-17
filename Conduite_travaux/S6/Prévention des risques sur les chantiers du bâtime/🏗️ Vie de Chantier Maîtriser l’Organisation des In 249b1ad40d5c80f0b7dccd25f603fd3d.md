@@ -24,7 +24,7 @@ Pour garantir un **nombre suffisant de places de parking** pour les ouvriers prÃ
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Vie%20de%20Chantier%20Ma%C3%AEtriser%20l%E2%80%99Organisation%20des%20In/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%F0%9F%8F%97%EF%B8%8F%20Vie%20de%20Chantier%20Ma%C3%AEtriser%20l%E2%80%99Organisation%20des%20In/image.png)
 
 *Exemple de signalisation autour dâ€™un chantier (Source: Panoloc)*
 

@@ -26,7 +26,7 @@ Ils doivent être fournis **gratuitement** par l’**employeur**. Celui-ci est t
 
 <p>&nbsp;</p>
 
-![image.png](%E2%9A%A0%EF%B8%8F%20Sant%C3%A9%20et%20s%C3%A9curit%C3%A9%20au%20travail%20soyez%20pr%C3%AAts%20%C3%A0%20affr/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%E2%9A%A0%EF%B8%8F%20Sant%C3%A9%20et%20s%C3%A9curit%C3%A9%20au%20travail%20soyez%20pr%C3%AAts%20%C3%A0%20affr/image.png)
 
 *Les EPI sur le chantier (Source: m2b-solutions.com)*
 
@@ -51,7 +51,7 @@ Il faut **éviter les habits amples**. Les vêtements doivent être **ajustés**
 
 <p>&nbsp;</p>
 
-![Untitled](%E2%9A%A0%EF%B8%8F%20Sant%C3%A9%20et%20s%C3%A9curit%C3%A9%20au%20travail%20soyez%20pr%C3%AAts%20%C3%A0%20affr/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%E2%9A%A0%EF%B8%8F%20Sant%C3%A9%20et%20s%C3%A9curit%C3%A9%20au%20travail%20soyez%20pr%C3%AAts%20%C3%A0%20affr/Untitled.png)
 
 <p>&nbsp;</p>
 

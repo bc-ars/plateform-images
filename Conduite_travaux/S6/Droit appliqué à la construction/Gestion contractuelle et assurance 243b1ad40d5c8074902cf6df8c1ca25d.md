@@ -201,7 +201,7 @@ Le sous-traitant doit être **déclaré** et **agréé** par le MO.
 
 <p>&nbsp;</p>
 
-![image.png](Gestion%20contractuelle%20et%20assurance/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Droit%20appliqu%C3%A9%20%C3%A0%20la%20construction/Gestion%20contractuelle%20et%20assurance/image.png)
 
 *La sous-traitance dans le BTP (Source: Boby)*
 
@@ -555,7 +555,7 @@ Elle garantit la **réparation rapide** sans attendre une décision judiciaire, 
 
 <p>&nbsp;</p>
 
-![image.png](Gestion%20contractuelle%20et%20assurance/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Droit%20appliqu%C3%A9%20%C3%A0%20la%20construction/Gestion%20contractuelle%20et%20assurance/image%201.png)
 
 *Les assurances dans la construction (Source: assurancedecennaleauto-entrepreneur.fr)*
 

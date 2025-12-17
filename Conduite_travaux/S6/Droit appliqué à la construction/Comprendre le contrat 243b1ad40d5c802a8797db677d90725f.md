@@ -61,7 +61,7 @@ Les contrats se répartissent selon trois grandes **catégories** :
 
 <p>&nbsp;</p>
 
-![image.png](Comprendre%20le%20contrat/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Droit%20appliqu%C3%A9%20%C3%A0%20la%20construction/Comprendre%20le%20contrat/image.png)
 
 *Carte mentale du contrat synallagmatique (Source: aideauxtd.com)*
 

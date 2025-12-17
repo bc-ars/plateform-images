@@ -57,7 +57,7 @@ Le **maître d’ouvrage** doit souscrire une **assurance dommages-ouvrage oblig
 
 <p>&nbsp;</p>
 
-![image.png](Les%20cl%C3%A9s%20juridiques%20du%20BTP%20contrats,%20march%C3%A9s%20et%20as/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Droit%20appliqu%C3%A9%20%C3%A0%20la%20construction/Les%20cl%C3%A9s%20juridiques%20du%20BTP%20contrats%2C%20march%C3%A9s%20et%20as/image.png)
 
 *Source: Agap2*
 
@@ -97,7 +97,7 @@ Dans le **secteur du bâtiment**, il existe deux grands types de marchés : les 
 
 <p>&nbsp;</p>
 
-![image.png](Les%20cl%C3%A9s%20juridiques%20du%20BTP%20contrats,%20march%C3%A9s%20et%20as/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Droit%20appliqu%C3%A9%20%C3%A0%20la%20construction/Les%20cl%C3%A9s%20juridiques%20du%20BTP%20contrats%2C%20march%C3%A9s%20et%20as/image%201.png)
 
 *Source: Chubb France*
 

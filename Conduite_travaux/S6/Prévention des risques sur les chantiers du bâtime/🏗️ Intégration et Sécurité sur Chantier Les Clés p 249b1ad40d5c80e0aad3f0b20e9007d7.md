@@ -55,7 +55,7 @@ Analyser le **plan de circulation**, qui décrit les **voies d’engins**, les *
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%8F%97%EF%B8%8F%20Int%C3%A9gration%20et%20S%C3%A9curit%C3%A9%20sur%20Chantier%20Les%20Cl%C3%A9s%20p/Untitled.png)
+![Untitled](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Pr%C3%A9vention%20des%20risques%20sur%20les%20chantiers%20du%20b%C3%A2time/%F0%9F%8F%97%EF%B8%8F%20Int%C3%A9gration%20et%20S%C3%A9curit%C3%A9%20sur%20Chantier%20Les%20Cl%C3%A9s%20p/Untitled.png)
 
 <p>&nbsp;</p>
 

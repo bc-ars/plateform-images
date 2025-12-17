@@ -52,7 +52,7 @@ On distingue donc une **sous-traitance complète** ou **partielle**.
 
 <p>&nbsp;</p>
 
-![image.png](Sous-traitance%20dans%20le%20BTP%20proc%C3%A9dures,%20obligations/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S6/Droit%20appliqu%C3%A9%20%C3%A0%20la%20construction/Sous-traitance%20dans%20le%20BTP%20proc%C3%A9dures%2C%20obligations/image.png-traitance%20dans%20le%20BTP%20proc%C3%A9dures,%20obligations/image.png)
 
 *La sous-traitance dans le BTP (Source: LegalPlace)*
 
@@ -108,7 +108,17 @@ La sous-traitance ne peut porter sur l’intégralité du marché. Elle est donc
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-278.png)
+# Exemple d'extrait de CCAP Travaux
+ARTICLE X – SOUS-TRAITANCE
+
+X.1. Principe général 
+Le titulaire du marché peut, sous sa responsabilité, sous-traiter l'exécution de certaines parties de son marché, à condition d'avoir obtenu du Maître d’Ouvrage l'acceptation de chaque sous-traitant et l'agrément de ses conditions de paiement.
+
+X.2. Limites de la sous-traitance 
+La sous-traitance ne peut en aucun cas porter sur la totalité du marché. Elle est nécessairement partielle. Le titulaire reste personnellement responsable de l'ensemble des travaux, y compris ceux effectués par les sous-traitants.
+
+X.3. Modalités de déclaration 
+Toute demande de sous-traitance doit être soumise au Maître d’Ouvrage (ou à son représentant, le Maître d'Œuvre) avant le début d'exécution des prestations concernées. Cette demande doit préciser la nature des prestations sous-traitées et le montant prévisionnel correspondant.
 
 <p>&nbsp;</p>
 

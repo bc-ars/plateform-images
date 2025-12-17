@@ -20,7 +20,7 @@ Cependant, cette perception ne résiste pas à une **analyse rigoureuse**. Les d
 
 <p>&nbsp;</p>
 
-### **📉 A. Principales causes de sinistralité – Pourquoi ça fait (encore) mal**
+### **📉 Principales causes de sinistralité – Pourquoi ça fait (encore) mal**
 
 <p>&nbsp;</p>
 
@@ -34,7 +34,7 @@ Une large part de ces **arrêts de travail** résulte de défaillances dans la *
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/image.png)
+![image.png](image.png)
 
 *Exemple des causes principales des accidents de travail avec arrêt en Bretagne (Source: carsat-bretagne.fr)*
 
@@ -60,7 +60,7 @@ Par exemple, environ **8 300 000 journées d’arrêt temporaire** sont compens�
 
 Ces charges représentent le **coût direct** des **accidents du travail** et **maladies professionnelles (AT/MP)**. Elles sont couvertes par les **cotisations annuelles AT/MP**, versées par les **entreprises**, calculées selon leur **taille** et la **fréquence des sinistres** dans leur domaine d’activité.
 
-Alors que la **cotisation moyenne** toutes branches confondues est d’environ **2,4 % de la masse salariale**, dans le BTP, les taux appliqués aux **entreprises de moins de 20 salariés** s’élevaient en 2011 à : **4,4 %** pour les plombiers, **6,8 %** pour les menuisiers, **7,6 %** pour les maçons et **9,4 %** pour les charpentiers-couvreurs.
+Alors que la cotisation moyenne nationale toutes branches confondues est descendue à **2,12 %**, dans le BTP, les taux appliqués aux entreprises de moins de 20 salariés s’élèvent désormais à : **4,02 %** pour les plombiers, environ **6,40 %** pour les menuisiers, **7,31 %** pour les maçons et **8,60 %** pour les charpentiers-couvreurs.
 
 Ces prélèvements, constitutifs du **coût direct des AT/MP**, viennent alourdir de manière significative le **coût du travail**.
 
@@ -103,7 +103,7 @@ Un **calcul rapide** peut être réalisé à partir du montant d’un marché :
 - estimation du **coût direct** (application des taux AT/MP) ;
 - évaluation du **coût indirect**.
 
-Par exemple, ce calcul a été mené pour un **chantier de 60 logements sociaux**, réalisé en **corps d’états séparés** entre 2011 et 2012 dans la région **Pays de la Loire**.
+Par exemple, ce calcul a été mené pour un **chantier de 50 logements sociaux**, réalisé en **corps d’états séparés** entre 2025.
 
 **Estimation de la part de main d’œuvre pour chaque lot :**
 
@@ -129,7 +129,7 @@ Il est calculé ainsi :
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-19 à 12.23.10.png](%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/Capture_decran_2023-04-19_a_12.23.10.png)
+![Capture d’écran 2023-04-19 à 12.23.10.png](Capture_decran_2023-04-19_a_12.23.10.png)
 
 <p>&nbsp;</p>
 
@@ -143,7 +143,7 @@ avec :
 
 Le **coefficient global moyen** (hors marge) pour les entreprises varie de **1,15 à 1,26** selon leurs contraintes. Pour simplifier, on retient **1,2** comme moyenne pour tous les lots.
 
-En 2011, selon **Eurostat**, le **coût horaire de la main-d’œuvre** en France était de **34 €** en « déboursés secs ».
+En 2025, selon **Eurostat**, le **coût horaire de la main-d’œuvre** en France est de **38,7 €** en « déboursés secs ».
 
 Ce tarif inclut :
 
@@ -156,19 +156,19 @@ Ce tarif inclut :
 - **impôts sur le travail** (nets de subventions éventuelles) ;
 - etc.
 
-Pour notre exemple en **Pays de la Loire**, on retient un **prix de vente horaire moyen** de **40 €** (prix de revient + marge).
+Pour ce projet, nous partons sur une surface moyenne de **3 250 m²** (65 m² par logement) et un coût de construction d'environ **1 750 € HT/m²**, intégrant les exigences de la norme RE2020 (béton bas carbone, isolation renforcée, pompes à chaleur).
 
 **Estimation du coût direct (application des cotisations AT/MP) :**
 
 Le **coût direct** est anticipé en appliquant aux **heures de travail prévues** les **taux collectifs AT/MP** correspondant à chaque **corps d’état**.
 
-Ces taux sont appliqués sur le **salaire horaire brut**. Dans notre cas, en 2011, ce salaire moyen dans le **BTP régional** était d’environ **14 €**.
+Ces taux sont appliqués sur le **salaire horaire brut**. Le salaire moyen dans le **BTP** se situe généralement entre **12 € et 15 € brut / heure** pour la majorité des ouvriers, prenons **14 €**.
 
 La formule pour calculer le **coût direct AT/MP** par lot est :
 
 <p>&nbsp;</p>
 
-![Capture d’écran 2023-04-19 à 12.23.39.png](%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/Capture_decran_2023-04-19_a_12.23.39.png)
+![Capture d’écran 2023-04-19 à 12.23.39.png](Capture_decran_2023-04-19_a_12.23.39.png)
 
 <p>&nbsp;</p>
 
@@ -180,7 +180,7 @@ avec :
 
 - **Psc** = Part salaires + charges dans l’indice
 
-- **Pvhm** = Prix de vente horaire moyen (40 €)
+- **Pvhm** = Prix de vente horaire moyen (38,7 €)
 
 - **Sbhm** = Salaire horaire brut moyen (14 €)
 
@@ -188,25 +188,56 @@ avec :
 
 <p>&nbsp;</p>
 
-![](%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/2-31.png)
+### Simulation Projet : 50 Logements Collectifs
+
+*Budget global estimé : **5 800 000 € HT** (soit 116 000 € HT de travaux par logement)*
+
+| **Décomposition des lots** | **Montant Estimé (HT)** | **Code Risque (CTN B)** | **Taux AT/MP 2024/25** | **Coût Assurance AT/MP (€)** |
+| --- | --- | --- | --- | --- |
+| **Gros œuvre (Maçonnerie)** | 2 030 000 € | **45.2BE** | **7,31 %** | **148 393 €** |
+| VRD (Voirie & Réseaux) | 174 000 € | **45.2PB** | **4,18 %** | **7 273 €** |
+| Charpente / Bardage | 232 000 € | **45.2JD** | **8,60 %** | **19 952 €** |
+| Couverture / Étanchéité | 290 000 € | **45.2JD** | **8,60 %** | **24 940 €** |
+| Menuiseries Extérieures | 464 000 € | **45.4CE** | **6,48 %*** | **30 067 €** |
+| Cloisons / Doublage | 522 000 € | **45.4LE** | **6,48 %*** | **33 826 €** |
+| Menuiseries Intérieures | 232 000 € | **45.4LE** | **6,48 %*** | **15 034 €** |
+| Serrurerie | 174 000 € | **45.4CE** | **6,48 %*** | **11 275 €** |
+| CVC (Chauffage - Ventil.) | 580 000 € | **45.3AF** | **6,48 %** | **37 584 €** |
+| Plomberie - Sanitaire | 406 000 € | **45.3AF** | **6,48 %** | **26 309 €** |
+| Électricité (CFA/CFO) | 348 000 € | **45.3AF** | **6,48 %** | **22 550 €** |
+| Peinture / Sols souples | 290 000 € | **45.4LE** | **6,48 %*** | **18 792 €** |
+| Ascenseurs | 58 000 € | **45.3AF** | **6,48 %** | **3 758 €** |
+| **TOTAL GÉNÉRAL HT** | **5 800 000 €** |  |  | **399 753 €** |
 
 <p>&nbsp;</p>
 
-Dans ce cas d’étude, le **coût prévisionnel AT/MP** est d’environ **42 300 €**, soit **1,02 %** du montant total des lots.
+Dans ce cas d’étude, le coût prévisionnel AT/MP est d’environ **399 753 €**, soit **6,9 %** du montant total des lots.
 
 **Estimation du coût indirect :**
-
-En suivant les estimations de l’**OIT**, les **coûts indirects** seraient **quatre fois plus élevés**, soit **169 200 €**, représentant **4,08 %** du montant total.
+En suivant les estimations de l’OIT, les coûts indirects seraient quatre fois plus élevés, soit **1 599 012 €**, représentant **27,6 %** du montant total.
 
 **Bilan :**
+La somme des coûts directs et indirects est donc :
+**399 753 €** + **1 599 012 €** = **1 998 765 €6,9 %** + **27,6 %** = **34,5 %** du montant total des lots.
 
-La **somme des coûts directs et indirects** est donc :
+Dans le secteur du bâtiment, l’impact économique global des AT/MP, en additionnant coûts directs et indirects, est estimé à **34,5 %** du coût total des ouvrages.
 
-**42 300 € + 169 200 € = 211 500 €**
+<p>&nbsp;</p>
 
-**1,02 % + 4,08 % = 5,1 %** du montant total des lots
+L'application du coefficient multiplicateur de 4 (modèle OIT/Heinrich) au montant total des cotisations est une approche **pédagogique** pour illustrer l'impact *sociétal*, mais elle fausse la réalité financière d'un chantier unique.
 
-Dans le **secteur du bâtiment**, l’impact économique global des **AT/MP**, en additionnant **coûts directs** et **indirects**, est estimé à **5 %** du coût total des **ouvrages**.
+- **Le problème du ratio :** Le ratio "1€ de coût direct = 4€ de coût indirect" s'applique généralement au coût d'un **accident spécifique** (ex: un ouvrier tombe).
+    - *Direct :* Soins médicaux + Indemnités (payés par la sécu/assurance).
+    - *Indirect :* Arrêt du chantier, remplacement, retard, bris de machine, enquête, image (payés par l'entreprise).
+- **L'erreur d'échelle :** Appliquer ce ratio à **l'ensemble de la cotisation annuelle** (l'assurance) revient à supposer que l'entreprise subit des accidents majeurs en permanence. Or, la cotisation est une prime d'assurance payée *même s'il n'y a pas d'accident* cette année-là.
+
+Des études plus récentes (OPPBTP, INRS, Cramif) estiment le coût réel de la "non-prévention" de manière plus pragmatique :
+
+- **Le coût réel pour l'entreprise :** On estime souvent que le coût total des dysfonctionnements (accidents + maladies pro + défauts de qualité) tourne autour de **5 % à 10 %** du montant des travaux, et non 34 %.
+- **Le ratio Direct/Indirect moderne :** Dans le BTP moderne, pour 1 € de coût direct (Assurance), le coût indirect (Désorganisation) est souvent réévalué entre **1 et 2 €** (et non systématiquement 4).
+
+Dans le secteur du bâtiment, si l'on applique strictement le modèle de l'OIT, l’impact économique global des risques (coûts directs payés + coûts indirects subis) atteint théoriquement **34,5 %** du coût total de l'ouvrage.
+*Bien que ce chiffre illustre le poids du "risque" global, la charge financière réelle supportée par la trésorerie des entreprises se situe, selon les retours terrain, davantage entre **10 % et 15 %** (cotisations + aléas de chantier).*
 
 <p>&nbsp;</p>
 
@@ -255,7 +286,7 @@ La norme française **NF X35-109**, portant sur l’**ergonomie dans la manutent
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/Untitled.png)
+![Untitled](Untitled.png)
 
 <p>&nbsp;</p>
 
@@ -344,7 +375,7 @@ Le schéma suivant illustre qu’une **fourniture** fait l’objet d’au moins 
 
 <p>&nbsp;</p>
 
-![](%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/4-24.png)
+![](4-24.png)
 
 <p>&nbsp;</p>
 
@@ -356,7 +387,7 @@ Faute de **coordination** et de **moyens mutualisés**, les **entreprises** ont 
 
 <p>&nbsp;</p>
 
-### **🎛️ C. Rôle des décideurs : MOA, MOE, SPS – Les leviers d’une organisation plus sûre**
+### **🎛️ Rôle des décideurs : MOA, MOE, SPS – Les leviers d’une organisation plus sûre**
 
 <p>&nbsp;</p>
 
@@ -448,7 +479,7 @@ Cette méthode repose sur **quatre étapes successives**, chacune correspondant 
 
 <p>&nbsp;</p>
 
-![Untitled](%F0%9F%A6%BA%F0%9F%92%B0S%C3%A9curit%C3%A9%20au%20Travail%20et%20Performance%20%C3%89conomique%20Ga/Untitled%201.png)
+![Untitled](Untitled%201.png)
 
 <p>&nbsp;</p>
 
