@@ -74,7 +74,7 @@ Les éléments porteurs, selon leur **sensibilité à la fissuration**, sont cla
 
 <p>&nbsp;</p>
 
-![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imagea.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Toitures-terrasses%20techniques%2C%20normes%20et%20bonnes%20pr/imageB.png)
 
 <p>&nbsp;</p>
 
