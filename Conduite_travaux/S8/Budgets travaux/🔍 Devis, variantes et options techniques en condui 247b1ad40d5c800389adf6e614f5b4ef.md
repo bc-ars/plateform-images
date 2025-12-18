@@ -40,7 +40,7 @@ Sur le plan financier, cela lui permet également d’ajuster le **budget** en c
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%8D%20Devis,%20variantes%20et%20options%20techniques%20en%20condui/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%94%8D%20Devis%2C%20variantes%20et%20options%20techniques%20en%20condui/image.png)
 
 *Exemple de DQE (Source: Obat)*
 

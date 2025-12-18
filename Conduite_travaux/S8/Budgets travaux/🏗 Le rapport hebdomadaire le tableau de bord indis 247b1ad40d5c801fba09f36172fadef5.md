@@ -175,7 +175,7 @@ Les **HA** sont des barres d’acier, souvent **préfabriquées en usine** sous 
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%20Le%20rapport%20hebdomadaire%20le%20tableau%20de%20bord%20indis/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%8F%97%20Le%20rapport%20hebdomadaire%20le%20tableau%20de%20bord%20indis/image.png)
 
 *Barres HA (Source: Insa)*
 

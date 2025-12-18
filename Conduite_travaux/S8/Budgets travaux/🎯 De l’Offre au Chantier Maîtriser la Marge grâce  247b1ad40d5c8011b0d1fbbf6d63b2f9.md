@@ -41,7 +41,7 @@ Il est donc nécessaire de déduire ces charges de la **marge brute** pour déte
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-1002.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%8E%AF%20De%20l%E2%80%99Offre%20au%20Chantier%20Ma%C3%AEtriser%20la%20Marge%20gr%C3%A2ce/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -59,9 +59,8 @@ Cette marge doit être **contrôlée** tout au long du projet grâce aux **point
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%AF%20De%20l%E2%80%99Offre%20au%20Chantier%20Ma%C3%AEtriser%20la%20Marge%20gr%C3%A2ce%20/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%8E%AF%20De%20l%E2%80%99Offre%20au%20Chantier%20Ma%C3%AEtriser%20la%20Marge%20gr%C3%A2ce/image.png)
 
-![](https://api.hupso.co/uploads/img/content/image-1004.png)
 
 <p>&nbsp;</p>
 
@@ -69,7 +68,7 @@ Cette marge doit être **contrôlée** tout au long du projet grâce aux **point
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%AF%20De%20l%E2%80%99Offre%20au%20Chantier%20Ma%C3%AEtriser%20la%20Marge%20gr%C3%A2ce%20/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%8E%AF%20De%20l%E2%80%99Offre%20au%20Chantier%20Ma%C3%AEtriser%20la%20Marge%20gr%C3%A2ce/image%201.png)
 
 <p>&nbsp;</p>
 
