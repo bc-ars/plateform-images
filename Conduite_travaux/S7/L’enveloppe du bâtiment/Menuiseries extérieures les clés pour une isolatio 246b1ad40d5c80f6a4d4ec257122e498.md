@@ -125,23 +125,23 @@ Différents systèmes d’occultation existent :
 
 - **Intérieurs** : rideaux, stores ;
 - **Extérieurs** :
-    - *Volets battants - Source: Maygnan fermetures*
+- *Volets battants - Source: Maygnan fermetures*
     
-    <p>&nbsp;</p>
+<p>&nbsp;</p>
     
 ![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imageg.png)
     
-    <p>&nbsp;</p>
+<p>&nbsp;</p>
     
-    - Volets roulants (**VR**) - *Source: Maygnan fermetures*
+- Volets roulants (**VR**) - *Source: Maygnan fermetures*
     
-    <p>&nbsp;</p>
+<p>&nbsp;</p>
     
 ![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imageh.png)
     
-    <p>&nbsp;</p>
+<p>&nbsp;</p>
     
-    - **Stores** et **brise-soleil** (**BSO**) *- Source: Maygnan fermetures*
+- **Stores** et **brise-soleil** (**BSO**) *- Source: Maygnan fermetures*
     
 
 ![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S7/L%E2%80%99enveloppe%20du%20b%C3%A2timent/Menuiseries%20ext%C3%A9rieures%20les%20cl%C3%A9s%20pour%20une%20isolatio/imagei.png)
