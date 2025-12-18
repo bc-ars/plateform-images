@@ -97,7 +97,7 @@ Cela permet d’assurer une **intégration complète des coûts directs et indir
     <p>&nbsp;</p>
     
 
-![image.png](%F0%9F%93%8A%20PVHT%20Prix%20de%20Vente%20Hors%20Taxes/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%93%8A%20PVHT%20Prix%20de%20Vente%20Hors%20Taxes/image.png)
 
 *Schéma du PVHT (Source: lescoursdevente.fr)*
 

@@ -107,7 +107,7 @@ Le déboursé sec d’un **ouvrage élémentaire** se présente généralement s
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Le%20d%C3%A9bours%C3%A9%20sec%20expliqu%C3%A9%20savoir%20calculer,%20g%C3%A9rer/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%8F%97%EF%B8%8F%20Le%20d%C3%A9bours%C3%A9%20sec%20expliqu%C3%A9%20savoir%20calculer%2C%20g%C3%A9rer/image.png)
 
 <p>&nbsp;</p>
 
@@ -115,7 +115,7 @@ Le déboursé sec d’un **ouvrage élémentaire** se présente généralement s
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Le%20d%C3%A9bours%C3%A9%20sec%20expliqu%C3%A9%20savoir%20calculer,%20g%C3%A9rer/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%8F%97%EF%B8%8F%20Le%20d%C3%A9bours%C3%A9%20sec%20expliqu%C3%A9%20savoir%20calculer%2C%20g%C3%A9rer/image%201.png)
 
 <p>&nbsp;</p>
 
@@ -123,7 +123,7 @@ Le déboursé sec d’un **ouvrage élémentaire** se présente généralement s
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Le%20d%C3%A9bours%C3%A9%20sec%20expliqu%C3%A9%20savoir%20calculer,%20g%C3%A9rer/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%8F%97%EF%B8%8F%20Le%20d%C3%A9bours%C3%A9%20sec%20expliqu%C3%A9%20savoir%20calculer%2C%20g%C3%A9rer/image%202.png)
 
 <p>&nbsp;</p>
 

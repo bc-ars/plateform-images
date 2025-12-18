@@ -45,13 +45,13 @@ Il est nécessaire de maîtriser les **calculs de surfaces** et de **volumes** l
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-848.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien/imagea.png)
 
-![image.png](%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien%20/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien/image.png)
 
 ---
 
-![image.png](%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien%20/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien/image%201.png)
 
 <p>&nbsp;</p>
 
@@ -109,7 +109,7 @@ Les calculs se présentent généralement sous forme de **tableaux**. Deux forma
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien%20/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien/image%202.png)
 
 <p>&nbsp;</p>
 
@@ -121,13 +121,13 @@ La numérotation des lignes suit l’ordre **chronologique** ou celle du **C.C.T
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien%20/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien/image%203.png)
 
 ---
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien%20/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Budgets%20travaux/%F0%9F%94%8D%20De%20l%E2%80%99Avant-M%C3%A9tr%C3%A9%20au%20M%C3%A9tr%C3%A9%20Tout%20Savoir%20pour%20Bien/image%204.png)
 
 *Chiffrage (Source: Batiprix)*
 
