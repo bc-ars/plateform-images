@@ -24,7 +24,7 @@ Ce **délai** est particulièrement crucial en cas d’**arrêt maladie**, car i
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-20230511155604-1.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Management%20de%20personnel/Maitriser%20les%20absences/imagea.png)
 
 [http://Source : ameli.fr](http://Source : ameli.fr)
 
@@ -40,7 +40,7 @@ En cas de **non-information** par le **salarié**, l’**employeur** peut appliq
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-20230511155604-2.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Management%20de%20personnel/Maitriser%20les%20absences/imageb.png)
 
 [http://Source : ameli.fr](http://Source : ameli.fr)
 
@@ -112,17 +112,17 @@ Pendant ces **congés familiaux**, le **contrat** est **suspendu** et le **salar
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-20230511155604-4.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Management%20de%20personnel/Maitriser%20les%20absences/imagec.png)
 
 [http://Source ameli.fr](http://Source ameli.fr)
 
-![](https://api.hupso.co/uploads/img/content/image-20230511155604-5.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Management%20de%20personnel/Maitriser%20les%20absences/imaged.png)
 
 [http://Source ameli.fr](http://Source ameli.fr)
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-20230511155604-6.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Management%20de%20personnel/Maitriser%20les%20absences/imagee.png)
 
 <p>&nbsp;</p>
 
