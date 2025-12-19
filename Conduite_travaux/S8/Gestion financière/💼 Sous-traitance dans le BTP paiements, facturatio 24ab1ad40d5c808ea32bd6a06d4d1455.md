@@ -67,7 +67,7 @@ Pour garantir ce paiement, plusieurs dispositifs sont appliqués.
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-962.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/Sous-traitance/imagea.png)
 
 *Comparaison des modalités de paiement en marché public et privé*
 
@@ -93,7 +93,7 @@ Aucune **TVA** ne doit être appliquée par le sous-traitant réalisant des **tr
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-963.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/Sous-traitance/imageb.png)
 
 *Traitement de la TVA en sous-traitance*
 
@@ -117,7 +117,7 @@ La procédure de facturation et de paiement définie par le **Code de la command
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-964.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/Sous-traitance/imagec.png)
 
 *Schéma de transmission des factures en marché public avec paiement direct*
 
@@ -153,6 +153,9 @@ Les modalités de **facturation** et de **règlement** sont fixées dans :
 
 Dans tous les cas, un **relevé d’avancement mensuel** doit être établi, qui, après validation, donne lieu à une **facture de situation mensuelle**.
 
+<p>&nbsp;</p>
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/Sous-traitance/imaged.png)
+*Schéma de transmission des factures en marché privé*
 <p>&nbsp;</p>
 
 ## ✅ Conclusion

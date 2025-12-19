@@ -18,7 +18,7 @@ Le **compte prorata** est aussi désigné sous le nom de **gestion des dépenses
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Le%20Compte%20Prorata%20La%20Cl%C3%A9%20d%E2%80%99une%20R%C3%A9partition%20%C3%89qui/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%8F%97%EF%B8%8F%20Le%20Compte%20Prorata%20La%20Cl%C3%A9%20d%E2%80%99une%20R%C3%A9partition%20%C3%89qui/image.png)
 
 *Le compte prorata facilite la répartition des dépenses partagées entre les entreprises d'un chantier, permettant ainsi une mutualisation des coûts de fonctionnement (Source: codial.fr)*
 <p>&nbsp;</p>
