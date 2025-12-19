@@ -102,7 +102,7 @@ Les salariés doivent avoir accès à des installations :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20Droit%20Social%20et%20Organisation%20du%20Travail%20en%20BTP%20/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Management%20de%20personnel/%F0%9F%8F%97%EF%B8%8F%20Droit%20Social%20et%20Organisation%20du%20Travail%20en%20BTP/image.png)
 
 *Exemple de base vie (Source: Logemag.fr)*
 
