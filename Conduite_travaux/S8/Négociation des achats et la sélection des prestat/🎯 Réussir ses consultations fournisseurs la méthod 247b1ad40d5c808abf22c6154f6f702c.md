@@ -23,7 +23,7 @@ Ces deux approches présentent chacune des **caractéristiques spécifiques**.
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-997.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/N%C3%A9gociation%20des%20achats%20et%20la%20s%C3%A9lection%20des%20prestat/%F0%9F%8E%AF%20R%C3%A9ussir%20ses%20consultations%20fournisseurs%20la%20m%C3%A9thod/imagea.png)
 
 *Types de fournisseurs matériaux*
 
@@ -58,7 +58,7 @@ Le **besoin en matériaux** d’un chantier est décrit par un ensemble de param
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%AF%20R%C3%A9ussir%20ses%20consultations%20fournisseurs%20la%20m%C3%A9thod/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/N%C3%A9gociation%20des%20achats%20et%20la%20s%C3%A9lection%20des%20prestat/%F0%9F%8E%AF%20R%C3%A9ussir%20ses%20consultations%20fournisseurs%20la%20m%C3%A9thod/image.png)
 
 *Caractéristiques à prendre en compte pour le besoin matériel (Source: cea.fr)*
 
@@ -109,7 +109,7 @@ La consultation se fait ensuite sur la base d’un **dossier de consultation** r
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8E%AF%20R%C3%A9ussir%20ses%20consultations%20fournisseurs%20la%20m%C3%A9thod/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/N%C3%A9gociation%20des%20achats%20et%20la%20s%C3%A9lection%20des%20prestat/%F0%9F%8E%AF%20R%C3%A9ussir%20ses%20consultations%20fournisseurs%20la%20m%C3%A9thod/image%201.png)
 
 *Éléments à communiquer au fournisseur dans le cadre de la consultation (Source: Smartsheet)*
 
