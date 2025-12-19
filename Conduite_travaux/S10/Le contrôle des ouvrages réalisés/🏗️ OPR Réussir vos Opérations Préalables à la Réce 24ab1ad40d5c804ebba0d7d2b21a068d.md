@@ -48,7 +48,7 @@ Elles résultent d’un processus en 4 étapes :
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-694.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S10/Le%20contr%C3%B4le%20des%20ouvrages%20r%C3%A9alis%C3%A9s/OPR/image.png)
 
 <p>&nbsp;</p>
 
