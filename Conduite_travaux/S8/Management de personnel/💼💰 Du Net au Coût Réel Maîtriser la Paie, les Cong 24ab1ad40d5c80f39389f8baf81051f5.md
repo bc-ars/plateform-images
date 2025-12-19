@@ -26,7 +26,7 @@ La première section d’un **bulletin de salaire** rassemble les **données obl
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-291.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Management%20de%20personnel/Du%20net%20au%20cout%20reel/imagea.png)
 
 <p>&nbsp;</p>
 
@@ -39,7 +39,7 @@ La première section d’un **bulletin de salaire** rassemble les **données obl
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-292.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Management%20de%20personnel/Du%20net%20au%20cout%20reel/imageb.png)
 
 <p>&nbsp;</p>
 
@@ -66,7 +66,7 @@ Pour les **cadres**, la cotisation **APEC** figure également.
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-294.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Management%20de%20personnel/Du%20net%20au%20cout%20reel/imagec.png)
 
 <p>&nbsp;</p>
 
@@ -90,6 +90,11 @@ Le **coût réel** d’un salarié ne se limite pas à son **net perçu** ! Il e
 **En moyenne, il représente environ 1,8× le net mensuel.**
 
 Ainsi, un **maçon** payé **1800 € net** avant impôt revient réellement à **3250 € / mois** à l’employeur.
+
+<p>&nbsp;</p>
+
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Management%20de%20personnel/Du%20net%20au%20cout%20reel/imaged.png)
+
 
 <p>&nbsp;</p>
 
