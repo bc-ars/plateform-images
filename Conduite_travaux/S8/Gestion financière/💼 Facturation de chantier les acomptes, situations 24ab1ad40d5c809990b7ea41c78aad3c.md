@@ -22,7 +22,7 @@ Dans le cadre d’un **contrat de travaux**, trois catégories de factures peuve
 
 <p>&nbsp;</p>
 
-![](https://api.hupso.co/uploads/img/content/image-958.png)
+![](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%92%BC%20Facturation%20de%20chantier%20les%20acomptes%2C%20situations/imagea.png)
 
 *Devis, facture situation et facture finale*
 
@@ -47,7 +47,7 @@ Après validation, l’entreprise peut émettre une facture de situation dont le
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%92%BC%20Facturation%20de%20chantier%20les%20acomptes,%20situations/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%92%BC%20Facturation%20de%20chantier%20les%20acomptes%2C%20situations/image.png)
 
 *Les factures de situation de travaux (Source: BatiScript)*
 
@@ -59,7 +59,7 @@ La procédure à suivre est définie dans le **CCAP** (**Cahier des Clauses Admi
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%92%BC%20Facturation%20de%20chantier%20les%20acomptes,%20situations/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%92%BC%20Facturation%20de%20chantier%20les%20acomptes%2C%20situations/image%201.png)
 
 *Exemple d’extrait du CCAP relatif aux règlement des comptes*
 
@@ -94,7 +94,7 @@ Les délais habituels rencontrés sont de 30 ou 45 jours.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%92%BC%20Facturation%20de%20chantier%20les%20acomptes,%20situations/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%92%BC%20Facturation%20de%20chantier%20les%20acomptes%2C%20situations/image%202.png)
 
 *Modèle de facture de situation (Source: Zervant)*
 

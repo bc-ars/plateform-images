@@ -140,7 +140,7 @@ Pour cela, on **évalue l’avancement d’un ouvrage** et on applique un **pour
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper,%20Suivr/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper%2C%20Suivr/image.png)
 
 <p>&nbsp;</p>
 
@@ -158,7 +158,7 @@ En **gros-œuvre**, cela concerne principalement :
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper,%20Suivr/image%201.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper%2C%20Suivr/image%201.png)
 
 <p>&nbsp;</p>
 
@@ -178,7 +178,7 @@ Le **conducteur** peut donc lister, quantifier et consigner les **quantités ré
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper,%20Suivr/image%202.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper%2C%20Suivr/image%202.png)
 
 <p>&nbsp;</p>
 
@@ -190,11 +190,11 @@ Le **pointage de main-d’œuvre** est effectué par le **chef de chantier** et 
 
 Chaque semaine, le **conducteur** ou le **chef de chantier** consolide ces données pour les **attribuer aux travaux réalisés**.
 
-*Exemple pointage Semaine 02:*
+*Exemple pointage Semaine:*
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper,%20Suivr/image%203.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper%2C%20Suivr/image%203.png)
 
 <p>&nbsp;</p>
 
@@ -227,7 +227,7 @@ Il faut alors **analyser la réalité du chantier** à partir de ces données.
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper,%20Suivr/image%204.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper%2C%20Suivr/image%204.png)
 
 <p>&nbsp;</p>
 
@@ -273,7 +273,7 @@ Par exemple, si une tâche dure **2 mois** et que nous avons **consommé 50 % d�
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper,%20Suivr/image%205.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper%2C%20Suivr/image%205.png)
 
 <p>&nbsp;</p>
 
@@ -291,7 +291,7 @@ Par exemple, si une tâche dure **2 mois** et qu’au mois **M** nous avons **d�
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper,%20Suivr/image%206.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper%2C%20Suivr/image%206.png)
 
 <p>&nbsp;</p>
 
@@ -307,7 +307,7 @@ En appliquant les **prix unitaires** (THM, prix du béton, etc.), on obtient alo
 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper,%20Suivr/image%207.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S8/Gestion%20financi%C3%A8re/%F0%9F%9A%A7%F0%9F%92%B0%20Gestion%20Financi%C3%A8re%20de%20Chantier%20Anticiper%2C%20Suivr/image%207.png)
 
 <p>&nbsp;</p>
 
