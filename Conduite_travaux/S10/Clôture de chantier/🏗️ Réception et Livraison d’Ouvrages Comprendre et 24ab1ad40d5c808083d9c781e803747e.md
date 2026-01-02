@@ -116,7 +116,7 @@ Elle constitue également pour le Maître d’Ouvrage le point de départ des d�
 ### **Tableau comparatif** entre **réception**, **livraison** et les **trois formes de réception**, 
 <p>&nbsp;</p>
 
-![image.png](%F0%9F%8F%97%EF%B8%8F%20R%C3%A9ception%20et%20Livraison%20d%E2%80%99Ouvrages%20Comprendre%20et/image.png)
+![image.png](https://raw.githubusercontent.com/bc-ars/plateform-images/refs/heads/main/Conduite_travaux/S10/Cl%C3%B4ture%20de%20chantier/%F0%9F%8F%97%EF%B8%8F%20R%C3%A9ception%20et%20Livraison%20d%E2%80%99Ouvrages%20Comprendre%20et/image.png)
 
 <p>&nbsp;</p>
 
